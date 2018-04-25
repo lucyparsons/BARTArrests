@@ -1,0 +1,1313 @@
+case_number,date_of_arrest,sex,race,dob,location,crimes
+1601-0011,01/01/16 01:05,M,O,03/22/1986,"M16/EMS - Embarcadero Station, 298 Market STREET, San Francisco, CA",PC; Battery On Transportation Personnel/Passenger | PC 243.3
+1601-0023,01/01/16 02:28,M,W,01/04/1991,"A10/LMS - Lake Merritt Station, 800 Madison STREET, Oakland, CA 94608",PC 243 (e)(1) | PC; Battery: spouse/ex spouse/ date etc
+1601-0037,01/01/16 03:15,F,W,10/03/1989,"A10/LMS - Lake Merritt Station, 800 Madison STREET, Oakland, CA 94608",PC 243.3 | PC; Battery With Injury:Transport Personnel/Passenger
+1601-0062,01/01/16 05:19,F,O,12/19/1977,"S 35Th St Cutting BI, Richmond, CA",VC 23152 (A) | VC 23152 (B) | VC; Dui Alcohol/Drugs | VC; Dui Alcohol/0.08 Percent
+1601-0129,01/01/16 17:03,M,B,04/26/1953,"M10/OWS - West Oakland Station, 1451 7th STREET. Oakland, CA",BPD TT Adult Arrest Repo
+1601-0125,01/01/16 17:05,M,B,11/17/1959,"A20/FVS - Fruitvale Station, 3401 East 12th STREET, Oakland, CA",PC 488 | PC O/S War F | PC; Petty Theft | PC; Outside Warrant F
+1601-0313,01/02/16 18:41,F,B,09/21/1992,"M30/PPS - Powell St. Station, 899 Market STREET, San Francisco, CA 94102","PC 148 (A)(1) | PC 647 (f) | PC; Willfully Resists, Delays, or Obstructs Public, Peace Of | PC; Disorderly Conduct:Intoxicated in Public"
+1601-0327,01/02/16 21:04,M,B,11/22/1953,"R20/BES - Berkeley Station, 2160 Shattuck AVENUE, Berkeley, CA 94608","PC 148 (A)(1) | PC 602.1(A) | PC 640 (d)(4) | PC; Willfully Resists, Delays, or Obstructs Public, Peace Of | PC; Trespass:Obstruct/Etc Public Business Operation/Etc | PC; Public Transportation: Blocking Free Movement"
+1601-0380,01/03/16 12:41,M,W,09/16/1960,"R50/CNS - El Cerrito Del Norte Station, 6400 Cutting BI, El Cerrito, CA 94530",
+1601-0407,01/03/16 16:44,M,B,02/03/1989,"A30/COS - Coliseum Station, 7200 San Leandro STREET, Oakland, CA 94608",BPD TT Adult Arrest Repo
+1606-1162,06/19/16 21:00,M,H,04/03/1990,"96 Hegenberger Rd, OAKLAND, CA 94621",PC 647 (f)
+1606-1167,06/20/16 00:32,M,B,08/22/1980,"M30/PPS - Powell St. Station, 899 Market St, SAN FRANCISCO, CA 94103",PC 148.9(A)
+1606-1237,06/21/16 05:35,M,B,06/23/1984,"Union unknown, 10 Union Square, UNION CITY, CA 94587",PC O/S War M
+1606-1240,06/21/16 07:10,M,H,06/17/1994,"A20/FVS - Fruitvale Station, 3401 12th St, OAKLAND, CA 94601",PC O/S War F | VC 14601.5(A)
+1606-1241,06/21/16 07:35,F,B,03/03/1991,"15242 Hesparian Blvd, San Leandro, CA 94578",PC 243 (e)(1)
+1606-1256,06/21/16 14:05,M,H,01/23/1985,"R50/CNS - El Cerrito Del Norte Station, 6400 Cutting Blvd, El Cerrito, CA 94530",PC 21310
+1606-1276,06/21/16 18:50,M,B,07/19/1968,"C80/PBS - Pittsburg Station, 1700 W Leland Rd, PITTSBURG, CA 94565",PC 1203.2 | BPD TT Adult Arrest Repo
+1606-1302,06/22/16 06:03,F,B,05/30/1966,"M16/EMS - Embarcadero Station, 298 Market St, SAN FRANCISCO, CA 94111",PC 243 (B) | PC 69
+1606-1324,06/22/16 10:21,M,W,04/25/1986,"A50/BFS - Bay Fair Station, 15242 Hesperian Blvd. SAN LEANDRO. CA 94578",PC O/S War M
+1606-1326,06/22/16 11:56,M,O,01/13/1989,"A10/LMS - Lake Merritt Station, 800 Madison St, OAKLAND, CA 94607",PC 148 (A)(1) | PC 243 (B)
+1606-1431,06/22/16 21:31,M,W,10/11/1995,"C40/WCS - Walnut Creek Station, 200 Ygnacio Valley Rd, WALNUT CREEK, CA 94596",PC 488
+1606-1372,06/23/16 06:00,M,W,04/06/1994,"C60/CDS - Concord Station, 1451 Oakland Ave, Concord, CA 94518",PC 466
+1606-1415,06/23/16 17:21,M,B,04/04/1977,"C80/PBS - Pittsburg Station, 1700 W Leland Rd, BAY POINT, CA 94565",PC 148 (A)(1) | PC 647 (F) | BPD TT Adult Arrest Repo
+1606-1414,06/23/16 17:50,F,B,,"M30/PPS - Powell St. Station, 899 MARKET ST, San Francisco, CA 94103",
+1606-1432,06/23/16 21:49,F,W,07/17/1986,"M20/MOS - Montgomery St. Station, 598 MARKET ST, San Francisco, CA 94104",PC 647 (F)
+1606-1440,06/24/16 02:36,M,B,02/22/1969,"601 E 8th St, Oakland, CA 94606",PC 487 (A)
+1606-1445,06/24/16 06:23,M,B,09/25/1992,"C80/PBS - Pittsburg Station, 1700 W Leland Rd, BAY POINT, CA 94565",PC 148 (A)(1) | PC 640 (c)(1)
+1606-1448,06/24/16 07:25,M,B,02/01/1962,"W40/M unknown, 200 N Rollins Rd, Millbrae, CA 94030",HS 11364 (A) | PC 243.35 (A)
+1606-1456,06/24/16 11:40,M,B,06/23/1957,"1700 West Lealand, Pittsburg, CA 94565",PC 647 (F) | BPD TT Adult Arrest Repo
+1606-1478,06/24/16 16:36,M,B,03/02/1992,"C80/PBS - Pittsburg Station, 1700 W Leland Rd, BAY POINT, CA 94565",PC 148.9 (A)
+1606-1486,06/24/16 18:04,F,B,07/06/1987,"C40/WCS - Walnut Creek Station, 200 Ygnacio Valley Rd, WALNUT CREEK, CA 94596",
+1606-1499,06/24/16 22:37,M,B,08/31/1990,"L30/EDS - Dublin/Pleasanton, 5801 OWENS DR, Pleasanton, CA 94588",PC 243.35 (A)
+1606-1514,06/25/16 08:52,M,B,06/10/1960,"R60/RIS - Richmond Station, 1700 Nevin Ave, RICHMOND, CA 94801",PC 290.011 (A)
+1606-1515,06/25/16 08:55,M,H,02/28/1982,"A20/FVS - Fruitvale Station, 3401 12th St, OAKLAND, CA 94601",HS 11364 (A)
+1606-1523,06/25/16 11:07,M,B,05/19/1964,"K30/MAS - MacArthur Station, 550 40th St, OAKLAND, CA 94609",PC 647 (F)
+1606-1531,06/25/16 15:20,M,B,09/22/1977,"R50/CNS - El Cerrito Del Norte Station, 6400 Cutting Blvd, EL Cerrito, CA 94530",BPD TT Adult Arrest Repo
+1606-1532,06/25/16 15:31,M,B,11/08/1970,"C80/PBS - Pittsburg Station, 1700 Leland Rd, BAY POINT, CA 94565",PC 166 (A)(4) | PC 422 (A)
+1606-1534,06/25/16 16:10,M,B,01/13/1973,"R50/CNS - El Cerrito Del Norte Station, 6400 CUTTING BLVD, El Cerrito, CA 94530",
+1606-1563,06/25/16 21:49,M,A,12/22/1990,"A90/FMS - Fremont Station, 2000 Bart Way, FREMONT, CA 94536",PC 148 (A)(1) | PC 148.9 (A)
+1606-1585,06/26/16 12:21,M,W,12/03/1985,"C70/CMS - North Concord Station, 3700 PORT CHICAGO HWY, CA 94519",PC 647 (F)
+1606-1597,06/26/16 14:58,M,W,03/21/1979,"R50/CNS - El Cerrito Del Norte Station, 6400 Cutting Blvd, EL CERRITO, CA 94530",
+1606-1617,06/26/16 18:45,M,H,01/09/1979,"R20/BES - Berkeley Station, 2160 Shattuck Ave, BERKELEY, CA 94704",PC 647 (F) | BPD TT Adult Arrest Repo
+1606-1622,06/26/16 20:05,M,B,03/16/1963,"M40/CCS - Civic Center Station, 1150 Market St San Francisco Ca, San Francisco, CA 94103",PC 21310
+1606-1629,06/26/16 21:30,M,W,08/30/1957,"K30/MAS - MacArthur Station, 550 40th St, OAKLAND, CA 94609",PC 148.9 (A) | PC 290 (B)
+1606-1627,06/26/16 21:41,M,O,10/10/1997,"C50/PHS - Pleasant Hill Station, 1365 Treat Blvd, Walnut Creek, CA 94597","C50/PHS - Pleasant Hill Station, 1365 Treat Blvd, Walnut Creek, CA 94597 | PC 640 (D)(3)"
+1606-1665,06/27/16 08:23,M,B,04/07/1995,"A20/FVS - Fruitvale Station, 3401 12TH ST, OAKLAND, CA 94601",
+1606-1675,06/27/16 10:25,M,B,11/17/1994,"C60/CDS - Concord Station, 1451 Oakland Ave, CA 94520",
+1606-1697,06/27/16 18:40,M,B,05/14/1948,"M30/PPS - Powell St. Station, 899 MARKET ST, San Francisco, CA 94103",PC 369 I(B) | BPD TT Adult Arrest Repo
+1606-1724,06/28/16 00:00,M,W,01/13/1993,"M30/PPS - Powell St. Station, 899 Market St, SAN FRANCISCO, CA 94103",PC 21310 | PC 417 (A)(1)
+1606-1800,06/29/16 10:22,M,H,05/20/1981,"R20/BES - Berkeley Station, 2160 Shattuck Ave, BERKELEY, CA 94704",
+1606-1808,06/29/16 12:30,M,W,01/26/1964,"K30/MAS - MacArthur Station, 550 40TH ST, OAKLAND, CA 94609",HS 11364 (A)
+1606-1813,06/29/16 14:35,M,B,07/10/1989,"INTERSECTION OF MACDONALD AVE AND 20TH ST, RICHMOND, CA 94801",PC 148 (D) | PC 240 | PC 243 (A) | PC 243 (B) | PC 69
+1606-1875,06/30/16 09:01,M,B,04/25/1968,"R50/CNS - El Cerrito Del Norte Station, 6400 Cutting Blvd, EL CERRITO, CA 94530",PC 647 (F)
+1606-1885,06/30/16 11:04,M,H,02/02/1979,"M50/SSS - 16th St. Station, 2000 MISSION ST, SAN FRANCISCO, CA 94110",PC 978.5 | BPD TT Adult Arrest Repo
+1606-1892,06/30/16 14:25,M,B,03/30/1990,"A30/COS - Coliseum Station, 7200 San Leandro St, OAKLAND, CA 94621",PC 594 (B)(1) | PC 647 (F)
+1606-1901,06/30/16 18:13,M,B,09/25/1978,"A60/HAS - Hayward Station, 699 B St, HAYWARD, CA 94541",PC 459 | PC 466 | PC 496 (A)
+1607-0042,07/01/16 15:30,M,H,05/24/1981,"R50/CNS - El Cerrito Del Norte Station, 6400 Cutting BLVD, EI Cerrito, CA Not Applica",PC 978.5
+1607-0050,07/01/16 17:36,M,F,10/16/1995,"M90/DCS - Daly City Station, 500 John Daly Blvd, DALY CITY, CA 94014",
+1607-0059,07/01/16 19:11,M,W,01/21/1977,"A30/COS - Coliseum Station, 7200 San Leandro Street, Oakland, CA 94605",PC 417.4 | PC 647 (F)
+1607-1395,07/01/16 21:53,M,W,09/20/1958,"R40/CPS - El Cerrito Plaza Station, 6699 Fairmount Ave, EL CERRITO, CA 94530",PC 647 (F) | BPD TT Adult Arrest Repo
+1607-0070,07/01/16 22:37,F,W,07/04/1964,"R20/BES - Berkeley Station, 2160 Shattuck Ave, BERKELEY, CA 94704",PC 148 (A)(1) | PC 647 (F)
+1607-0068,07/01/16 23:29,M,B,06/01/1978,"M30/PPS - Powell St. Station, 899 Market St, SAN FRANCISCO, CA 94103",PC 640 (D)(1)
+1607-0093,07/02/16 15:19,M,B,01/03/1967,"550 40th Street, Oakland, CA 94609",HS 11350 (A) | HS 11377 (A)
+1607-0099,07/02/16 18:05,F,B,06/21/1951,"C60/CDS - Concord Station, 1451 Oakland Ave, Concord, CA 94520",
+1607-0115,07/02/16 22:11,M,B,11/08/1970,"K10/TSS - 12th St. Station, 1247 Broadway, Oakland, CA 94612",HS 11377 (A) | PC 166 (A)(4)
+1607-0156,07/03/16 20:05,M,B,03/25/1969,"C60/CDS - Concord Station, 1451 Oakland Ave, Concord, CA 94518",PC 148 (A)(1) | PC 647 (F) | BPD TT Adult Arrest Repo
+1607-0175,07/04/16 09:36,M,O,08/20/1970,"A30/COS - Coliseum Station, 7200 San Leandro St, OAKLAND, CA 94621",
+1607-0196,07/04/16 15:10,F,W,12/18/1996,"C40/WCS - Walnut Creek Station, 200 Ygnacio Valley Rd, WALNUT CREEK, CA 94596",PC 490
+1607-0216,07/05/16 05:52,M,B,12/30/1983,"1245 Broadway, OAKLAND, CA 94612",
+1607-0235,07/05/16 08:40,M,O,01/03/1956,"1245 Broadway, OAKLAND, CA 94612",PC 979
+1607-0237,07/05/16 08:41,M,B,12/23/1993,"M30/PPS - Powell St. Station, 899 Market St, SAN FRANCISCO, CA 94103",
+1607-0245,07/05/16 10:36,M,W,07/24/1956,"A20/FVS - Fruitvale Station, 3401 12th St, OAKLAND, CA 94601",PC 3056
+1607-0265,07/05/16 17:29,M,B,03/25/1991,"K20/NSS - 19th St. Station, 1900 Broadway, OAKLAND, CA 94612",PC 290.01 | BPD TT Adult Arrest Repo
+1601-2780,01/20/16 17:58,M,B,07/26/1978,"A20/FVS - Fruitvale Station, 3401 E 12th STREET, Oakland, CA",PC 640 (c)(1) | PC O/S War F | PC; Public Transportation: Evade Payment of Fare | PC; Outside Warrant F
+1601-2815,01/22/16 06:39,M,B,04/01/1958,"C40/WCS - Walnut Creek Station, 200 Ygnacio Valley ROAD, Walnut Creek, CA 94596",FTA: PC; Contempt of Court | FTA: PC; Disturb The Peace
+1601-2816,01/22/16 07:22,M,B,06/18/1967,"M16/EMS - Embarcadero Station, 298 Market STREET, San Francisco, CA",PC 166 (a)(4) | PC; Contempt of Court
+1601-2829,01/22/16 18:32,M,W,10/14/1981,"A90/FMS - Fremont Station, 2000 Bart Wy, Fremont, CA 94536","BP 25620 (a) | PC 148 (A)(1) | PC 243 (B) | PC 640 (c)(1) | BP; Open Container | PC; Willfully Resists, Delays, or Obstructs Public, Peace Of | PC; Battery On Peace Officer/Emergency Personnel/Etc | PC; Public Transportation: Evade Payment of Fare"
+1601-2834,01/22/16 21:35,M,B,11/24/1992,"A20/FVS - Fruitvale Station, 3401 East 12th STREET, Oakland, CA 94604-2688",PC 166 (a) (4) | PC; Contempt of Court
+1601-2839,01/23/16 00:03,M,B,03/21/1967,"A20/FVS - Fruitvale Station, 3401 E 12th STREET, Oakland, CA 94608",BPD TT Adult Arrest Repo
+1601-2846,01/23/16 08:12,M,W,08/18/1956,"M16/EMS - Embarcadero Station, 298 Market STREET, San Francisco, CA",PC 148.9(A) | PC 640 (d)(4) | PC; False Identification To Peace Officer | PC; Public Transportation: Blocking Free Movement
+1601-2878,01/24/16 19:15,F,H,10/05/1976,"K10/TSS - 12th St. Station, 1247 Broadway, Oakland, CA",PC 243.3 | PC; Battery With Injury: Transport Personnel/Passenger
+1601-2868,01/24/16 23:19,M,W,12/12/1956,"M10/OWS - West Oakland Station, 1451 7th STREET, Oakland, CA","PC 148 (A)(1) | PC 647 (f) | PC; Willfully Resists, Delays, or Obstructs Public, Peace Of | PC; Disorderly Conduct:Intoxicated in Public"
+1601-2890,01/25/16 12:38,M,B,11/08/1982,"K10/TSS - 12th St. Station, 1247 Broadway, Oakland, CA 94608",HS 11350 (A) | HS 11359 | PC 1203.2 | PC 640 (c)(1) | HS; Possess Narcotic Controlled Substance | HS; Possess Marijuana/Hashish For Sale | PC; Violation of Probation | PC; Public Transportation: Evade Payment of Fare
+1601-2892,01/25/16 16:36,M,B,02/13/1986,"R40/CPS - El Cerrito Plaza Station, 6699 Fairmount, El Cerrito, CA 94604-2688","BP 25620 (a) | PC 1203.2 | PC 148 (A)(1) | BP; Open Container | PC; Violation of Probation | PC; Willfully Resists, Delays, or Obstructs Public, Peace Of"
+1601-2900,01/26/16 01:17,M,B,05/19/1994,"R20/BES - Berkeley Station, 2160 Shattuck AVENUE, Berkeley, CA 94608",PC O/S War F | PC; Outside Warrant F | BPD TT Adult Arrest Repo
+1607-0311,07/06/16 08:08,M,B,09/25/1966,"A10/LMS - Lake Merritt Station, 800 Madison St, OAKLAND, CA 94607",PC 979
+1607-0338,07/06/16 15:15,M,O,01/11/1974,"M16/EMS - Embarcadero Station, 298 Market St, SAN FRANCISCO, CA 94111",PC 166 (A)(4)
+1607-0378,07/07/16 09:51,M,W,06/04/1996,"M10/OWS - West Oakland Station, 1451 7th St, OAKLAND, CA 94607",HS 11364 (A)
+1607-0383,07/07/16 10:45,M,,05/03/1987,"M40/CCS - Civic Center Station, 1150 Market St, SAN FRANCISCO, CA 94102",HS 11350 (A) | HS 11364 (A)
+1607-0396,07/07/16 13:29,M,W,11/19/1974,"M90/DCS - Daly City Station, 500 John Daly Blvd, DALY CITY, CA 94014",
+1607-0407,07/07/16 18:27,M,U,09/20/1961,"L30/EDS - Dublin/Pleasanton, 5801 Owens Dr, PLEASANTON, CA 94588",VC 14601.1 (A) | BPD TT Adult Arrest Repo
+1607-0430,07/08/16 08:02,M,B,12/23/1990,"R50/CNS - El Cerrito Del Norte Station, 6400 CUTTING BLVD, El Cerrito, CA 94530",PC 166 (A)(4)
+1607-0437,07/08/16 08:40,M,B,02/01/1962,"M20/MOS - Montgomery St. Station, 598 Market St, SAN FRANCISCO, CA 94105",PC 243.35 (A)
+1607-0439,07/08/16 11:32,M,B,09/08/1996,"A30/COS - Coliseum Station, 7200 San Leandro St, OAKLAND, CA 94621",
+1607-0445,07/08/16 14:01,M,B,06/12/1962,"A90/FMS - Fremont Station, 2000 BART WAY, FREMONT, CA 94536",PC 243.3 | PC 647 (F)
+1607-0449,07/08/16 16:00,F,W,11/02/1989,"C60/CDS - Concord Station, 1451 Oakland Ave, Concord, CA 94518",PC 647 (E)
+1607-0449,07/08/16 16:00,M,H,08/07/1990,"C60/CDS - Concord Station, 1451 Oakland Ave, Concord, CA 94518",
+1607-0477,07/09/16 06:58,M,B,07/27/1990,"C80/PBS - Pittsburg Station, 1700 W Leland Rd, PITTSBURG, CA 94565",BPD TT Adult Arrest Repo
+1607-0482,07/09/16 08:45,M,B,10/30/1989,"A60/HAS - Hayward Station, 699 B St, HAYWARD, CA 94541",PC 243.3
+1607-0484,07/09/16 09:57,M,B,02/07/1967,"A10/LMS - Lake Merritt Station, 800 MADISON ST, OAKLAND, CA 94607",HS 11364 (A) | HS 11377 (A) | PC 314.1 | PC 4573.5
+1607-0498,07/09/16 16:57,M,W,03/14/1969,"R10/AHS - Ashby Station, 3100 Adeline St, BERKELEY, CA 94703","R10/AHS - Ashby Station, 3100 Adeline St, BERKELEY, CA 94703"
+1607-0506,07/09/16 22:03,M,B,05/14/1948,"M40/CCS - Civic Center Station, 1150 Market St, SAN FRANCISCO, CA 94102",PC 488
+1607-0508,07/10/16 00:29,M,H,01/20/1984,"A60/HAS - Hayward Station, 699 B St, HAYWARD, CA 94541",PC 166 (A)(4)
+1607-0510,07/10/16 00:48,M,B,11/01/1990,"K20/NSS - 19th St. Station, 2193 Hillcrest Ave, ANTIOCH, CA 94531",VC 23152 (A) | BPD TT Adult Arrest Repo
+1607-0534,07/10/16 19:45,M,B,04/21/1993,"C80/PBS - Pittsburg Station, 1700 W Leland Rd, Pittsburg, CA 94565",PC 647.6 (A)(1)
+1607-0557,07/11/16 11:22,M,B,11/18/1987,"A50/BFS - Bay Fair Station, 15242 Hesperian Blvd., San Leandro, CA 94577",
+1607-0570,07/11/16 16:40,M,A,04/10/1989,"R10/AHS - Ashby Station, 3100 Adeline St, BERKELEY, CA 94703","R10/AHS - Ashby Station, 3100 Adeline St, BERKELEY, CA 94703 | PC 417 (A)(1) | PC 422 (A) | PC 452 (D)"
+1607-0582,07/11/16 19:28,M,A,02/26/1962,"A40/SLS - San Leandro Station, 1401 San Leandro Blvd, SAN LEANDRO, CA 94577",PC 647 (F)
+1607-0598,07/12/16 08:19,M,W,11/19/1967,"M40/CCS - Civic Center Station, 1150 Market St, SAN FRANCISCO, CA 94102",
+1607-0608,07/12/16 12:15,M,B,07/21/1995,"R50/C unknown, 6400 Cutting Blvd, EL CERRITO, CA 94530",PC 243.35 (A) | BPD TT Adult Arrest Repo
+1607-0633,07/12/16 18:50,M,W,04/06/1984,"C80/PBS - Pittsburg Station, 1700 W. Leland Road, Pittsburg, CA 94565",PC 640 (D)(1)
+1607-0639,07/12/16 23:14,M,B,08/21/1996,"555 40th St, OAKLAND, CA 94609",PC 243 (E)(1)
+1607-0656,07/13/16 09:32,M,W,06/13/1979,"M20/MOS - Montgomery St. Station, 598 Market St, SAN FRANCISCO, CA 94105",
+1607-0714,07/14/16 17:02,M,W,01/04/1956,"C20/ORS - Orinda Station, 11 Camino Pablo, ORINDA, CA 94563",PC 647 (F)
+1607-0720,07/14/16 19:16,M,W,04/17/1968,"1 TRAIN INCIDENT, SAN FRANCISCO, CA 94121",HS 11377 (A) | HS 11379 (A) | PC 25400 (A)(1) | PC 29815 (A) | PC 29825 (B)
+1607-0729,07/14/16 23:11,F,W,08/17/1972,"C60/CDS - Concord Station, 1451 Oakland Ave, CA 94518",PC 647 (F) | BPD TT Adult Arrest Repo
+1607-0733,07/15/16 05:00,M,W,02/20/1974,"M2O/MOS - Montgomery St. Station, 598 MARKET ST, SAN FRANCISCO, CA 94105",PC 369 |(B)
+1607-0765,07/15/16 21:14,M,B,11/13/1965,"C50/PHS - Pleasant Hill Station, 1365 Treat Blvd, CA 94597","C50/PHS - Pleasant Hill Station, 1365 Treat Blvd, CA 94597"
+1607-0771,07/16/16 00:40,M,W,12/14/1969,"C80/PBS - Pittsburg Station, 1700 W Leland Rd, Pittsburg, CA 94565",PC 647 (F)
+1607-0793,07/16/16 14:44,M,B,09/09/1975,"C20/ORS - Orinda Station, 11 CAMINO PABLO, Orinda, CA 94563",PC 647 (F)
+1607-0795,07/16/16 17:01,M,H,11/20/1970,"M70/GPS - Glen Park Station, 2901 DIAMOND ST, San Francisco, CA 94131",PC 647 (F)
+1607-0817,07/17/16 00:00,M,B,12/31/1960,"M40/CCS - Civic Center Station, 1150 Market St, SAN FRANCISCO, CA 94102",PC 369 |(B)
+1607-0820,07/17/16 11:30,M,B,06/15/1971,"R10/AHS - Ashby Station, 3100 Adeline St, BERKELEY, CA 94703","R10/AHS - Ashby Station, 3100 Adeline St, BERKELEY, CA 94703 | BPD TT Adult Arrest Repo"
+1607-0811,07/17/16 12:55,M,B,11/14/1989,"R60/RIS - Richmond Station, 1700 Nevin Av, RICHMOND, CA",
+1607-0827,07/17/16 15:51,M,B,02/14/1976,"C80/PBS - Pittsburg Station, 1700 W Leland Rd, Pittsburg, CA 94565",
+1607-0833,07/17/16 18:57,M,B,12/27/1991,"A40/SLS - San Leandro Station, 1401 San Leandro Blvd, SAN LEANDRO, CA 94577",PC 148 (A)(1) | PC 148.9 (A) | PC 487 (C)
+1607-0848,07/18/16 07:45,M,O,08/29/1972,"M20/MOS - Montgomery St. Station, 598 Market St, SAN FRANCISCO, CA 94105",PC 978.5
+1607-0857,07/18/16 12:14,M,B,07/07/1988,"K10/TSS - 12th St/Oakland Station, 1245 Broadway, OAKLAND, CA 94612",PC 166 (A)(4)
+1707-0918,07/18/16 22:44,M,O,07/16/1991,"L30/EDS - Dublin/Pleasanton, 5801 Owens Dr, PLEASANTON, CA 94588",PC 466 | BPD TT Adult Arrest Repo
+1607-0888,07/19/16 05:32,F,H,12/13/1989,"M10/OWS - West Oakland Station, 1451 7th St, OAKLAND, CA 94607",PC 243 (E)(1)
+1607-0892,07/19/16 07:38,M,B,07/18/1955,"M20/MOS - Montgomery St. Station, 598 MARKET ST, SAN FRANCISCO, CA 94105",
+1607-0901,07/19/16 14:04,M,B,01/01/1946,"A60/HAS - Hayward Station, 699 B St, HAYWARD, CA 94541",PC 243.35 (A)
+1607-0919,07/19/16 18:40,M,B,01/23/1961,"M30/PPS - Powell St. Station, 899 MARKET ST, San Francisco, CA 94103",PC 602.7
+1607-0921,07/19/16 19:15,F,O,12/17/1992,"A10/LMS - Lake Merritt Station, 1 Train Incident, SAN FRANCISCO, CA 94121",PC 243.3 | PC 594 (B)(2)(A
+1607-0934,07/19/16 21:08,M,W,04/01/1980,"W30/SBS - San Bruno Station, 1045 Huntington Ave E, SAN BRUNO, CA 94066",PC 647 (F)
+1607-0939,07/20/16 01:16,M,B,03/05/1991,"A90/FMS - Fremont Station, 2000 BART WAY, FREMONT, CA 94536",PC 647 (F) | BPD TT Adult Arrest Repo
+1607-0943,07/20/16 06:46,M,B,09/12/1993,"45 unknown, 200 Rollins Rd, MILLBRAE, CA 94030",PC 647 (A)
+1607-0945,07/20/16 09:40,M,B,02/26/1994,"A50/BFS - Bay Fair Station, 15242 Hesperian Blvd, SAN LEANDRO, CA 94578",PC 243 (E)(1)
+1607-0968,07/20/16 19:42,M,B,05/12/1979,"4th Street, Oakland, CA 94612",VC 23152 (A) | VC 23152 (B)
+1607-0971,07/20/16 21:33,M,H,08/18/1960,"C80/PBS - Pittsburg Station, 1700 W Leland Rd, PITTSBURG, CA 94565",PC 215 (A)
+1607-0985,07/21/16 08:50,M,O,04/15/1970,"M30/PPS - Powell St. Station, 899 Market St, SAN FRANCISCO, CA 94103",PC 640 (D)(4)
+1607-1117,07/23/16 17:15,F,B,05/30/1966,"M30/PPS - Powell St. Station, 899 Market Street (PPS), San Francisco, CA 94101",PC 978.5
+1607-1142,07/24/16 09:35,M,B,08/18/1977,"M50/SSS - 16th St/Mission Station, 899 MARKET ST, San Francisco, CA 94103",
+1607-1141,07/24/16 09:40,M,W,03/17/1969,"M30/PPS - Powell St. Station, 899 Market St, SAN FRANCISCO, CA 94103",
+1607-1152,07/24/16 16:00,M,W,01/19/1966,"M10/OWS - West Oakland Station, 1451 7th St, OAKLAND, CA 94607",
+1607-1166,07/24/16 23:35,M,B,08/09/1972,"Y10/SAS - SF Airport Station, 497 North Link Rd, San Francisco, CA 94128",PC 166 (A)(4) | PC 647 (F)
+1607-1231.,07/26/16 01:17,F,W,03/15/1991,"A10/LMS - Lake Merritt Station, 800 Madison St, OAKLAND, CA 94607",PC 148 (A)(1) | PC 243 (B) | PC 647 (F) | BPD TT Adult Arrest Repo
+1607-1233,07/26/16 05:08,M,O,11/08/1970,"C40/WCS - Walnut Creek Station, 1 Train Incident, SAN FRANCISCO, CA 94121",PC 166 (A)(4)
+1607-1268,07/26/16 15:45,M,B,11/03/1965,"M30/PPS - Powell St. Station, 899 Market Street (PPS), San Francisco, CA 94101",PC 602.7
+1607-1293,07/27/16 05:14,M,B,07/10/1996,"555 40th St, OAKLAND, CA 94609",PC 211 | PC 273.5 (F)(1) | PC 422 (A)
+1607-1295,07/27/16 06:30,M,B,03/07/1979,"K10/T unknown, 1245 Broadway, OAKLAND, CA 94612",PC 243.35 (A)
+1607-1310,07/27/16 12:00,F,O,05/01/1981,"M30/PPS - Powell St. Station, 899 Market Street (PPS), San Francisco, CA 94101",PC 978.5
+1607-1322,07/27/16 17:13,M,B,12/30/1954,"1 Train Incident, SAN FRANCISCO, CA 94121",PC 166 (A)(4) | PC 647 (F) | BPD TT Adult Arrest Repo
+1607-1328,07/27/16 18:00,M,H,08/01/1960,"A40/SLS - San Leandro Station, 1401 San Leandro Blvd, SAN LEANDRO, CA 94577",PC 647 (F)
+1607-1344,07/27/16 21:00,M,W,07/16/1966,"L10/C unknown, 3301 NORBRIDGE AVE, CASTRO VALLEY, CA 94546",PC 243 (D)
+1607-1352,07/27/16 22:45,M,W,10/26/1986,"M40/CCS - Civic Center Station, 1150 Market St, SAN FRANCISCO, CA 94102",PC 148 (A)(1)
+1607-1393,07/28/16 19:58,M,B,03/05/1991,"R60/RIS - Richmond Station, 1700 Nevin Ave, RICHMOND, CA 94801",PC 243.3
+1607-1403,07/29/16 00:25,M,B,12/31/1960,"M16/EMS - Embarcadero Station, 298 Market St, San Francisco, CA 94105",PC 148 (A)(1) | PC 148.9 (A) | PC 369 I(A)
+1607-1422,07/29/16 10:02,M,H,05/20/1971,"M30/PPS - Powell St. Station, 899 Market St, SAN FRANCISCO, CA 94103",HS 11364 (A) | PC 148 (A)(1) | PC 481.1 (A) | BPD TT Adult Arrest Repo
+1607-1431,07/29/16 12:50,M,B,06/27/1994,"M16/EMS - Embarcadero Station, 298 Market Street, San Francisco, CA 94111",PC 243 (B) | PC 69
+1607-1459,07/29/16 20:42,F,B,01/18/1953,"A30/COS - Coliseum Station, 7200 San Leandro Blvd, OAKLAND, CA 94621",PC 148 (A)(1) | PC 487 (C)
+1607-1460,07/29/16 21:10,M,H,03/16/1990,"L20/W unknown, 6501 GOLDEN GATE DR, DUBLIN, CA 94568",
+1607-1473,07/30/16 01:45,F,O,12/25/1982,"R60/RIS - Richmond Station, 1700 Nevin Ave, RIS, Richmond, CA 94801",PC 647 (F)
+1607-1498,07/30/16 19:11,M,B,04/30/1978,"11965 San Pablo Ave, El Cerrito, CA 94530",HS 11377 (A)
+1607-1518,07/31/16 08:17,M,H,05/03/1968,"M30/PPS - Powell St. Station, 899 Market St, SAN FRANCISCO, CA 94103",BPD TT Adult Arrest Repo
+1607-1524,07/31/16 10:37,M,W,03/01/1985,"M70/GPS - Glen Park Station, 2901 Diamond St, SAN FRANCISCO, CA 94131",PC 148 (A)(1) | PC 21310 | PC 417 (A)(1) | PC 422 (A)
+1607-1530,07/31/16 14:29,M,W,07/24/1956,"1 Train Incident, SAN FRANCISCO, CA 94121",
+1607-1537,07/31/16 17:50,M,B,02/01/1962,"M30/PPS - Powell St. Station, 899 Market Street, San Francisco, CA 94110",PC 166 (A)(4)
+1607-1551,07/31/16 21:17,M,W,06/17/1989,"M30/PPS - Powell St. Station, 899 Market Street, San Francisco, CA 94102",
+1608-0016,08/01/16 06:40,M,B,05/24/1976,"200 ROLLINS RD, MILLBRAE, CA 94030",PC 148 (A)(1)
+1608-0021,08/01/16 08:20,M,W,09/17/1993,"M40/CCS - Civic Center Station, 1150 MARKET ST, San Francisco, CA 94102",BPD TT Adult Arrest Repo
+1608-0042,08/01/16 17:00,M,B,09/13/1977,"1 Train Incident, SAN FRANCISCO, CA 94121",PC 243 (E)(1)
+1608-0050,08/01/16 19:37,F,B,06/22/1989,"M90/DCS - Daly City Station, 500 John Daly Blvd, DALY CITY, CA 94014",PC 647 (F)
+1608-0049,08/01/16 20:10,M,B,08/12/1988,"M16/EMS - Embarcadero Station, 298 Market St, SAN FRANCISCO, CA 94111",
+1608-0104,08/02/16 00:00,M,B,05/14/1948,"M30/PPS - Powell St. Station, 899 MARKET ST, SAN FRANCISCO, CA 94103",PC 369 I(B)
+1608-0111,08/03/16 00:27,M,W,07/27/1984,"1 Train Incident, SAN FRANCISCO, CA 94121",PC 166 (A)(4) | PC 290.018 (A) | PC 314.1 | PC 487 (C)
+1608-0197,08/04/16 21:04,F,B,03/10/1996,"3301 Norbridge Ave, CASTRO VALLEY, CA 94546",PC 488 | BPD TT Adult Arrest Repo
+1608-0211,08/05/16 04:39,M,W,05/10/1980,"1 Train Incident, SAN FRANCISCO, CA 94121",PC 243.3
+1608-0223,08/05/16 10:09,M,H,08/23/1994,"C60/CDS - Concord Station, 1451 Oakland Ave, Concord, CA 94520",PC 487 (C)
+1608-0231,08/05/16 12:16,M,B,11/08/1970,"1 Train Incident, SAN FRANCISCO, CA 94121",PC 166 (A)(4)
+1608-0239,08/05/16 15:40,M,B,11/21/1980,"R60/RIS - Richmond Station, 1700 Nevin Ave, RICHMOND, CA 94801",
+1608-0238,08/05/16 16:21,M,S,07/13/1994,"M90/DCS - Daly City Station, 500 John Daly Blvd, DALY CITY, CA 94014",
+1608-0262,08/06/16 00:04,M,B,08/08/1960,"C60/CDS - Concord Station, 1451 Oakland Ave, Concord, CA 94520",PC 148 (A)(1)
+1608-0268,08/06/16 08:50,M,W,04/10/1957,"M30/PPS - Powell St. Station, 899 Market Street, SAN FRANCISCO, CA 94102",BPD TT Adult Arrest Repo
+1608-0273,08/06/16 11:28,M,H,01/26/1979,"53rd And San Leandro, OAKLAND, CA",PC 466 | PC 484 (A)
+1608-0273,08/06/16 11:28,M,B,09/11/1979,"53rd And San Leandro, OAKLAND, CA 94601",PC 496 D(A)
+1608-0282,08/06/16 17:07,M,O,09/26/1992,"A70/SHS - South Hayward Station, 28601 DIXON ST, HAYWARD, CA 94544","A70/SHS - South Hayward Station, 28601 DIXON ST, HAYWARD, CA 94544 | HS 11350 (A)"
+1608-0285,08/06/16 17:56,M,B,09/04/1995,"C60/CDS - Concord Station, 1451 Oakland Ave, CA 94520",PC 148 (A)(1)
+1608-0314,08/07/16 00:00,M,H,05/02/1982,"C60/CDS - Concord Station, 1451 Oakland Ave, Concord, CA 94520",
+1608-0312,08/07/16 10:11,M,P,04/09/1996,"A50/BFS - Bay Fair Station, 15242 Hesperian Blvd, SAN LEANDRO, CA 94578",PC 148 (A)(1) | PC 148.9 (A) | BPD TT Adult Arrest Repo
+1608-0317,08/07/16 13:37,M,W,10/28/1973,"M50/SSS - 16th St. Station, 2000 Mission St, SAN FRANCISCO, CA 94110",PC 640 (c)(1) | PC 979
+1608-0324,08/07/16 16:46,M,B,12/23/1990,"M50/SSS - 16th St. Station, 2000 Mission St, SAN FRANCISCO, CA 94110",PC 148.9 (A) | PC 241.3 (A)
+1608-0329,08/07/16 20:12,F,W,06/10/1990,"W10/CLS - Colma Station, 365 D St, COLMA, CA",PC 647 (F)
+1608-0332,08/07/16 22:20,F,W,10/24/1984,"C60/CDS - Concord Station, 1451 Oakland Ave, Concord, CA 94518",PC 148.4 (A)(1) | PC 647 (F)
+1608-0333,08/07/16 22:30,M,W,03/06/1991,"L30/EDS - Dublin/Pleasanton, 5801 Owens Dr, PLEASANTON, CA 94588",PC 243 (E)(1) | PC 647 (F)
+1608-0335,08/07/16 23:38,M,B,12/14/1956,"R60/RIS - Richmond Station, 1700 Nevin Ave, RICHMOND, CA 94801",PC 647 (F) | BPD TT Adult Arrest Repo
+1608-0344,08/08/16 06:40,M,W,11/15/1953,"M30/PPS - Powell St. Station, 899 Market St, SAN FRANCISCO, CA 94103",PC 640 (D)(4)
+1608-0354,08/08/16 10:39,F,W,03/22/1978,"R60/RIS - Richmond Station, 1700 Nevin Ave, RICHMOND, CA 94801",PC 978.5
+1608-0403,08/08/16 20:23,M,H,02/24/1969,"W30/SBS - San Bruno Station, 1151 Huntington Ave, SAN BRUNO, CA 94066",PC 245 (A)(1) | PC 245.3
+1608-0465,08/09/16 00:00,M,B,10/15/1989,"699 MARKET ST, San Francisco, CA 94103",PC 148.9 (B)
+1608-0420,08/09/16 05:44,M,B,07/13/1951,"1245 Broadway, OAKLAND, CA 94612",PC 466 | PC 484 (A)
+1608-0425,08/09/16 08:00,M,B,11/12/1962,"A80/UCS - Union City Station, 10 Union Sq, UNION CITY, CA 94587",PC 166 (A)(4) | BPD TT Adult Arrest Repo
+1608-0430,08/09/16 08:26,F,B,01/29/1964,"1245 Broadway, OAKLAND, CA 94612",PC 372
+1608-0434,08/09/16 09:10,M,W,03/07/1983,"M30/PPS - Powell St. Station, 899 Market St, SAN FRANCISCO, CA 94103",PC 640 (D)(4)
+1608-0437,08/09/16 09:40,F,W,10/31/1983,"C80/PBS - Pittsburg Station, 1700 W Leland Rd, PITTSBURG, CA 94565",
+1608-0469,08/09/16 19:10,M,O,05/28/1991,"C80/PBS - Pittsburg Station, 1700 W Leland Rd, BAY POINT, CA 94565",
+1608-0525,08/10/16 18:59,M,B,12/03/1997,"K30/MAS - MacArthur Station, 550 40th Street, Oakland, CA 94609",PC 415 (1)
+1608-0567,08/11/16 10:09,M,H,11/15/1983,"C60/CDS - Concord Station, 1451 Oakland Ave, CA 94518",PC 3056
+1608-0587,08/11/16 17:35,M,B,08/05/1967,"M30/PPS - Powell St. Station, 899 Market St, SAN FRANCISCO, CA 94103",PC 640 (b)(2) | BPD TT Adult Arrest Repo
+1601-2909,01/26/16 08:20,M,W,09/23/1955,"5th St. Chestnut AVENUE, Oakland, CA",PC 602 (M) | PC; Trespass:Drive On Private Property
+1601-2907,01/26/16 08:21,M,B,08/15/1985,"5th St. Chestnut AVENUE, Oakland, CA",PC 12020 (A) | PC 602 (M) | FTA: PC; Possess/Manufacture/Sell Dangerous Weapon | PC; Possess/Manufacture/Sell Dangerous Weapon | PC; Trespass:Drive On Private Property
+1601-2940,01/27/16 00:45,M,H,12/29/1993,"M30/PPS - Powell St. Station, 899 Market STREET, San Francisco, CA 94102",PC 647 (f) | PC; Disorderly Conduct:Intoxicated in Public
+1601-2941,01/27/16 01:20,F,B,,"W40-MBS - Millbrae Station, 200 North Rollins ROAD, Millbrae, CA 94030",PC 243.3 | PC; Battery On Transportation Personnel/Passenger
+1601-2947,01/27/16 07:50,F,B,05/30/1966,"BFS - BAY FAIR STA, CA",PC 640 (c)(1) | FTA: HS; Possess Unlawful Paraphrenailia | PC; Public Transportation: Evade Payment of Fare
+1601-2988,01/28/16 10:30,M,W,02/25/1994,"A90/FMS - Fremont Station, 2000 Bart Wy, Fremont, CA 94536",HS 11377 (B) | HS; Possess Controlled Substance | BPD TT Adult Arrest Repo
+1601-3016,01/29/16 09:25,M,B,07/29/1966,"R10/AHS - Ashby Station, 3100 Adeline STREET, Berkeley, CA","R10/AHS - Ashby Station, 3100 Adeline STREET, Berkeley, CA | FTA: PC; FTA After Signing Written Promise to Appear | FTA: PC; FTA After Signing Written Promise to Appear | PC; Failure to Complete 30 day Transient Registration | PC; Outside Warrant F | PC 290.011 (A) | PC O/S War F"
+1601-3041,01/30/16 07:56,M,W,10/12/1987,"M30/PPS - Powell St. Station. 899 Market STREET, San Francisco, CA 94102",HS 11357 (B) | PC 148.9(A) | PC 466 | FTA: PC; Penal Code Other Offenses | HS; Possess Marijuana 28.5 Grams or Less | PC; False Identification To Peace Officer | PC; Possess/Etc Burglary Tools
+1601-3050,01/30/16 14:45,M,B,04/19/1982,"M10/OWS - West Oakland Station, 1451 7th STREET, Oakland, CA",FTA: VC; Miscellenous VC
+1601-3052,01/30/16 17:30,,,06/08/1971,"M60/TFS - 24th St. Station, 2800 Mission STREET, San Francisco, CA",FTA: PC; Penal Code Other Offenses
+1601-3054,01/30/16 18:05,M,H,02/21/1975,"M10/OWS - West Oakland Station, 1451 7th STREET, Oakland, CA 94608",PC 243.3 | PC; Battery With Injury:Transport Personnel/Passenger
+1601-3072,01/31/16 15:45,M,B,07/05/1991,"M30/PPS - Powell St. Station, 899 Market STREET, San Francisco, CA",PC 640 (c)(1) | PC O/S War F | PC; Public Transportation: Evade Payment of Fare | PC; Outside Warrant F | BPD TT Adult Arrest Repo
+1608-0582,08/11/16 17:50,M,B,08/05/1967,"A10/LMS - Lake Merritt Station, 800 Madison St, OAKLAND, CA 94607",PC 640 (b)(2)
+1608-0596,08/11/16 19:42,M,W,07/20/1970,"C80/PBS - Pittsburg Station, 1700 W Leland Rd, PITTSBURG, CA 94565",
+1608-0617,08/12/16 08:47,M,W,10/05/1976,"M20/MOS - Montgomery St. Station, 598 Market St, SAN FRANCISCO, CA 94105",
+1608-0629,08/12/16 12:50,F,B,12/23/1989,"M16/EMS - Embarcadero Station, 298 Market St, SAN FRANCISCO, CA 94111",PC 243.35 (A)
+1608-0638,08/12/16 16:31,M,O,06/14/1979,"L10/C unknown, 3301 NORBRIDGE AVE, CASTRO VALLEY, CA 94546",PC 243.35 (A) | PC 487 C | PC 591.5
+1608-0649,08/12/16 19:08,M,H,09/26/1997,"K30/MAS - MacArthur Station, 550 40th St, OAKLAND, CA 94609",VC 12500 (A) | VC 16028 (a) | BPD TT Adult Arrest Repo
+1608-0674,08/13/16 07:31,M,W,11/12/1968,"C40/WCS - Walnut Creek Station, 200 Ygnacio Valley Rd, WALNUT CREEK, CA 94596",
+1608-0728,08/14/16 01:35,M,B,04/21/1982,"R20/BES - Berkeley Station, 2160 Shattuck ave, Berkeley, CA 94708",PC 647 (F)
+1608-0731,08/14/16 08:55,M,W,06/30/1968,"M10/OWS - West Oakland Station, 1451 7th St, OAKLAND, CA 94607",
+1608-0751,08/14/16 21:52,M,B,08/14/1996,"C80/PBS - Pittsburg Station, 1700 W Leland Rd, BAY POINT, CA 94565",PC 459 | PC 496 (A)
+1608-0754,08/15/16 00:13,M,B,03/31/1978,"C60/CDS - Concord Station, 1451 Oakland Ave, Concord, CA 94518",PC 148 (A)(1)
+1608-0755,08/15/16 00:48,F,B,11/26/1997,"R60/RIS - Richmond Station, 1700 Nevin Avenue, Richmond, CA 00000-0000",PC 148 (A)(1) | BPD TT Adult Arrest Repo
+1608-0801,08/15/16 16:13,M,H,07/28/1979,"C60/CDS - Concord Station, 1451 Oakland Ave, CA 94518",PC 417 (A)(1) | PC 647 (F)
+1608-0800,08/15/16 16:20,F,B,04/12/1993,"A50/BFS - Bay Fair Station, 15242 Hesperian Blvd. SAN LEANDRO. CA 94578",PC 242
+1608-0848,08/16/16 08:04,M,B,09/23/1990,"A30/COS - Coliseum Station, 7200 San Leandro St, OAKLAND, CA 94621",
+1608-0859,08/16/16 11:40,M,O,01/11/1974,"A30/COS - Coliseum Station, 7200 San Leandro St., Oakland, CA 94521",HS 11377 (A) | PC 166 (A)(4)
+1608-0868,08/16/16 14:00,M,B,06/24/1979,"M20/MOS - Montgomery St. Station, 598 MARKET ST, SAN FRANCISCO, CA 94105",
+1608-0871,08/16/16 14:49,M,B,12/23/1987,"A20/FVS - Fruitvale Station, 3401 E 12th St, Oakland, CA 94601",PC 415 (3) | BPD TT Adult Arrest Repo
+1608-0875,08/16/16 15:20,M,O,10/28/1987,"M20/MOS - Montgomery St. Station, 598 Market St, SAN FRANCISCO, CA 94105",
+1608-0898,08/16/16 21:13,M,B,01/06/1991,"A20/FVS - Fruitvale Station, 3401 12th St, OAKLAND, CA 94601",PC 243.3
+1608-0900,08/16/16 22:25,M,O,10/31/1957,"L30/EDS - Dublin/Pleasanton, 5801 Owens Dr, PLEASANTON, CA 94588",PC 640 (D)(3)
+1608-0923,08/17/16 08:17,M,B,01/15/1984,"C60/CDS - Concord Station, 1451 Oakland Ave, CA 94518",HS 11350 (A) | PC 490
+1608-0954,08/17/16 14:26,F,B,10/31/1995,"M10/OWS - West Oakland Station, 1451 7th St, OAKLAND, CA 94607",PC 243 (E)(1)
+1608-0954,08/17/16 14:26,M,B,02/04/1998,"M10/OWS - West Oakland Station, 1451 7th St, OAKLAND, CA 94607",PC 243 (E)(1) | BPD TT Adult Arrest Repo
+1608-0983,08/18/16 06:54,M,H,10/04/1982,"C80/PBS - Pittsburg Station, 1700 W Leland Rd, BAY POINT, CA 94565",PC 166 (A)(4) | PC 290.011 (A)
+1608-1002,08/18/16 13:19,M,,08/16/1977,"C80/PBS - Pittsburg Station, 1700 W Leland Rd, BAY POINT. CA 94565",
+1608-1063,08/19/16 15:45,M,B,01/21/1987,"3301 Norbridge Ave, CASTRO VALLEY, CA 94546",PC 211 | PC 3056
+1608-1079,08/19/16 20:39,M,B,09/16/1977,"A10/LMS - Lake Merritt Station, 800 Madison Street, Oakland, CA 94607",
+1608-1089,08/19/16 22:51,M,B,02/25/1981,"A10/LMS - Lake Merritt Station, 601 E 8th St, OAKLAND, CA 94606",
+1608-1099,08/20/16 07:31,M,B,03/11/1997,"R50/CNS - El Cerrito Del Norte Station, 6400 Cutting Blvd, EL CERRITO, CA 94530",PC 243 (E)(1) | BPD TT Adult Arrest Repo
+1608-1131,08/20/16 18:42,M,H,00/00/0000,"R60/RIS - Richmond Station, 1700 Nevin Avenue, Richmond, CA 000000000",PC 148.9 (A) | PC 243.4 (A) | PC 647 (F)
+1608-1141,08/20/16 23:32,M,W,09/27/1962,"C50/PHS - Pleasant Hill Station, 1340 Treat Blvd., Walnut Creek, CA 94597","C50/PHS - Pleasant Hill Station, 1340 Treat Blvd., Walnut Creek, CA 94597"
+1608-1155,08/21/16 11:00,M,W,01/06/1975,"M50/SSS - 16th St. Station, 2000 Mission St, SAN FRANCISCO, CA 94110",VC 14601.1 (A)
+1608-1169,08/21/16 16:08,M,B,04/13/1988,"C80/PBS - Pittsburg Station, 1700 W Leland Rd, Pittsburg, CA 94565",PC 148 (A)(1) | PC 243 (E)(1) | PC 273 A(A)
+1608-1207,08/22/16 08:30,M,O,11/19/1967,"M40/CCS - Civic Center Station, 1150 Market St, SAN FRANCISCO, CA 94102",
+1608-1240,08/22/16 14:58,F,B,04/07/1988,"A50/BFS - Bay Fair Station, 15242 Hesperian Blvd, SAN LEANDRO, CA 94578",BPD TT Adult Arrest Repo
+1608-1242,08/22/16 16:50,M,B,02/01/1962,"M30/PPS - Powell St. Station, 899 Market St, SAN FRANCISCO, CA 94103",PC 166 (A)(4)
+1608-1265,08/22/16 21:48,F,W,09/28/1988,"C80/PBS - Pittsburg Station, 1700 Leland Rd, BAY POINT, CA 94565",PC 148 (A)(1)
+1608-1273,08/23/16 01:43,M,B,04/07/1991,"A80/UCS - Union City Station, 10 Union Sq, UNION CITY, CA 94587",PC 594 (A)(2) | PC 647 (F)
+1608-1302,08/23/16 02:14,M,B,01/11/1968,"1451 7th Ave, Oakland, CA 94607",BP 4060 | HS 11350 (A) | PC 22210 | PC 529 (A) | PC 594 (B)(1)
+1608-1324,08/23/16 18:11,M,B,07/19/1968,"M80/BPS - Balboa Park Station, 401 GENEVA AVE, SAN FRANCISCO, CA 94112","M80/BPS - Balboa Park Station, 401 GENEVA AVE, SAN FRANCISCO, CA 94112 | PC 148 (A)(1) | PC 166 (A)(4)"
+1608-1370,08/24/16 09:02,M,B,03/07/1979,"R20/BES - Berkeley Station, 2160 Shattuck Ave, BERKELEY, CA 94704",PC 243.35 (A) | BPD TT Adult Arrest Repo
+1608-1384,08/24/16 15:03,M,W,06/10/1967,"K10/TSS - 12th St/Oakland Station, 12th St / Broadway, OAKLAND, CA 94607",PC 647 (F)
+1608-1416,08/25/16 01:55,M,O,12/19/1988,"497 N Link Rd, SAN FRANCISCO, CA 94128",PC 647 (F)
+1608-1430,08/25/16 09:00,M,B,04/17/1965,"588 MARKET ST, San Francisco, CA 94104",
+1608-1447,08/25/16 15:26,M,B,03/22/1976,"R50/CNS - El Cerrito Del Norte Station, 6400 Cutting Blvd, El Ceritto, CA 94530",PC 243.35 (A)
+1608-1467,08/25/16 22:03,M,B,11/08/1970,"1 Train Incident, SAN FRANCISCO, CA 94121",
+1608-1469,08/26/16 01:06,M,B,09/12/1963,"Y 10/SAS - SF Airport Station, 497 North Link Road, Not Applicable, CA 94014",HS 11364 (A) | PC 647 (F)
+1608-1484,08/26/16 10:22,M,W,05/06/1992,"W30/SBS - San Bruno Station, 1151 Huntington Ave, SAN BRUNO, CA 94066",PC 488 | BPD TT Adult Arrest Repo
+1608-1483,08/26/16 10:50,M,B,03/04/1993,"R40/CPS - El Cerrito Plaza Station, 6699 FAIRMOUNT AVE, EL CERRITO, CA 94530",PC 148.9 (A) | PC 243.3
+1608-1515,08/26/16 20:12,M,W,06/24/1989,"R20/BES - Berkeley Station, 2160 SHATTUCK AVE, BERKELEY, CA 94704",
+1608-1521,08/27/16 01:47,M,B,03/28/1990,"R50/CNS - El Cerrito Del Norte Station, 6400 CUTTING BLVD, EL CERRITO, CA 94530",PC 273 A(B) | PC 273.5 (A) | PC 591.5
+1608-1523,08/27/16 11:35,M,H,02/02/1979,"1 Train Incident, SAN FRANCISCO, CA 94121",HS 11364 (A)
+1608-1547,08/27/16 19:14,M,B,09/06/1967,"32 unknown, 1 Train Incident, SAN FRANCISCO, CA 94121",PC 212.5 (A) | PC 212.5 (C) | PC 245 (A)(1) | PC 664/187 (A)
+1608-1595,08/29/16 00:34,M,B,10/19/1964,"M20/MOS - Montgomery St. Station, 598 Market St, SAN FRANCISCO, CA 94105",PC 415 (3) | BPD TT Adult Arrest Repo
+1608-1613,08/29/16 09:45,M,B,05/12/1976,"M20/MOS - Montgomery St. Station, 598 Market St, SAN FRANCISCO, CA 94105",
+1608-1645,08/29/16 22:52,M,F,01/06/1995,"A20/FVS - Fruitvale Station, 3401 12th St, OAKLAND, CA 94601",
+1608-1675,08/30/16 09:17,F,H,05/07/1955,"Pleasant Hill Bart Station, Pleasant Hill, CA 00000",
+1608-1680,08/30/16 09:30,M,B,07/30/1989,"A40/S unknown, 1401 SAN LEANDRO BLVD, SAN LEANDRO, CA 94577",PC 148 (A)(1) | PC 647 (C)
+1608-1694,08/30/16 14:08,M,B,04/21/1989,"A20/F unknown, 3401 12th St, OAKLAND, CA 94601",HS 11357 (C) | PC 148 (A)(1) | PC 166 (A)(4)
+1608-1700,08/30/16 16:22,M,O,04/23/1950,"M20/MOS - Montgomery St. Station, 598 Market St, SAN FRANCISCO, CA 94105",HS 11364 (A) | BPD TT Adult Arrest Repo
+1608-1724,08/30/16 20:38,M,,05/30/1984,"R10/AHS - Ashby Station, 3100 Adeline St, BERKELEY, CA 94703","R10/AHS - Ashby Station, 3100 Adeline St, BERKELEY, CA 94703 | PC 647 (F)"
+1608-1725,08/30/16 21:41,M,H,05/20/1998,"A50/BFS - Bay Fair Station, 15242 Hesperian Blvd, SAN LEANDRO, CA 94578",PC 243.35 (A)
+1608-1758,08/31/16 10:15,M,B,09/09/1969,"M40/CCS - Civic Center Station, 1150 MARKET ST, San Francisco, CA 94102",HS 11377 (A) | PC 148.9 (A) | PC 640 (c)(1)
+1608-1770,08/31/16 10:54,F,W,10/24/1984,"C40/WCS - Walnut Creek Station, 200 YGNACIO VALLEY RD, WALNUT CREEK, CA 94596",PC 243.35 (A)
+1608-1793,08/31/16 17:21,M,B,09/03/1997,"A60/HAS - Hayward Station, 699 B ST, HAYWARD, CA 94541",PC 422 (A)
+1608-1793,08/31/16 17:21,M,B,10/31/1997,"A60/HAS - Hayward Station, 699 B ST, HAYWARD, CA 94541",BPD TT Adult Arrest Repo
+1609-0006,09/01/16 07:51,M,B,01/22/1962,"M10/OWS - West Oakland Station, 1451 7th Street, Oakland, CA 94607",PC 166 (A)(4)
+1609-0026,09/01/16 17:24,M,W,06/04/1996,"M40/CCS - Civic Center Station, 1150 Market St, SAN FRANCISCO, CA 94102",HS 11350 (A)
+1609-0040,09/01/16 21:11,M,B,08/17/1981,"A10/LMS - Lake Merritt Station, 800 Madison St, OAKLAND, CA 94607",PC 647 (F)
+1609-0048,09/02/16 06:06,M,W,07/23/1979,"C60/CDS - Concord Station, 1451 Oakland Ave, Concord, CA 94520",
+1609-0063,09/02/16 13:15,M,B,02/23/1983,"3401 12TH ST, OAKLAND, CA 94601",PC 647 (F)
+1609-0067,09/02/16 14:46,M,W,08/15/1964,"A10/LMS - Lake Merritt Station, 555 40TH ST, Oakland, CA 94609",HS 11364 (A) | BPD TT Adult Arrest Repo
+1609-0071,09/02/16 16:55,M,W,12/10/1988,"Walnu unknown, 1 Train Incident, SAN FRANCISCO, CA 94121",PC 245 (A)(1) | PC 3056
+1609-0076,09/02/16 18:05,M,H,06/19/1967,"1 Train Incident, SAN FRANCISCO, CA 94121",PC 647 (F)
+1609-0085,09/02/16 22:12,M,B,12/05/1962,"A40/SLS - San Leandro Station, 1401 San Leandro Blvd, SAN LEANDRO, CA 94577",PC 488
+1609-0115,09/03/16 15:34,M,B,07/30/1962,"M30/PPS - Powell St. Station, 899 Market St, SAN FRANCISCO, CA 94103",PC 243.3
+1609-0195,09/05/16 11:49,M,B,05/16/1964,"A40/SLS - San Leandro Station, 1401 San Leandro Blvd, SAN LEANDRO, CA 94577",PC 137 (B) | PC 243.3 | PC 273.5 (A)
+1609-0202,09/05/16 13:20,F,W,,"A40/SLS - San Leandro Station, 1401 SAN LEANDRO BLVD, SAN LEANDRO, CA 94577",PC 273.5 (A) | BPD TT Adult Arrest Repo
+1609-0207,09/05/16 18:40,M,B,10/25/1984,"M90/DCS - Daly City Station, 500 John Daly Blvd, DALY CITY, CA 94014",PC 166 (A)(4)
+1609-0217,09/06/16 04:46,M,H,03/17/1981,"A10/LMS - Lake Merritt Station, 800 Madison St, Oakland, CA 94607",PC 466 | PC 484 (A)
+1609-0231,09/06/16 08:22,M,B,08/09/1972,"A10/LMS - Lake Merritt Station, 800 Madison St, Oakland, CA 94607",PC 166 (A)(4) | PC 640 (c)(1)
+1609-0240,09/06/16 11:30,M,B,04/16/1965,"A50/BFS - Bay Fair Station, 15242 Hesperian Blvd, SAN LEANDRO, CA 94578",PC 148 (A)(1) | PC 496 (A) | PC 647 (F)
+1609-0294,09/07/16 04:37,M,B,03/02/1992,"M16/EMS - Embarcadero Station, 298 Market Street, San Francisco, CA 94105",PC 594 (B)(2)(A
+1609-0301,09/07/16 09:30,M,B,10/11/1966,"C80/PBS - Pittsburg Station, 1700 W Leland Rd, Pittsburg, CA 94565",PC 488 | BPD TT Adult Arrest Repo
+1609-0303,09/07/16 11:10,M,H,08/21/1984,"A30/COS - Coliseum Station, 7200 SAN LEANDRO ST, OAKLAND, CA 94621",PC 243.3
+1609-0370,09/08/16 00:00,M,B,07/30/1998,"A30/COS - Coliseum Station, 7200 San Leandro Blvd, Oakland, CA 94607, Oakland, CA 94607",PC 148 (A)(1)
+1609-0335,09/08/16 06:01,M,B,05/27/1966,"C80/PBS - Pittsburg Station, 1700 W Leland Rd, PITTSBURG, CA 94565",
+1609-0403,09/09/16 06:47,M,H,01/18/1993,"M10/OWS - West Oakland Station, 1451 7th St, OAKLAND, CA 94607",
+1609-0403,09/09/16 06:47,F,H,12/19/1997,"M10/OWS - West Oakland Station, 1451 7th St, OAKLAND, CA 94607",PC 148 (A)(1) | PC 148.9 (A) | PC 369 I(B) | PC 647 (F)
+1609-0412,09/09/16 10:30,M,W,11/24/1983,"100 E. 8th Street, Oakland, CA 94604, Oakland, CA 94604",PC 488 | BPD TT Adult Arrest Repo
+1609-0432,09/09/16 18:46,M,B,08/26/1990,"C80/PBS - Pittsburg Station, 1700 W Leland Rd, BAY POINT, CA 94565",VC 14601 (A)
+1609-0461,09/10/16 19:54,M,B,11/05/1984,"M10/OWS - West Oakland Station, 1451 7th St, OAKLAND, CA 94607",PC 243 (E)(1)
+1609-0466,09/10/16 22:44,M,B,08/01/1967,"M30/PPS - Powell St. Station, 899 MARKET ST, San Francisco, CA 94103",PC 166 (A)(4)
+1609-0472,09/10/16 23:14,M,H,01/12/1970,"1 Train Incident, SAN FRANCISCO, CA 94121",PC 243 (E)(1)
+1609-0494,09/12/16 05:00,M,B,08/26/1991,"K10/T unknown, 1245 Broadway, OAKLAND, CA 94612",PC 369 I(B) | PC 647 (F)
+1609-0511.,09/12/16 10:50,M,B,05/28/1976,"M30/PPS - Powell St. Station, 899 Market St, SAN FRANCISCO, CA 94103",
+1609-0557,09/13/16 07:09,M,O,10/25/1956,"K30/MAS - MacArthur Station, 550 40th St, OAKLAND, CA 94609",PC 647 (F) | BPD TT Adult Arrest Repo
+1609-0563,09/13/16 09:00,M,B,10/25/1956,"K10/TSS - 12th St/Oakland Station, 1247 Broadway, OAKLAND, CA 94612",PC 647 (F)
+1609-0568,09/13/16 09:49,M,B,09/05/1952,"W20/SFS - South San Francisco Station, 1333 Mission Rd, SOUTH SAN FRANCISCO, CA 94080",HS 11357 (B) | HS 11364 (A) | PC 640 (b)(1)
+1609-0578,09/13/16 13:04,M,B,10/17/1984,"A20/FVS - Fruitvale Station, 3401 E 12th St, Oakland, CA 94601",PC 166 (A)(4) | PC 640 (c)(1)
+1609-0591,09/13/16 19:00,M,B,02/11/1954,"M40/CCS - Civic Center Station, 1150 MARKET ST, San Francisco, CA 94102",HS 11351.5 | HS 11355 | HS 11364 (A) | HS 11378 | HS 11532 (A) | PC 466
+1609-0593,09/13/16 19:00,M,,05/27/1981,"M40/CCS - Civic Center Station, 1150 Market St, SAN FRANCISCO, CA 94102",HS 11350 (A) | HS 11351.5 | HS 11364 (A) | HS 11375 (B) | HS 11378 | HS 11532 (A) | BPD TT Adult Arrest Repo
+1609-0617,09/14/16 07:20,M,B,01/21/1992,"Lake unknown, 800 Madison St, Oakland, CA 94607",
+1609-0627,09/14/16 08:57,M,B,10/12/1991,"R50/CNS - El Cerrito Del Norte Station, 6400 Cutting Blvd, EL CERRITO, CA 94530",
+1609-0635,09/14/16 10:26,M,B,11/10/1991,"M90/DCS - Daly City Station, 500 John Daly Blvd, Daly City, CA 94104",
+1609-0643,09/14/16 12:16,F,W,09/12/1949,"K20/NSS - 19th St. Station, 1900 BROADWAY, OAKLAND, CA 94612",PC 640 (D)(3)
+1609-0645,09/14/16 13:00,M,B,09/22/1984,"M30/PPS - Powell St. Station, 899 Market Street, San Francisco, CA 94101",PC 485 | PC 488
+1609-0646,09/14/16 14:18,F,O,08/20/1973,"M30/PPS - Powell St. Station, 899 MARKET STREET, San Francisco, CA 94103",PC 485 | PC 488 | BPD TT Adult Arrest Repo
+1609-0648,09/14/16 16:40,M,W,08/29/1976,"M40/CCS - Civic Center Station, 1150 Market Street, San Francisco, CA 94101",PC 485 | PC 488 | PC 490.1 (A) | PC 496 (A)
+1609-0666,09/14/16 22:25,M,W,07/15/1970,"1 Train Incident, SAN FRANCISCO, CA 94121",HS 11377 (A) | PC 978.5
+1609-0675,09/15/16 07:00,M,B,07/30/1994,"555 40th Street, Oakland CA 94609, Oakland, CA 94609",HS 11364 (A) | PC 466 | PC 488 | PC 496 (A) | VC 10851 (A)
+1609-0707,09/15/16 21:30,M,O,03/13/1981,"1 Train Incident, SAN FRANCISCO, CA 94121",PC 647 (F)
+1609-0715,09/16/16 04:50,M,B,11/08/1970,"C40/WCS - Walnut Creek Station, 200 YGNACIO VALLEY RD, WALNUT CREEK, CA 94596",PC 166 (A)(4) | BPD TT Adult Arrest Repo
+1609-0749,09/16/16 17:48,M,W,02/27/1966,"C60/C unknown, 1451 Oakland Ave, Concord, CA 94520",PC 369 I(B) | PC 417 (A)(1)
+1609-0799,09/17/16 15:18,M,W,05/25/1988,"C40/WCS - Walnut Creek Station, 200 YGNACIO VALLEY RD, WALNUT CREEK, CA 94596",PC 166 (A)(4)
+1609-0802,09/17/16 16:40,M,O,11/09/1987,"176 Bliss Ave, PITTSBURG, CA 94565",PC 211 | PC 245 (A)(1)
+1609-0825,09/18/16 12:36,F,B,03/15/1970,"R50/CNS - El Cerrito Del Norte Station, 6400 Cutting Blvd, EL CERRITO, CA 94530",
+1609-0830,09/18/16 14:58,M,B,05/27/1991,"5805 Cutting Blvd, EL Cerrito, CA 94530",PC 148 (A)(1) | PC 529 (A)(3) | PC 640 (c)(1)
+1609-0844,09/18/16 23:54,M,B,07/02/1976,"K30/MAS - MacArthur Station, 550 40th St, OAKLAND, CA 94609",PC 242 | BPD TT Adult Arrest Repo
+1601-3073,01/31/16 16:17,F,B,11/04/1984,"A90/FMS - Fremont Station, 2000 Bart Wy, Fremont, CA 94536",FTA: PC; Adw Or Gbi Force:Not Firearm
+1602-0001,02/01/16 04:45,F,W,07/26/1992,"A90/FMS - Fremont Station, 2000 Bart Wy, Fremont, CA 94536",PC 647 (f) | PC; Disorderly Conduct:Intoxicated in Public
+1602-0002,02/01/16 05:11,M,X,08/13/1990,"A20/FVS - Fruitvale Station, 3401 E 12th STREET, Oakland, CA 94608",FTA: PC; Vandalism | PC; Threaten Crime With Intent To Terrorize | PC 422
+1602-0005,02/01/16 07:26,M,B,09/29/1958,"M40/CCS - Civic Center Station, 1150 Market STREET, San Francisco, CA 94102",PC 647 (f) | PC; Disorderly Conduct:Intoxicated in Public
+1602-0013,02/01/16 14:57,M,O,09/22/1977,"M30/PPS - Powell St. Station, 899 Market STREET, San Francisco, CA",FTA: VC; Reckless Driving | FTA: PC; Petty Theft Under $50 Without Prior | FTA: PC; Petty Theft Under $50 Without Prior
+1602-0024,02/01/16 19:10,M,B,01/26/1991,"M90/DCS - Daly City Station, 500 John Daly BI, Daly City, CA 94014",PC 640 (c)(1) | PC; Public Transportation: Evade Payment of Fare | BPD TT Adult Arrest Repo
+1602-0034,02/01/16 21:58,M,W,06/13/1973,"C80/PBS - Pittsburg Station, 1700 W Leland ROAD, Pittsburg, CA 94565",HS 11364 (a) | PC 640 (c)(1) | VC 40302 (B) | HS; Possess Unlawful Drug Paraphrenalia | PC; Public Transportation: Evade Payment of Fare | VC; Refusal to Sign Citation
+1602-0039,02/02/16 00:54,M,W,09/13/1942,"K30/MAS - MacArthur Station, 550 40th STREET, Oakland, CA 94609",PC; Disorderly Conduct:Intoxicated in Public | PC 647 (f)
+1602-0060,02/02/16 19:19,M,W,08/18/1965,"C30/LAS - Lafayette Station, 3501 Deerhill ROAD, Lafayette, CA 94549",PC 1203.2 | PC 640 (c)(1) | PC 647 (f) | PC; Violation of Probation | PC; Public Transportation: Evade Payment of Fare | PC; Disorderly Conduct:Intoxicated in Public
+1602-0063,02/02/16 20:51,M,W,08/20/1993,"A10/LMS - Lake Merritt Station, 800 Madison AVENUE, Oakland, CA 94608",PC 647 (f) | PC; Disorderly Conduct:Intoxicated in Public
+1602-0063,02/02/16 20:51,M,W,10/07/1993,"A10/LMS - Lake Merritt Station, 800 Madison AVENUE, Oakland, CA 94608",
+1602-0082,02/03/16 16:55,M,B,06/12/1962,"W30/SBS - San Bruno Station, 1151 Huntington AVENUE, San Bruno, CA",BPD TT Adult Arrest Repo
+1609-0872,09/19/16 11:25,M,W,04/01/1988,"C80/PBS - Pittsburg Station, 1700 W Leland Rd, PITTSBURG, CA 94565",
+1609-0891,09/19/16 17:52,F,H,08/18/1995,"M40/CCS - Civic Center Station, 1150 MARKET ST, San Francisco, CA 94102",
+1609-0892,09/19/16 17:54,M,B,10/26/1985,"A10/LMS - Lake Merritt Station, 800 Madison St, Oakland, CA 94607",
+1609-0923,09/20/16 11:09,M,B,01/21/1987,"M10/OWS - West Oakland Station, 1451 7th St, OAKLAND, CA 94607",PC 148 (A)(1) | PC 3056 | PC 487 (C)
+1609-0929,09/20/16 13:28,M,O,03/17/1994,"M30/PPS - Powell St. Station, 899 Market St, SAN FRANCISCO, CA 94103",
+1609-0933,09/20/16 15:19,M,A,01/18/1978,"A80/UCS - Union City Station, 10 Union Square, Union City, CA 94587",PC 647 (F) | BPD TT Adult Arrest Repo
+1609-0936,09/20/16 16:30,M,B,09/22/1977,"1 Train Incident, SAN FRANCISCO, CA 94121",
+1609-0949,09/20/16 23:12,M,O,07/07/1998,"C60/CDS - Concord Station, 1451 Oakland Ave, CA 94520",PC 148 (A)(1)
+1609-1005,09/21/16 10:27,M,B,09/19/1986,"K30/MAS - MacArthur Station, 550 40TH ST, Oakland, CA 94609",PC 211
+1609-1014,09/21/16 11:30,M,W,10/31/1970,"7th & Fallon, Oakland, CA 94607",VC 23152 (A)
+1609-1018,09/21/16 12:00,F,B,12/23/1992,"A30/COS - Coliseum Station, 7200 San Leandro Ave, Oakland, CA 94609",VC 12500 (A)
+1609-1042,09/21/16 15:25,M,H,02/27/1990,"A20/FVS - Fruitvale Station, 3401 E. 12th Street, Oakland, CA 94607",VC 14601.1 (A)
+1609-1074,09/21/16 21:38,M,W,07/02/1998,"C60/CDS - Concord Station, 1451 Oakland Ave, CA 94520",PC 148 (A)(1) | PC 243 (B) | BPD TT Adult Arrest Repo
+1609-1089,09/22/16 08:18,M,B,05/26/1991,"C80/PBS - Pittsburg Station, 1700 W Leland Rd, PITTSBURG, CA 94565",
+1609-1140,09/22/16 22:18,M,B,10/17/1991,"A10/LMS - Lake Merritt Station, 800 MADISON ST, OAKLAND, CA 94607",PC 148 (A)(1)
+1609-1156,09/23/16 09:43,F,W,01/11/1973,"A70/SHS - South Hayward Station, 28601 Dixon St, HAYWARD, CA 94544","A70/SHS - South Hayward Station, 28601 Dixon St, HAYWARD, CA 94544"
+1609-1163,09/23/16 10:31,M,B,06/30/1949,"M30/PPS - Powell St. Station, 899 MARKET ST, San Francisco, CA 94103",PC 148.9 (A) | PC 166 (A)(4) | PC 640 (D)(3)
+1609-1192,09/23/16 20:17,M,O,11/05/1971,"R10/AHS - Ashby Station, 3100 Adeline St, BERKELEY, CA 94703","R10/AHS - Ashby Station, 3100 Adeline St, BERKELEY, CA 94703 | PC 148 (A)(1)"
+1609-1197,09/23/16 21:20,M,B,10/18/1967,"M30/PPS - Powell St. Station, 899 MARKET ST, San Francisco, CA 94103",PC 166 (A)(4) | BPD TT Adult Arrest Repo
+1609-1239,09/24/16 20:44,M,B,10/14/1982,"C80/PBS - Pittsburg Station, 1700 W Leland Rd, Pittsburg, CA 94565",PC 243.3
+1609-1246,09/24/16 23:24,M,B,01/20/1979,"R50/CNS - El Cerrito Del Norte Station, 6400 Cutting Blvd, EL CERRITO, CA 94530",PC 369 I(B)
+1609-1247,09/24/16 23:51,M,W,07/24/1956,"C20/ORS - Orinda Station, 11 CAMINO PABLO, ORINDA, CA 94563",PC 647 (F)
+1609-1248,09/25/16 01:16,M,W,04/02/1989,"A40/S unknown, 1401 San Leandro Blvd, SAN LEANDRO, CA 94577",PC 422 (A)
+1609-1329,09/26/16 00:00,M,W,12/22/1967,"A60/HAS - Hayward Station, 699 B St, HAYWARD, CA 94541",PC 647 (F)
+1609-1299,09/26/16 08:31,M,B,08/22/1961,"A30/COS - Coliseum Station, 7200 San Leandro St, OAKLAND, CA 94621",PC 273.6 (A)
+1609-1316,09/26/16 15:45,M,B,11/07/1986,"A10/LMS - Lake Merritt Station, 800 Madison St, OAKLAND, CA 94607",PC 594 (A)(1) | BPD TT Adult Arrest Repo
+1609-1339,09/26/16 22:05,M,B,03/14/1992,"C60/CDS - Concord Station, 1451 Oakland Ave, CA 94518",PC 148 (A)(1)
+1609-1344,09/27/16 03:44,M,B,09/15/1992,"M16/EMS - Embarcadero Station, 298 Market St, SAN FRANCISCO, CA 94111",PC 166 (A)(4)
+1609-1344,09/27/16 03:44,F,H,08/26/1996,"M16/EMS - Embarcadero Station, 298 Market St, SAN FRANCISCO, CA 94111",
+1609-1387,09/27/16 15:17,M,W,11/03/1991,"R60/RIS - Richmond Station, 1700 Nevin Ave, RICHMOND, CA 94801",
+1609-1401,09/27/16 19:40,M,W,10/02/1959,"M16/EMS - Embarcadero Station, 298 MARKET ST, San Francisco, CA 94111",PC 647 (F)
+1609-1404,09/27/16 20:00,M,H,09/08/1986,"M40/CCS - Civic Center Station, 1150 Market St, SAN FRANCISCO, CA 94102",PC 148 (A)(1) | PC 640 (D)(4)
+1609-1403,09/27/16 20:15,M,B,06/26/1994,"M70/GPS - Glen Park Station, 2901 Diamond St, SAN FRANCISCO, CA 94131",PC 243.35 (A) | BPD TT Adult Arrest Repo
+1609-1430,09/28/16 10:18,M,H,07/05/1982,"M30/PPS - Powell St. Station, 899 MARKET ST, San Francisco, CA 94103",
+1609-1437,09/28/16 12:25,M,H,09/02/1961,"A60/HAS - Hayward Station, 699 B St, hayward, CA 94541",
+1609-1473,09/28/16 22:33,F,H,01/01/1984,"C60/CDS - Concord Station, 1451 Oakland Ave, CA 94520",PC 273.5 (A)
+1609-1478,09/29/16 01:43,M,W,10/16/1990,"C80/PBS - Pittsburg Station, 1700 W Leland Rd, PITTSBURG, CA 94565",PC 148 (A)(1) | PC 602 (M) | PC 647 (F)
+1609-1495,09/29/16 10:07,M,B,04/25/1975,"M30/PPS - Powell St. Station, 899 Market St, SAN FRANCISCO, CA 94103",PC 166 (A)(4)
+1609-1521.,09/29/16 20:15,M,B,06/21/1995,"M30/PPS - Powell St. Station, 899 Market St, SAN FRANCISCO, CA 94103",PC 243 (E)(1) | PC 369 I(B) | BPD TT Adult Arrest Repo
+1609-1545,09/30/16 08:45,M,B,08/29/1992,"1396 Poplar Street, OAKLAND, CA 94607",PC 148 (A)(1)
+1610-0009,10/01/16 08:21,F,B,03/21/1990,"M30/PPS - Powell St. Station, 899 Market Street, San Francisco, CA 94108",PC 640 (D) (4)
+1610-0064,10/02/16 09:46,M,B,06/13/1995,"C70/CMS - North Concord Station, 3700 Port Chicago Hwy, CA 94519",PC 243 (E)(1)
+1610-0066,10/02/16 10:09,M,B,06/01/1970,"K30/MAS - MacArthur Station, 550 40TH ST, OAKLAND, CA 94609",PC 647 (F)
+1610-0094,10/03/16 01:16,M,B,12/22/1992,"L30/EDS - Dublin/Pleasanton, 5801 Owens Dr, PLEASANTON, CA 94588",PC 422 (A)
+1610-0103,10/03/16 07:13,M,W,12/23/1994,"M40/CCS - Civic Center Station, 1150 Market St, SAN FRANCISCO, CA 94102",HS 11532 (A) | BPD TT Adult Arrest Repo
+1610-0103,10/03/16 07:15,M,W,07/28/1993,"M40/CCS - Civic Center Station, 1150 MARKET ST, San Francisco, CA 94102",HS 11350 (A) | HS 11532 (A)
+1610-0103,10/03/16 07:20,M,W,08/30/1976,"M40/CCS - Civic Center Station, 1150 MARKET ST, San Francisco, CA 94102",HS 11350 (A) | HS 11532 (A) | PC 290 (B)
+1610-0103,10/03/16 07:20,M,B,11/16/1967,"M40/CCS - Civic Center Station, 1150 Market Street, san francisco, CA 94601",HS 11364 (A) | HS 11532 (A)
+1610-0147,10/03/16 19:15,M,H,09/18/1965,"W10/CLS - Colma Station, 365 D ST, COLMA, CA 94014",
+1610-0150,10/03/16 21:50,M,B,08/09/1972,"M20/MOS - Montgomery St. Station, 598 Market St, SAN FRANCISCO, CA 94105",PC 166 (A)(4)
+1610-0170,10/04/16 07:00,M,B,10/11/1956,"M40/CCS - Civic Center Station, 1150 Market Street, San Francisco, CA 94101",HS 11532 (A) | BPD TT Adult Arrest Repo
+1610-0170,10/04/16 07:10,M,W,09/03/1986,"M40/CCS - Civic Center Station, 1150 Market Street, San Francisco, CA 94101",HS 11350 (A) | HS 11532 (A)
+1610-0170,10/04/16 07:10,M,H,10/31/1974,"M40/CCS - Civic Center Station, 1150 Market St, SAN FRANCISCO, CA 94102",HS 11350 (A) | HS 11364 (A) | HS 11532 (A)
+1610-0170,10/04/16 07:40,M,W,10/03/1976,"M40/CCS - Civic Center Station, 1150 Market Street, San Francisco, CA 94101",HS 11364 (A) | HS 11532 (A)
+1610-0170,10/04/16 07:40,M,B,10/28/1992,"M40/CCS - Civic Center Station, 1150 Market Street, San Francisco, CA 94101",HS 11532 (A)
+1610-0190,10/04/16 10:14,M,B,04/04/1995,"1245 Broadway, OAKLAND, CA 94612",PC 148 (A)(1)
+1610-0218,10/04/16 19:15,M,B,01/06/1991,"R30/NBS - North Berkeley Station, 1750 SACRAMENTO ST, BERKELEY, CA 94702",PC 243.35 (A) | PC 587 C | BPD TT Adult Arrest Repo
+1610-0233,10/05/16 04:45,M,B,05/06/1986,"A30/COS - Coliseum Station, 7200 San Leandro St, OAKLAND, CA 94608",
+1610-0252,10/05/16 09:28,M,W,08/27/1991,"A20/FVS - Fruitvale Station, 3401 12th St, OAKLAND, CA 94601",PC 978.5
+1610-0267,10/05/16 12:15,M,B,01/02/1985,"M40/CCS - Civic Center Station, 1150 Market St, SAN FRANCISCO, CA 94102",PC 166 (A)(4)
+1610-0268,10/05/16 12:30,M,B,07/24/1991,"M40/CCS - Civic Center Station, 1150 Market Street, San Francisco, CA 94101",HS 11350 (A) | HS 11532 (A) | PC 490.5 (A)
+1610-0274,10/05/16 15:19,F,B,03/10/1996,"A10/LMS - Lake Merritt Station, 800 Madison St, OAKLAND, CA 94607",
+1610-0292,10/05/16 20:00,M,O,01/11/1974,"M16/EMS - Embarcadero Station, 298 Market St, SAN FRANCISC",PC 166 (A)(4) | PC 243.3 | BPD TT Adult Arrest Repo
+1610-0308,10/06/16 07:05,F,B,10/20/1977,"M40/CCS - Civic Center Station, 1150 MARKET ST, San Francisco, CA 94102",HS 11350 (A) | HS 11364 (A) | HS 11532 (A)
+1610-0313,10/06/16 07:55,M,W,04/12/1985,"M40/CCS - Civic Center Station, 1150 Market Street, San Francisco, CA 94101",HS 11532 (A)
+1610-0313,10/06/16 08:05,M,W,02/07/1995,"M40/CCS - Civic Center Station, 1150 Market Street, San Francisco, CA 94101",HS 11350 (A) | HS 11377 (A) | HS 11532 (A) | PC 21310
+1610-0313,10/06/16 08:05,M,W,12/31/1985,"M40/CCS - Civic Center Station, 1150 Market Street, San Francisco, CA 94101",HS 11350 (A) | HS 11532 (A)
+1610-0322,10/06/16 08:27,M,H,05/20/1971,"M40/CCS - Civic Center Station, 1150 Market St, SAN FRANCISCO, CA 94102",PC 481.1 (A) | PC 481.1 (B) | BPD TT Adult Arrest Repo
+1610-0321,10/06/16 08:35,M,B,12/24/1974,"M40/CCS - Civic Center Station, 1150 Market Street, San Francisco, CA 94101",
+1610-0331,10/06/16 09:45,M,B,03/11/1969,"M40/CCS - Civic Center Station, 1150 Market St, SAN FRANCISCO, CA 94102",HS 11364 (A)
+1610-0338,10/06/16 12:28,M,H,10/27/1992,"3401 12th St, OAKLAND, CA 94601",PC 166 (A)(4)
+1610-0346,10/06/16 14:35,M,B,11/23/1991,"1 Train Incident, SAN FRANCISCO, CA 94121",PC 647 (F)
+1610-0360,10/06/16 20:35,M,B,08/29/1969,"M30/PPS - Powell St. Station, 899 Market St, SAN FRANCISCO, CA 94103",
+1610-0369,10/07/16 07:32,M,B,07/05/1955,"M40/CCS - Civic Center Station, 1150 Market St, SAN FRANCISCO, CA 94102",HS 11532 (A) | BPD TT Adult Arrest Repo
+1610-0369,10/07/16 07:34,M,B,03/23/1980,"M40/CCS - Civic Center Station, 1150 MARKETThis eport ST, San Francisco, CA 94102",HS 11350 (A) | HS 11364 (A) | HS 11532 (A)
+1610-0368,10/07/16 07:45,M,B,10/16/1966,"M40/CCS - Civic Center Station, 1150 Market St, SAN FRANCISCO, CA 94102",HS 11364 (A) | PC 417 (A)(1) | PC 594 (A)(2)
+1610-0380,10/07/16 10:25,M,W,08/30/1975,"M30/PPS - Powell St. Station, 899 Market St, SAN FRANCISCO, CA 94103",BP 4060
+1610-0380,10/07/16 10:25,M,W,08/30/1975,"M30/PPS - Powell St. Station, 899 Market St, SAN FRANCISCO, CA 94103",
+1610-0383,10/07/16 10:55,M,W,05/23/1980,"M40/C unknown, 1150 MARKET ST, San Francisco, CA 94102",HS 11350 (A) | HS 11532 (A) | PC 148 (A)(1)
+1610-0383,10/07/16 11:00,F,W,02/23/1982,"M40/C unknown, 1150 MARKET ST, San Francisco, CA 94102",HS 11350 (A) | HS 11532 (A) | BPD TT Adult Arrest Repo
+1610-0383,10/07/16 11:26,M,W,05/23/1980,"M40/C unknown, 1150 MARKET ST, San Francisco, CA 94102",HS 11364 (A) | HS 11532 (A)
+1610-0383,10/07/16 11:28,F,W,08/07/1992,"M40/C unknown, 1150 MARKET ST, San Francisco, CA 94102",
+1610-0462,10/08/16 00:00,M,H,08/21/1982,"M40/CCS - Civic Center Station, 1150 MARKET ST, San Francisco, CA 94102",
+1610-0420,10/08/16 07:28,F,B,01/28/1960,"R30/NBS - North Berkeley Station, 1750 SACRAMENTO ST, Berkeley, CA 94702",PC 166 (A)(4)
+1610-0433,10/08/16 10:40,F,B,03/21/1990,"M30/PPS - Powell St. Station, 899 Market St, SAN FRANCISCO, CA 94103",PC 640 (D)(4)
+1610-0479,10/08/16 10:59,F,B,03/21/1990,"M30/PPS - Powell St. Station, 899 Market Street, San Francisco, CA 94102",PC 640 (D)(4) | BPD TT Adult Arrest Repo
+1610-0484,10/09/16 11:03,M,W,08/29/1986,"A70/SHS - South Hayward Station, 28601 Dixon St, HAYWARD, CA 94544","A70/SHS - South Hayward Station, 28601 Dixon St, HAYWARD, CA 94544 | HS 11378"
+1610-0489,10/09/16 15:43,M,B,08/09/1972,"M30/PPS - Powell St. Station, 899 Market STREET, San Francisco, CA 94102",PC 166 (A)(4)
+1610-0494,10/09/16 16:58,M,B,11/16/1967,"M50/SSS - 16th St. Station, 2000 MISSION ST, SAN FRANCISCO, CA 94110",HS 11377 (A)
+1610-0497,10/09/16 19:20,M,O,07/23/1979,"C60/CDS - Concord Station, 1451 Oakland Ave, Concord, CA 94518",PC 21310
+1610-0528,10/10/16 11:51,F,W,07/05/1983,"Irvington Property (Washington Blvd and Osgood Rd), Fremont, CA 94539",PC 602 (T)(1)
+1610-0533,10/10/16 12:50,M,B,03/30/1990,"K30/MAS - MacArthur Station, 550 40th St, OAKLAND, CA 94609",PC 166 (A)(4) | BPD TT Adult Arrest Repo
+1610-0592,10/11/16 08:18,M,B,11/08/1970,"K30/MAS - MacArthur Station, 550 40TH ST, OAKLAND, CA 94609",PC 148 (A)(1) | PC 166 (A)(4)
+1610-0594,10/11/16 08:50,M,O,10/31/1957,"A90/FMS - Fremont Station, 2000 Bart Way, Fremont, CA 94536",PC 640 (D)(3)
+1610-0622,10/11/16 17:50,M,B,09/07/1983,"A10/LMS - Lake Merritt Station, 800 Madison St, Oakland, CA 94607",
+1610-0628,10/11/16 19:58,M,W,03/26/1975,"C50/PHS - Pleasant Hill Station, 1365 Treat Blvd, CA 94597","C50/PHS - Pleasant Hill Station, 1365 Treat Blvd, CA 94597 | PC 466 | PC 488"
+1610-0641,10/12/16 07:42,F,W,07/21/1987,"BART Irvington Property (Washington Blvd & Osgood Rd), Fremont, CA 94536",PC 602 (T)(1)
+1610-0642,10/12/16 07:50,M,B,11/15/1958,"A10/LMS - Lake Merritt Station, 800 Madison St, OAKLAND, CA 94607",PC 422 (A) | PC 640 (C)(1) | PC 69 | BPD TT Adult Arrest Repo
+1610-0650,10/12/16 08:18,M,B,06/28/1978,"C60/CDS - Concord Station, 1451 Oakland Ave, CA 94520",HS 11377 (A)
+1610-0683,10/12/16 18:45,M,H,07/21/1963,"1 Train Incident, SAN Leandro, CA 94578",PC 647 (F)
+1610-0703,10/13/16 00:00,M,B,06/12/1968,"A30/COS - Coliseum Station, 7200 San Leandro Street, Oakland, CA 94621",PC 243.35 (A)
+1610-0703,10/13/16 09:21,F,H,02/13/1990,"A30/COS - Coliseum Station, 7200 San Leandro Street, Oakland, CA 94621",PC 243.3
+1610-0750,10/14/16 11:02,M,B,04/25/1981,"3601 Deer Hill Rd, LAFAYETTE, CA 94549",PC 647 (F)
+1610-0752,10/14/16 12:18,F,B,06/22/1998,"C80/PBS - Pittsburg Station, 1700 W Leland Rd, PITTSBURG, CA 94565",PC 215 (A)
+1610-0752,10/14/16 12:18,F,B,11/02/1996,"C80/PBS - Pittsburg Station, 1700 W Leland Rd, PITTSBURG, CA 94565",BPD TT Adult Arrest Repo
+1610-0770,10/14/16 18:42,F,H,09/15/1994,"M10/0 unknown, 1 Train Incident, SAN FRANCISCO, CA 94121",PC 243 (E)(1)
+1610-0805,10/15/16 15:06,M,B,12/17/1984,"K30/MAS - MacArthur Station, 550 40th St, OAKLAND, CA 94609",
+1610-0819,10/15/16 19:22,M,B,08/01/1967,"M50/SSS - 16th St. Station, 2000 Mission St, SAN FRANCISCO, CA 94110",PC 481.1 (A)
+1610-0859,10/16/16 00:28,M,W,07/17/1984,"K30/M unknown, 550 40th St, OAKLAND, CA 94609",PC 148 (A)(1)
+1610-0832,10/16/16 10:28,M,B,02/11/1978,"A40/SLS - San Leandro Station, 1401 San Leandro Blvd, SAN LEANDRO, CA 94577",PC 594 (A)(2)
+1610-0868,10/17/16 08:44,M,B,11/08/1970,"1 Train Incident, SAN FRANCISCO, CA 94121",HS 11364 (A) | PC 166 (A)(4) | BPD TT Adult Arrest Repo
+1610-0874,10/17/16 09:35,F,W,03/23/1970,"K10/TSS - 12th St/Oakland Station, 1245 Broadway, OAKLAND, CA 94612",PC 640 (c)(1)
+1610-0881,10/17/16 12:25,M,B,02/14/1992,"1245 BROADWAY, OAKLAND, CA 94612",HS 11359 | PC 243 (E)(1) | PC 422 (A)
+1610-0891,10/17/16 15:41,M,H,09/04/1988,"1 Train Incident, SAN FRANCISCO, CA 94121",
+1610-0893,10/17/16 16:45,M,H,02/13/1984,"A70/SHS - South Hayward Station, 28601 Dixon St, HAYWARD, CA 94544","A70/SHS - South Hayward Station, 28601 Dixon St, HAYWARD, CA 94544 | HS 11377 (A)"
+1610-0905,10/17/16 20:08,M,B,09/05/1990,"R20/BES - Berkeley Station, 2160 SHATTUCK AVE, Berkeley, CA 94704",PC 459
+1610-0908,10/17/16 21:41,M,B,08/27/1952,"C20/ORS - Orinda Station, 11 CAMINO PABLO, ORINDA, CA 94563",PC 417 (A)(1) | PC 647 (F) | PC 978.5 | BPD TT Adult Arrest Repo
+1610-0911,10/17/16 23:01,M,W,06/29/1976,"L30/EDS - Dublin/Pleasanton, 5801 Owens Dr, PLEASANTON, CA 94588",PC 243.3 | PC 647 (F)
+1610-0912,10/17/16 23:53,M,B,11/18/1990,"A50/BFS - Bay Fair Station, 15242 HESPERIAN BLVD, SAN LEANDRO, CA 94578",PC 314.1
+1610-0918,10/18/16 07:27,M,W,02/21/1990,"K20/NSS - 19th St. Station, 1900 Broadway, OAKLAND, CA 94612",PC 640 (c)(1) | PC 69
+1610-0926,10/18/16 10:04,M,B,09/10/1970,"L30/EDS - Dublin/Pleasanton, 5801 Owens Dr, PLEASANTON, CA 94588",PC 3056
+1610-0932,10/18/16 10:54,M,H,08/14/1973,"A20/FVS - Fruitvale Station, 3401 12th St, OAKLAND, CA 94601",PC 166 (A)(4) | PC 587 C
+1610-0944,10/18/16 12:56,M,Z,10/07/1961,"A20/F unknown, 3401 12th St, OAKLAND, CA 94601",PC 647 (F) | BPD TT Adult Arrest Repo
+1602-0091,02/04/16 08:00,M,,06/12/1967,"Y10/SAS - SF Airport Station, 497 North Link ROAD, South San Francisco, CA",PC 640 (d)(3) | PC; Public Transportation: Urinating/Defecating
+1602-0109,02/04/16 13:48,M,X,12/31/1966,"C40/WCS - Walnut Creek Station, 200 Ygnacio Valley ROAD, Walnut Creek, CA 94596",PC 647 (f) | PC; Disorderly Conduct:Intoxicated in Public
+1602-0111,02/04/16 18:00,F,W,05/06/1969,"M30/PPS - Powell St. Station, 899 Market STREET, San Francisco, CA 94102",PC 647 (g) | PC; Intoxicated in Public - Placed in Detox
+1602-0130,02/05/16 10:30,M,B,07/16/1975,"A50/BFS - Bay Fair Station, 15242 Hesperian BI, San Leandro, CA",
+1602-0131,02/05/16 11:15,M,B,07/20/1982,"M30/PPS - Powell St. Station, 899 Market STREET, San Francisco, CA 94102",FTA: VC; Take Vehicle W/O Owner's Consent/Vehicle Theft | FTA: HS; Possess Controlled Substance | PC; Public Transportation: Evade Payment of Fare | PC 640 (c)(1)
+1602-0142,02/05/16 18:50,F,B,11/06/1984,"M30/PPS - Powell St. Station, 899 Market STREET, San Francisco, CA 94102",FTA: VC; Hit And Run:Death Or Injury | FTA: VC; Dui Alcohol/Drugs | PC; Public Transportation: Evade Payment of Fare | PC 640 (c)(1) | BPD TT Adult Arrest Repo
+1602-0176,02/06/16 18:24,F,W,01/18/1965,"A80/UCS - Union City Station, 10 Union SQUARE, Union City, CA 94587",PC 243 (e) (1) | PC 647 (f) | PC; Battery: spouse/ex spouse/ date etc | PC; Disorderly Conduct:Intoxicated in Public
+1602-0180,02/06/16 19:39,M,W,09/24/1973,"M30/PPS - Powell St. Station, 899 Market STREET, San Francisco, CA 94102",
+1602-0195,02/07/16 12:25,M,B,12/04/1977,"A50/BFS - Bay Fair Station, 15242 Hesperian BI, San Leandro, CA 94577",PC O/S War F | PC; Outside Warrant F
+1602-0195,02/07/16 13:40,F,B,03/21/1976,"A50/BFS - Bay Fair Station, 15242 Hesperian BI, San Leandro, CA 94577",
+1602-0217,02/08/16 08:05,M,O,06/25/1980,"A10/LMS - Lake Merritt Station, 800 Madison STREET, Oakland, CA 94608",HS 11377 (A) | PC 640 (C)(1) | PC O/S War F. | HS; Possess Controlled Substance | PC; Public Transportation: Evade Payment of Fare | PC; Outside Warrant F
+1602-0232,02/08/16 18:20,M,H,10/16/1992,"L30/EDS - Dublin/Pleasanton, 5801 Owens DRIVE, Pleasanton, CA 94568",PC 148 (A) | PC 243 (B) | PC; Obstructs/Resists Public Officer/Etc | PC; Battery On Peace Officer/Emergency Personnel/Etc | BPD TT Adult Arrest Repo
+1610-1062,10/20/16 07:27,M,B,07/05/1950,"3401 12th St, OAKLAND, CA 94601",PC 21310 | PC 3056
+1610-1078,10/20/16 11:31,M,H,04/19/1986,"R40/C unknown, 6699 FAIRMOUNT AVE, EL CERRITO, CA 94530",PC 212.5 (A) | PC 236 | PC 243 (D) | PC 243.3 | PC 245 (A)(4) | PC 422 (A) | PC 664/187 (A)
+1610-1085,10/20/16 13:24,F,O,09/12/1986,"K30/MAS - MacArthur Station, 550 40th St, OAKLAND, CA 94609",HS 11364 (A)
+1610-1085,10/20/16 13:24,M,O,12/26/1982,"K30/MAS - MacArthur Station, 550 40th St, OAKLAND, CA 94609",HS 11377 (A)
+1610-1088,10/20/16 15:45,M,B,08/16/1989,"A10/LMS - Lake Merritt Station, 800 madison, oakland, CA 94601",BPD TT Adult Arrest Repo
+1610-1092,10/20/16 16:22,F,F,11/05/1992,"C80/PBS - Pittsburg Station, 1700 W Leland Rd, PITTSBURG, CA 94565",PC 640 (c)(1) | PC 853.7
+1610-1094,10/20/16 17:39,M,H,09/24/1978,"C40/WCS - Walnut Creek Station, 200 Ygnacio Valley Rd, WALNUT CREEK, CA 94596",
+1610-1104,10/20/16 19:30,M,W,05/12/1982,"A20/FVS - Fruitvale Station, 3401 East 12th Street, Oakland, CA 64607",PC 166 (A)(4) | PC 647 (F)
+1610-1111,10/20/16 21:57,M,B,01/23/1969,"555 40th St, OAKLAND, CA 94609",PC 647 (F)
+1610-1121,10/21/16 06:35,M,W,03/16/1993,"M16/EMS - Embarcadero Station, 298 MARKET ST, SAN FRANCISCO, CA 94111",HS 11357 (A) | PC 314.1 | PC 647 (A)
+1610-1153,10/21/16 09:48,M,W,08/11/1982,"L30/EDS - Dublin/Pleasanton, 5801 Owens Dr, PLEASANTON, CA 94588",BPD TT Adult Arrest Repo
+1610-1144,10/21/16 10:11,M,W,09/29/1983,"M80/B unknown, 401 Geneva Ave, SAN FRANCISCO, CA 94112",PC 148 (A)(1) | PC 640 (c)(1)
+1610-1149,10/21/16 10:18,M,B,05/14/1996,"A30/COS - Coliseum Station, 7200 SAN LEANDRO ST, OAKLAND, CA 94621",PC 148.9 (A)
+1610-1157,10/21/16 10:26,M,O,06/17/1985,"A60/HAS - Hayward Station, 699 B St, HAYWARD, CA 94541",
+1610-1240,10/22/16 10:48,F,B,10/12/1978,"A10/LMS - Lake Merritt Station, 800 Madison St, OAKLAND, CA 94607",PC 666 (A)
+1610-1297,10/23/16 10:55,M,H,04/19/1986,"1000 Ward STREET, Martinez, CA 94553",
+1610-1319,10/23/16 14:23,M,B,06/27/1994,"A30/COS - Coliseum Station, 7200 San Leandro St, OAKLAND, CA 94621",HS 11350 (A) | HS 11550 (A) | PC 166 (A)(4) | PC 243.35 (A) | BPD TT Adult Arrest Repo
+1610-1316,10/23/16 14:42,M,B,04/30/1960,"3401 12TH ST, OAKLAND, CA 94601",
+1610-1326,10/23/16 18:15,M,W,04/30/1984,"K30/MAS - MacArthur Station, 550 40th St, OAKLAND, CA 94609",PC 243.35 (A)
+1610-1325,10/23/16 18:16,M,H,12/11/1973,"A50/BFS - Bay Fair Station, 15242 Hesperian Blvd, SAN LEANDRO, CA 94578",
+1610-1360,10/24/16 09:54,M,B,01/05/1994,"M60/TFS - 24th St. Station, 2800 Mission St, SAN FRANCISCO, CA 94110",
+1610-1374,10/24/16 12:08,M,O,01/11/1974,"M30/PPS - Powell St. Station, 899 Market St, SAN FRANCISCO, CA 94103",PC 166 (A)(4)
+1610-1390,10/24/16 16:14,M,H,11/10/1991,"A70/SHS - South Hayward Station, 28601 Dixon St. HAYWARD. CA 94544","A70/SHS - South Hayward Station, 28601 Dixon St. HAYWARD. CA 94544 | PC 459.5 | BPD TT Adult Arrest Repo"
+1610-1389,10/24/16 16:19,M,B,04/20/1991,"K20/NSS - 19th St. Station, 2193 Hillcrest Ave, ANTIOCH, CA 94531",PC 243.35 (A) | PC 245 (A)(1) | PC 273 A(A) | PC 487 (C)
+1610-1426,10/25/16 08:21,M,B,07/11/1994,"R10/AHS - Ashby Station, 3100 Adeline St, BERKELEY, CA 94703","R10/AHS - Ashby Station, 3100 Adeline St, BERKELEY, CA 94703 | PC 148 (A)(1) | PC 148.9 (A) | PC 241 (C) | PC 4024.2 (C)"
+1610-1463,10/25/16 18:00,M,B,10/15/1965,"san leandro high st, OAKLAND, CA 94601",
+1610-1486,10/26/16 01:07,F,B,09/16/1989,"L30/EDS - Dublin/Pleasanton Station, DUBLIN BLVD / DOUGHERTY RD, DUBLIN, CA 94568",
+1610-1505,10/26/16 09:26,M,B,05/31/1990,"A20/FVS - Fruitvale Station, 3401 12TH ST, OAKLAND, CA 94601",HS 11375 (B)(2) | HS 11378 | PC 485 | PC 587 C | BPD TT Adult Arrest Repo
+1610-1520,10/26/16 12:02,F,B,03/21/1989,"A10/LMS - Lake Merritt Station, 800 MADISON ST, OAKLAND, CA 94607",PC 369 I(A) | PC 594 (B)(2)(A
+1610-1577,10/27/16 06:45,F,B,09/30/1987,"A30/COS - Coliseum Station, 7200 San Leandro St, OAKLAND, CA 94621",
+1610-1587,10/27/16 07:57,M,B,03/28/1987,"A30/COS - Coliseum Station, 7200 San Leandro St, OAKLAND, CA 94621",
+1610-1589,10/27/16 08:15,M,H,01/30/1991,"A30/C unknown, 7200 San Leandro St, OAKLAND, CA 94621",HS 11364 (A) | PC 148 (A)(1) | PC 148.9 (A)
+1610-1600,10/27/16 09:54,M,H,04/01/1958,"3601 DEER HILL RD, LAFAYETTE, CA 94549",PC 166 (A)(4)
+1610-1604,10/27/16 11:24,M,B,09/02/1993,"A40/SLS - San Leandro Station, 1401 San Leandro Blvd, SAN LEANDRO, CA 94577",HS 11357 (C) | PC 245 (A)(1) | BPD TT Adult Arrest Repo
+1610-1609,10/27/16 13:09,M,B,11/12/1967,"A10/LMS - Lake Merritt Station, 800 Madison St, OAKLAND, CA 94607",
+1610-1599,10/27/16 13:19,M,B,04/12/1991,"A90/FMS - Fremont Station, 2000 Bart Way, FREMONT, CA 94536",PC 211 | PC 245 (A)(4)
+1610-1657,10/28/16 09:00,M,O,10/10/1997,"M16/EMS - Embarcadero Station, 298 MARKET ST, SAN FRANCISCO, CA 94111",PC 243.4 (A)
+1610-1666,10/28/16 11:50,F,B,11/15/1966,"R60/RIS - Richmond Station, 1700 Nevin Ave, RICHMOND, CA 94801",
+1610-1685,10/28/16 19:19,M,O,04/23/1986,"C70/CMS - North Concord Station, 3700 Port Chicago Hwy, Concord, CA 94520",PC 647 (F)
+1610-1706,10/29/16 00:00,M,W,08/29/1969,"C60/C unknown, 1451 OAKLAND AVE, Concord, CA 94520",HS 11364 (A) | PC 466 | BPD TT Adult Arrest Repo
+1610-1705,10/29/16 00:22,M,H,09/20/1974,"A60/HAS - Hayward Station, 699 B ST, Hayward, CA 94541",PC 243.35 (A)
+1610-1707,10/29/16 00:23,M,W,07/08/1987,"M90/DCS - Daly City Station, 500 John Daly Blvd, DALY CITY, CA",PC 243.3
+1610-1747,10/29/16 17:55,F,W,09/01/1963,"A50/BFS - Bay Fair Station, 15242 Hesperian Blvd, SAN LEANDRO, CA 94578",
+1610-1767,10/29/16 22:25,M,B,06/06/1978,"C80/PBS - Pittsburg Station, 1700 W Leland Rd, BAY POINT, CA 94565",PC 286 (B)(2) | PC 286 (G) | PC 288 (C)(1) | PC 288 A(B)(2) | PC 288 A(G) | PC 647 (F)
+1610-1813,10/30/16 20:47,F,B,08/07/1981,"M90/DCS - Daly City Station, 500 JOHN DALY BLVD, Daly City, CA 94014",PC 243.3
+1610-1873,10/31/16 17:15,M,B,01/19/1997,"A10/LMS - Lake Merritt Station, 800 MADISON ST, OAKLAND, CA 94607",PC 243 (D) | BPD TT Adult Arrest Repo
+1611-0040,11/01/16 12:12,M,A,09/20/1987,"K10/T unknown, l-980 W / 14TH ST, OAKLAND, CA 94612",HS 11357 (C) | HS 11359 | HS 11360 (A)
+1611-0040,11/01/16 12:12,M,O,10/13/1990,"K10/T unknown, 1-980 W / 14TH ST, OAKLAND, CA 94612",HS 11357 (C) | HS 11359 | HS 11360 (A)
+1611-0040,11/01/16 12:12,M,B,10/15/1987,"K10/T unknown, 1-980 W / 14TH ST, OAKLAND, CA 94612",HS 11357 (C) | HS 11359 | HS 11360 (A)
+1611-0040,11/01/16 14:17,F,O,12/07/1987,"K10/T unknown, 1-980 W / 14TH ST, OAKLAND, CA 94612",HS 11357 (C) | HS 11359 | HS 11360 (A)
+1611-0048,11/01/16 14:30,M,B,10/18/1967,"M40/CCS - Civic Center Station, 1150 MARKET ST, San Francisco, CA 94102",PC 166 (A)(4) | BPD TT Adult Arrest Repo
+1611-0052,11/01/16 15:25,M,H,06/24/1997,"3401 12th St, OAKLAND, CA 94601",
+1611-0061,11/01/16 18:01,M,H,04/07/1994,"3601 Deer Hill Rd, LAFAYETTE, CA 94549",
+1611-0074,11/01/16 20:25,M,B,04/06/1984,"M50/SSS - 16th St. Station, 2000 Mission St, SAN FRANCISCO, CA 94110",
+1611-0086,11/02/16 04:00,F,B,08/13/1976,"L30/EDS - Dublin/Pleasanton, 5801 Owens Dr, PLEASANTON, CA 94588",
+1611-0115,11/02/16 11:13,M,B,10/11/1987,"M20/MOS - Montgomery St. Station, 598 Market St, SAN FRANCISCO, CA 94105",PC 148 (A)(1) | PC 243 (B) | PC 243.35 (A)
+1611-0119,11/02/16 12:47,M,B,04/13/1992,"R10/AHS - Ashby Station, 3100 Adeline St, BERKELEY, CA 94703","R10/AHS - Ashby Station, 3100 Adeline St, BERKELEY, CA 94703 | PC 148 (A)(1) | BPD TT Adult Arrest Repo"
+1611-0133,11/02/16 16:23,M,B,03/12/1996,"C80/PBS - Pittsburg/Bay Point Station, 1700 W Leland Rd, PITTSBURG, CA 94565",HS 11350 (A) | PC 29800 (A)(1)
+1611-0136,11/02/16 17:35,M,B,04/20/1991,"C80/PBS - Pittsburg/Bay Point Station, 2193 HILLCREST AVE, ANTIOCH, CA 94531",PC 640 (D)(1)
+1611-0138,11/02/16 18:11,M,B,07/13/1986,"El Ce unknown, 6400 Cutting Blvd, El Cerrito, Ca 94530, El Cerrito, CA 94530",HS 11359
+1611-0158,11/02/16 20:15,M,B,10/08/1974,"Civic unknown, 1150 Market Street, San Francisco, CA 94102",
+1611-0222,11/03/16 18:59,M,B,01/02/1985,"C30/LAS - Lafayette Station, 3601 Deer Hill Rd, LAFAYETTE, CA 94549",
+1611-0231,11/03/16 20:21,M,B,09/16/1977,"A40/SLS - San Leandro Station, 1401 San Leandro Blvd, SAN LEANDRO, CA 94577",PC 978.5 | BPD TT Adult Arrest Repo
+1611-0266,11/04/16 12:09,M,B,08/15/1952,"M30/PSS - Powell St Station, 899 Market St, SAN FRANCISCO, CA 94103",
+1611-0276,11/04/16 14:08,M,H,11/18/1987,"M40/CCS - Civic Center Station, 1150 Market Street, San Francisco, CA 94102",PC 273.6 (A)
+1611-0277,11/04/16 14:59,M,H,03/17/1981,"A10/LMS - Lake Merritt Station, 800 Madison Street, Oakland, CA 94604, Oakland, CA 94604",PC 148 (A)(1) | PC 470 (A) | PC 496 (A)
+1611-0284,11/04/16 17:27,M,B,08/24/1982,"Bay F unknown, 15242 Hesperian Boulevard, san leandro, CA 94578",
+1611-0306,11/05/16 08:33,M,B,10/21/1992,"K30/MAS - MacArthur Station, 550 40th St, OAKLAND, CA 94609",PC 148 (A)(1)
+1611-0315,11/05/16 10:55,M,B,03/16/1975,"C80/PBS - Pittsburg Station, 1700 West Leland Ave, Pittsburg, CA 94513",PC 243.3 | BPD TT Adult Arrest Repo
+1611-0333,11/05/16 18:17,M,O,08/30/1989,"Conco unknown, 1451 Oakland Ave, Concord, CA 94521",HS 11357 (B) | HS 11364 (A) | PC 640 (b)(3)
+1611-0358,11/06/16 08:38,M,B,04/16/1969,"C40/WCS - Walnut Creek Station, 200 Ygnacio Valley Rd, WALNUT CREEK, CA 94596",
+1611-0365,11/06/16 11:19,F,U,03/28/1980,"R10/AHS - Ashby Station, 3000 Adeline St, BERKELEY, CA 94703","R10/AHS - Ashby Station, 3000 Adeline St, BERKELEY, CA 94703 | PC 978.5"
+1611-0364,11/06/16 12:00,M,H,07/12/1994,"San B unknown, 1151 Huntington Ave, SAN BRUNO, CA 94066",PC 647 (F)
+1611-0364,11/06/16 12:30,M,H,07/12/1994,"San B unknown, 1151 Huntington Ave, SAN BRUNO, CA 94066",
+1611-0372,11/06/16 13:58,M,W,03/24/1971,"M90/DCS - Daly City Station, 500 John Daly Blvd, DALY CITY, CA 94014",PC 3056 | BPD TT Adult Arrest Repo
+1611-0394,11/07/16 07:42,M,B,02/01/1951,"M40/CCS - Civic Center Station, 1150 MARKET ST, SAN FRANCISCO, CA 94102",PC 853.7
+1611-0409,11/07/16 10:52,M,H,08/02/1987,"A40/SLS - San Leandro Station, 1401 San Leandro Blvd, SAN LEANDRO, CA 94577",VC 14601.1 (A)
+1611-0436,11/07/16 17:21,F,,12/14/1980,"C70/CMS - North Concord Station, 3700 Port Chicago Hwy, CA 94519",
+1611-0451,11/07/16 19:52,M,B,09/12/1963,"R50/CNS - El Cerrito del Norte Station, 6400 CUTTING BLVD, EL CERRITO, CA 94530",PC 647 (F)
+1611-0454,11/07/16 21:04,M,W,02/02/1970,"M20/MOS - Montgomery St Station, 598 Market St, SAN FRANCISCO, CA 94105",
+1611-0472,11/08/16 06:32,F,B,01/07/1959,"C50/PHS - Pleasant Hill Station, 1365 TREAT BLVD, CA 94597","C50/PHS - Pleasant Hill Station, 1365 TREAT BLVD, CA 94597 | PC 647 (F)"
+1611-0481,11/08/16 08:13,M,B,01/15/1984,"M40/CCS - Civic Center Station, 1150 Market St, SAN FRANCISCO, CA 94102",BPD TT Adult Arrest Repo
+1611-0479,11/08/16 08:33,M,B,09/16/1961,"A40/SLS - San Leandro Station, 1401 San Leandro Blvd, SAN LEANDRO, CA 94577",PC 243.3
+1611-0487,11/08/16 10:48,M,B,02/07/1965,"El Ce unknown, 6400 Cutting Blvd, El Cerrito, CA 94530",PC 978.5
+1611-0495,11/08/16 14:13,M,B,06/16/1993,"C60/CDS - Concord Station, 1451 Oakland Ave, CA 94520",PC 148 (A)(1) | PC 602.1 (B)
+1611-0535,11/08/16 22:20,F,W,05/06/1991,"Civic unknown, 1150 Market street (CCS), San Francisco, CA 94102",
+1611-0540,11/09/16 06:43,M,B,04/22/1962,"M30/PPS - Powell St. Station, 899 Market Street (PPS), San Francisco, CA 94101",
+1611-0560,11/09/16 08:00,M,W,07/15/1984,"Millb unknown, 200 ROLLINS RD, MILLBRAE, CA 94030",BPD TT Adult Arrest Repo
+1611-0573,11/09/16 10:26,M,B,04/16/1964,"M50/SSS - 16th St/Mission Station, 2000 Mission St, SAN FRANCISCO, CA 94110",PC 853.7
+1611-0578,11/09/16 11:01,F,H,12/01/1994,"K30/MAS - MacArthur Station, 550 40th St, OAKLAND, CA 94609",PC 148 (A)(1) | PC 148.9 (A)
+1611-0616,11/09/16 16:06,M,B,05/10/1980,"Lake unknown, 300 Lakeside DRIVE, Oakland, CA 94608",PC 314.1
+1611-0625,11/09/16 19:30,M,W,04/04/1981,"M40/CCS - Civic Center Station, 1150 Market Street, San Francisco, CA 94102",
+1611-0642,11/10/16 08:20,M,B,03/07/1979,"A20/FVS - Fruitvale Station, 3401 E 12th St, OAKLAND, CA",HS 11377 (A) | PC 978.5
+1611-0643,11/10/16 09:04,M,W,01/31/1980,"R20/BES - Downtown Berkeley Station, 2160 Shattuck Ave, BERKELEY, CA 94704",BPD TT Adult Arrest Repo
+1611-0662,11/10/16 14:37,M,H,10/15/1967,"C80/PBS - Pittsburg Station, 1700 W Leland Rd, Pittsburg, CA 94565",
+1611-0671,11/10/16 16:26,M,B,06/01/1970,"Lafay unknown, 3501 Deer Hill Rd, Lafayette, CA 94549",PC 647 (F)
+1611-0694,11/11/16 06:32,F,W,04/19/1988,"A20/FVS - Fruitvale Station, 3401 12th St, OAKLAND, CA 94601",PC 550 (B)(1) | VC 20002 (A)(1)
+1611-0704,11/11/16 09:45,M,W,04/19/1987,"R20/BES - Downtown Berkeley Station, 2160 Shattuck Ave, BERKELEY, CA 94704",
+1611-0711,11/11/16 10:54,M,B,02/12/1976,"A10/LMS - Lake Merritt Station, 800 Madison St, OAKLAND, CA 94607",PC 647 (F)
+1611-0712,11/11/16 11:51,M,B,04/06/1994,"South unknown, 28601 Dixon St., Haywayrd, CA 94544",BPD TT Adult Arrest Repo
+1611-0782,11/12/16 11:50,M,O,04/05/1995,"L30/EDS - Dublin/Pleasanton Station, 5801 Owens Dr, PLEASANTON, CA 94588",PC 594 (A)(1)
+1611-0819,11/12/16 19:30,M,B,08/18/1995,"Coliseum BART Station, 7200 San Leandro Street, Oakland, CA 94621",PC 236.1 (A) | PC 261.5 (D) | PC 266 I(A)(1) | PC 3056
+1611-0823,11/12/16 22:34,M,F,02/26/1998,"W40/MBS - Millbrae Station, 200 Rollins Rd, MILLBRAE, CA 94030",PC 594 (B)(2)A
+1611-0834,11/13/16 00:00,F,B,10/29/1983,"R50/CNS - El Cerrito Del Norte Station, 6400 Cutting Blvd, EL CERRITO, CA 94530",PC 69
+1611-0849,11/13/16 16:45,M,B,03/28/1991,"R50/CNS - El Cerrito del Norte Station, 6400 Cutting Blvd, El Cerrito, CA, El Cerrito, CA 94530",PC 290.018 (G)
+1611-0861,11/13/16 20:24,M,H,02/10/1977,"W10/CLS - Colma Station, 365 D Street, Colma, CA 94014",BPD TT Adult Arrest Repo
+1611-0887,11/14/16 10:27,M,,12/08/1990,"R50/CNS - El Cerrito del Norte Station, 6400 Cutting Blvd, EL CERRITO, CA 94530",
+1611-0884,11/14/16 13:05,M,W,10/06/1985,"M40/CCS - Civic Center Station, 1150 Market Street, San Francisco, CA 94102",HS 11350 (A) | HS 11364 (A) | PC 459 | PC 466 | PC 594 (B)(2)(A
+1611-0926,11/14/16 22:41,M,B,10/25/1984,"M30/PSS - Powell St Station, 899 Market St, SAN FRANCISCO, CA 94103",PC 166 (A)(4)
+1611-0927,11/14/16 23:35,M,O,12/16/1991,"Walnu unknown, 200 Ygnacio Valley Rd, WALNUT CREEK, CA 94596",PC 415 (3)
+1611-0935,11/15/16 06:50,M,W,07/15/1987,"Powel unknown, 899 Market St, San Francisco, CA 94102",PC 640 (D)(4) | BPD TT Adult Arrest Repo
+1611-0939,11/15/16 07:31,F,B,08/20/1973,"A30/COS - Coliseum Station, 7200 San Leandro St, OAKLAND, CA 94621",HS 11364 (A) | PC 243 (B) | PC 640 (D)(1) | PC 69 | PC Misc PC | Miscellenous PC
+1611-0943,11/15/16 09:45,F,B,10/09/1960,"R10/AHS - Ashby Station, 3100 Adeline Street, Berkeley, CA 94703","R10/AHS - Ashby Station, 3100 Adeline Street, Berkeley, CA 94703 | PC 243.3"
+1611-0958,11/15/16 13:57,M,B,04/14/1997,"A50/BFS - Bay Fair Station, 15242 Hesperian Blvd, SAN LEANDRO, CA 94578",PC 488 | VC 10852
+1611-0997,11/16/16 05:40,M,B,06/23/1984,"Haywa unknown, 699 B Street, Hayward, CA 94541",
+1611-1000,11/16/16 06:34,M,H,10/09/1982,"C80/PBS - Pittsburg/Bay Point Station, 1700 W Leland Rd, PITTSBURG, CA 94565",PC 166 (A)(4)
+1611-1001,11/16/16 07:00,M,B,08/24/1977,"A30/COS - Coliseum Station, 7200 SAN LEANDRO STREET, OAKLAND, CA 94621",PC 488 | VC 10852 | BPD TT Adult Arrest Repo
+1602-0244,02/09/16 11:00,F,B,02/01/1994,"A50/BFS - Bay Fair Station, 15242 Hesperian BI, San Leandro, CA 94577",PC 243 (e)(1) | PC; Battery: spouse/ex spouse/ date etc
+1602-0245,02/09/16 12:00,F,W,12/08/1978,"W40-MBS - Millbrae Station, 200 North Rollins ROAD, Millbrae, CA",PC 166 (a)(4) | PC 243 (e)(1) | PC; Contempt of Court | PC; Battery: spouse/ex spouse/ date etc
+1602-0257,02/09/16 14:06,M,A,09/01/1984,"K10/TSS - 12th St. Station, 1247 Broadway, Oakland, CA 94608",PC 166 (a)(4) | PC; Contempt of Court
+1602-0265,02/09/16 20:00,M,B,11/28/1969,"A30/COS - Coliseum Station, 7200 San Leandro AVENUE, Oakland, CA 94608",PC 243.35(a) | PC; Battery While On Public Transportation Property
+1602-0282,02/10/16 10:18,M,H,10/21/1983,"A30/COS - Coliseum Station, 7200 San Leandro STREET, Oakland, CA 94608",HS 11364.1 (A) | PC 640 (c)(1) | FTA: HS; Possess Unlawful Paraphrenailia | HS; Possess Unlawful Paraphrenailia | PC; Public Transportation: Evade Payment of Fare
+1602-0287,02/10/16 15:49,M,W,03/09/1994,"A 10/LMS - Lake Merritt Station, 800 Madison STREET, Oakland, CA 94608",HS 11377 (A) | HS; Possess Controlled Substance | BPD TT Adult Arrest Repo
+1602-0292,02/10/16 21:41,M,B,06/21/1987,"A10/LMS - Lake Merritt Station, 800 Madison AVENUE, Oakland, CA 94608",PC 243 (e)(1) | PC; Battery: spouse/ex spouse/ date etc
+1602-0300,02/10/16 22:45,M,B,08/29/1991,"M10/OWS - West Oakland Station, 1451 7th, Oakland, CA 94608",PC 148 (A) | PC 415 (1)(3) | PC; Obstructs/Resists Public Officer/Etc | PC; Fgt/Chal Fgt/Offensive Words Public Place
+1602-0310,02/11/16 09:45,M,B,01/26/1991,"K10/TSS - 12th St. Station, 1247 Broadway, Oakland, CA 94608",PC 640 (c)(1) | FTA: PC; Public Transportation: Evade Payment of Fare | PC; Public Transportation: Evade Payment of Fare
+1602-0311,02/11/16 10:04,M,B,08/06/1974,"M30/PPS - Powell St. Station, 899 Market STREET, San Francisco, CA 94102",HS; Possess Unlawful Paraphrenailia | HS 11364.1 (A)
+1602-0319,02/11/16 13:10,M,W,08/05/1954,"R20/BES - Berkeley Station, 2160 Shattuck AVENUE, Berkeley, CA 94608",PC 374.4 (a) | PC 640 (d)(1) | PC; Litter Public/Private Property | PC; Public Transportation: Boisterous/Unruly Behavior
+1602-0378,02/13/16 14:42,,,06/08/1961,"R50/CNS - El Cerrito Del Norte Station, 6400 Cutting BI, El Cerrito, CA",PC 640 (d)(3) | PC; Public Transportation: Urinating/Defecating | BPD TT Adult Arrest Repo
+1611-1006,11/16/16 08:12,M,B,10/06/1996,"A30/COS - Coliseum Station, 7200 San Leandro Street, Oakland, CA 94621",PC 488 | VC 10851 (A) | VC 10852 | VC 10853
+1611-1022,11/16/16 09:52,M,H,01/25/1994,"A70/SHS - South Hayward Station, 28601 Dixon St, HAYWARD. CA 94541","A70/SHS - South Hayward Station, 28601 Dixon St, HAYWARD. CA 94541 | PC 459 | PC 466 | PC 496 (A)"
+1611-1021,11/16/16 10:15,F,B,07/17/1973,"A30/COS - Coliseum Station, 7200 SAN LEANDRO STREET, OAKLAND, CA 94621",PC 488 | PC 496 (A) | VC 10853
+1611-1037,11/16/16 14:18,M,W,07/29/1960,"C60/CDS - Concord Station, 1451 Oakland Ave, CA 94518",
+1611-1045,11/16/16 17:30,M,,07/14/1990,"3401 34th street, oakland, CA 94106",BPD TT Adult Arrest Repo
+1611-1071,11/16/16 22:27,M,A,03/24/1996,"Y10/S unknown, 497 N Link Rd, SAN FRANCISCO, CA 94128",PC 245 (A)(1) | PC 273.5 (A)
+1611-1071,11/16/16 22:27,M,B,12/21/1995,"Y10/S unknown, 497 N Link Rd, SAN FRANCISCO, CA 94128",
+1611-1075,11/17/16 06:55,M,O,01/11/1974,"Powel unknown, 899 Market st, San Francisco, CA 94101",PC 166 (A)(4)
+1611-1078,11/17/16 08:26,M,B,03/03/1987,"FRUIT unknown, 3401 12th St, OAKLAND, CA 94601",
+1611-1104,11/17/16 13:30,M,B,12/16/1980,"A20/FVS - Fruitvale Station, 3401 12th St, OAKLAND, CA 94601",PC 466
+1611-1153,11/18/16 07:33,M,B,12/26/1993,"A60/HAS - Hayward Station, 699 B St, HAYWARD, CA 94541",
+1611-1155,11/18/16 07:36,M,B,09/11/1983,"C60/CDS - Concord Station, 1451 Oakland Ave, Concord, CA 94519",BPD TT Adult Arrest Repo
+1611-1161,11/18/16 08:16,M,B,12/12/1997,"M10/OWS - West Oakland Station, 1451 7th street, oakland, CA 94608",PC 459
+1611-1233,11/19/16 09:36,M,B,11/02/1997,"A70/SHS - South Hayward Station, 28601 Dixon St, HAYWARD, CA 94544","A70/SHS - South Hayward Station, 28601 Dixon St, HAYWARD, CA 94544"
+1611-1251,11/19/16 16:36,M,B,07/05/1996,"A30/COS - Coliseum Station, 7200 San Leandro Blvd, OAKLAND, CA",
+1611-1248,11/19/16 17:38,M,H,04/23/1973,"A80/UCS - Union City Station, 10 UNION SQUARE, UNION CITY, CA 94538",PC 496 (B) | VC 10851 (A)
+1611-1264,11/19/16 21:37,M,B,05/27/1984,"M10/0 unknown, 1451 7th St, OAKLAND, CA 94607",HS 11364 (A) | PC 148 (A)(1) | PC 466 | PC 488 | BPD TT Adult Arrest Repo
+1611-1307,11/20/16 00:00,M,B,08/16/1975,"R20/B unknown, 2160 Shattuck Ave, Berkeley, CA 94704",HS 11364 (A) | PC 466 | PC 488
+1611-1280,11/20/16 09:23,M,B,03/30/1990,"A30/COS - Coliseum Station, 7200 San Leandro St, OAKLAND, CA 94621",PC 148 (A)(1) | PC 166 (A)(4)
+1611-1284,11/20/16 10:37,F,W,09/17/1962,"South unknown, 28601 Dixon Street, Hayward, CA 94544",
+1611-1290,11/20/16 12:28,M,B,10/18/1967,"M60/TFS - 24th St. Station, 2800 Mission St, SAN FRANCISCO, CA 94110",HS 11364 (A) | PC 148 (A)(1) | PC 166 (A)(4) | PC 243 (B)
+1611-1348,11/21/16 12:32,M,H,08/17/1967,"C10/ROS - Rockridge Station, 5660 College Ave, OAKLAND, CA 94618",PC 422 (A) | BPD TT Adult Arrest Repo
+1611-1368,11/21/16 17:44,M,B,06/14/1979,"R30/NBS - North Berkeley Station, 1750 SACRAMENTO ST, BERKELEY, CA 94701",PC 640 (D)(1)
+1611-1422,11/22/16 16:05,M,B,05/08/1985,"M30/PSS - Powell St Station, 899 Market St, SAN FRANCISCO, CA 94103",
+1611-1455,11/23/16 05:26,M,B,12/07/1991,"1245 BROADWAY, OAKLAND, CA 94612",PC 211
+1611-1469,11/23/16 13:48,M,B,10/17/1991,"M30/PPS - Powell St. Station, 899 Market St, SAN FRANCISCO, CA 94103",HS 11364 (A) | PC 148 (A)(1) | PC 21310 | PC 243 (B) | PC 69
+1611-1491,11/23/16 22:15,M,O,01/11/1974,"POWEL unknown, 899 MARKET STREET, SAN FRANCISCO, CA 94101",PC 166 (A)(4)
+1611-1494,11/23/16 22:36,M,B,02/01/1976,"R50/CNS - El Cerrito Del Norte Station, 6400 CUTTING BLVD, EL CERRITO, CA 94530",PC 148 (A)(1) | PC 243.35 (A) | BPD TT Adult Arrest Repo
+1611-1504,11/24/16 12:23,M,B,04/13/1973,"Lake unknown, 800 Madison AVENUE, Oakland, CA 94608",PC 166 (A)(4)
+1611-1524,11/25/16 00:00,M,B,07/22/1961,"A60/HAS - Hayward Station, 699 B St., Hayward, CA 94541",PC 166 (A)(4)
+1611-1520,11/25/16 04:16,M,B,03/14/1995,"R60/RIS - Richmond Station, 1700 Nevin Ave, RICHMOND, CA 94801",HS 11377 (A)
+1611-1523,11/25/16 07:46,M,W,01/16/1988,"A50/BFS - Bay Fair Station, 15242 Hesperian Blvd, SAN LEANDRO, CA 94578",
+1611-1568,11/25/16 16:30,M,W,10/18/1960,"Powel unknown, 899 Market Street, San Francisco, CA 94102",PC 640 (D)(4) | PC 647 (F)
+1611-1570,11/25/16 16:45,M,I,04/19/1970,"R50/C unknown, 6400 Cutting Blvd, EL CERRITO, CA 94530",HS 11357 (B) | HS 11364 (A) | PC 466 | PC 488 | BPD TT Adult Arrest Repo
+1611-1593,11/25/16 23:35,M,H,03/22/1962,"Bay F unknown, 15242 Hesperian Blvd., San Leandro, CA 94578",
+1611-1599,11/26/16 01:18,M,W,12/10/1969,"M30/PSS - Powell St Station, 899 Market St, SAN FRANCISCO, CA 94103",HS 11364 (A) | HS 11377 (A)
+1611-1603,11/26/16 10:25,M,B,11/08/1970,"North unknown, CMS 3700 Port Chicago Hwy, Concord, CA 94520",HS 11364 (A) | PC 166 (A)(4)
+1611-1640,11/26/16 23:02,F,B,03/08/1958,"19th unknown, 1900 Broadway Ave, Oakland, CA 94608",PC 647 (F)
+1611-1672,11/27/16 10:49,M,C,03/17/1993,"A90/FMS - Fremont Station, 2000 Bart Way, FREMONT, CA 94536",PC 647 (C)
+1611-1681,11/27/16 12:50,M,B,10/16/1965,"A70/S unknown, 28601 Dixon St, HAYWARD, CA 94541",BPD TT Adult Arrest Repo
+1611-1692,11/27/16 15:58,M,H,06/01/1983,"C60/CDS - Concord Station, 1451 Oakland Av, CONCORD, CA 00000",HS 11350 (A) | HS 11364 (A) | PC 135 | PC 148 (A)(1) | PC 243 (B)
+1611-1698,11/27/16 19:23,M,B,06/23/1995,"Macar unknown, 550 40th Street, Oakland, CA 94608",PC 148 (A)(1)
+1611-1716,11/28/16 07:45,M,B,03/28/1991,"K30/MAS - MacArthur Station, 550 40th St, OAKLAND, CA 94609",PC 290 (B) | PC 640 (c)(1)
+1611-1717,11/28/16 09:38,M,B,02/01/1962,"OAKLA unknown, 1451 7th St, Oakland, CA 00000",
+1611-1743,11/28/16 15:00,M,B,11/06/1964,"R60/RIS - Richmond Station, 1700 NEVIN AVE, RICHMOND, CA 94801",PC 243.3 | BPD TT Adult Arrest Repo
+1611-1744,11/28/16 15:46,M,B,08/26/1986,"Walnut Creek BART Station. 200 Ygnacio Valley Road, Walnut Creek, CA 95654",PC 243.3 | PC 594 (B)(1)
+1611-1764,11/28/16 20:17,M,U,06/07/1997,"K30/MAS - MacArthur Station, 550 40th Street, Oakland, CA 94608",BP 25662 (A)
+1611-1804,11/29/16 10:59,M,B,08/12/1988,"El Ce unknown, 6400 Cutting Blvd, El Cerrito, CA 94530",
+1611-1810,11/29/16 12:40,M,H,11/18/1987,"A10/LMS - Lake Merritt Station, 800 Madison St, OAKLAND, CA 00000-000_",PC 148 (A)(1) | PC 273.6 (A)
+1611-1817,11/29/16 18:08,M,W,11/25/1972,"H10/0CO - Coliseum Station, 7200 SAN LEANDRO ST, OAKLAND, CA 94621",PC 21310
+1611-1854,11/29/16 23:43,M,W,05/06/1997,"K20/NSS - 19th St. Station, 1900 BROADWAY, OAKLAND, CA 94612",PC 243.3 | BPD TT Adult Arrest Repo
+1611-1861,11/30/16 06:54,F,B,05/25/1977,"K10/TSS - 12th St/Oakland Station, 1245 BROADWAY, OAKLAND, CA 00000-00",
+1611-1859,11/30/16 06:57,M,B,10/19/1962,"L30/EDS - Dublin/Pleasanton, 5801 Owens Dr, PLEASANTON, CA 94588",PC 243.35 (A)
+1611-1881,11/30/16 11:48,M,W,05/06/1963,"M40/CCS - Civic Center Station, 1150 Market St, SAN FRANCISCO, CA 94102",PC 243.35 (A)
+1611-1893,11/30/16 16:58,M,W,06/10/1967,"W30/SBS - San Bruno Station, 1151 Huntington Ave, SAN BRUNO, CA 94066",
+1611-1895,11/30/16 18:06,M,H,02/08/1978,"A20/FVS - Fruitvale Station, 3401 12th St, OAKLAND, CA 94601",
+1611-1917,11/30/16 23:00,M,B,06/16/1992,"M40/CCS - Civic Center Station, 1150 Market street (CCS), San Francisco, CA 94102",
+1612-0665,12/01/16 02:32,F,B,08/11/1991,"FREMO unknown, 2000 BART WAY, FREMONT. CA 94538",BPD TT Adult Arrest Repo
+1612-0026,12/01/16 09:12,M,W,07/28/1975,"M60/TFS - 24th St/Mission Station, 2800 Mission St, SAN FRANCISCO, CA 94110",
+1612-0039,12/01/16 13:53,M,W,04/21/1981,"M30/PSS - Powell St Station, 899 MARKET ST, SAN FRANCISCO, CA 94103",PC 415 (3)
+1612-0050,12/01/16 18:05,M,W,05/13/1986,"Walnu unknown, 200 Ygnacio Valley Road, Walnut Creek, CA 94597",PC 148 (A)(1) | PC 640 (c)(1)
+1612-0059,12/01/16 22:15,F,W,07/17/1975,"EL CE unknown, 6400 Cutting Blvd, EL CERRITO, CA 94530",PC 148 (A)(1) | PC 647 (F)
+1612-0065,12/01/16 23:10,M,O,01/11/1974,"Civic unknown, 1150 Market Street San Francisco, San Francisco, CA 94104",PC 166 (A)(4)
+1612-0068,12/02/16 01:30,M,B,08/31/1986,"EL CE unknown, 6400 CUTTING BLVD, EL CERRITO, CA 94530",BPD TT Adult Arrest Repo
+1612-0090,12/02/16 08:54,M,W,01/20/1987,"M30/PSS - Powell St Station, 899 MARKET ST, SAN FRANCISCO, CA 94103",HS 11364 (A) | PC 481.1 (A)
+1612-0108,12/02/16 16:39,M,B,04/28/1953,"R60/RIS - Richmond Station, 1700 NEVIN AVE, RICHMOND. CA 94801",PC 647 (F)
+1612-0114,12/02/16 16:52,M,B,08/24/1977,"C80/PBS - Pittsburg/Bay Point Station, 1700 W Leland Rd, PITTSBURG, CA 94565",PC 647 (F)
+1612-0142,12/02/16 23:46,F,W,11/08/1992,"L10/CVS - Castro Valley Station, 3301 Norbridge Ave, CASTRO VALLEY, CA 94546",PC 640 (D)(5)
+1612-0170,12/03/16 14:05,M,H,07/28/1979,"Conco unknown, 1451 Concord Avenue Concord, CA 94520, Concord, CA 94520",
+1612-0204,12/03/16 20:56,M,W,03/17/1994,"C60/C unknown, 1451 Oakland Ave, Concord, CA 94520",PC 182 (A)(1) | PC 245 (A)(4) | PC 369 1(A) | BPD TT Adult Arrest Repo
+1612-0206,12/03/16 22:51,M,B,06/21/1986,"HAYWA unknown, 699 B STREET, HAYWARD, CA 94557",
+1612-0229,12/04/16 16:00,M,,07/18/1959,"El Ce unknown, 6400 Cutting Blvd, El Cerrito, CA 94805",PC 640 (D)(3)
+1612-0244,12/04/16 19:35,M,W,05/26/1974,"San B unknown, 1151 Huntington Ave, SAN BRUNO, CA 94066",
+1612-0252,12/05/16 00:40,M,B,10/12/1989,"R60/RIS - Richmond Station, 1700 Nevin Ave, RICHMOND, CA 94801",
+1612-0297,12/05/16 19:35,M,B,03/04/1993,"R20/BES - Downtown Berkeley Station, 2160 Shattuck Ave, BERKELEY, CA 94704",
+1612-0317,12/06/16 05:37,M,B,06/15/1960,"K10/TSS - 12th St/Oakland Station, 1245 Broadway, OAKLAND, CA 94612",HS 11364 (A) | PC 148.9 (A) | PC 485 | BPD TT Adult Arrest Repo
+1612-0376,12/06/16 17:57,M,B,09/15/1966,"L30/EDS - Dublin/Pleasanton, 5801 Owens Dr, PLEASANTON, CA 94588",PC 466 | PC 496 (A)
+1612-0373,12/06/16 19:15,M,B,08/16/1985,"M10/0WS - West Oakland Station, 1451 7TH STREET OAKLAND CA 94607, Not Applicable, CA 94607",PC 148 (A)(1) | PC 243.3 | PC 647 (F)
+1612-0451,12/08/16 08:48,M,A,11/15/1962,"R20/BES - Berkeley Station, 2160 Shattuck Avenue, Berkeley, CA 94704",
+1612-0455,12/08/16 10:16,F,H,05/10/1991,"M70/GPS - Glen Park Station, 2901 DIAMOND ST, SAN FRANCISCO, CA 94131",PC 243 (E)(1)
+1612-0494,12/08/16 22:24,M,W,01/03/1960,"C60/CDS - Concord Station, 1451 Oakland Ave, Concord, CA 94520",PC 647 (F)
+1612-0499,12/09/16 01:24,M,H,01/10/1985,"L30/EDS - Dublin/Pleasanton, 5801 Owens Dr, PLEASANTON, CA 94588",PC 243.3 | BPD TT Adult Arrest Repo
+1612-0519,12/09/16 08:15,M,W,07/29/1979,"699 Market STREET, San Francisco, CA 94102",
+1612-0522,12/09/16 08:16,M,B,09/13/1977,"R50/CNS - El Cerrito Del Norte Station, 6400 Cutting Blvd., El Cerrito, CA 94530",PC 273.6 (A)
+1612-0523,12/09/16 08:16,F,B,05/30/1982,"R50/CNS - El Cerrito Del Norte Station, 6400 Cutting Blvd., El Cerrito, AL 94530",
+1612-0535,12/09/16 09:35,M,H,01/11/1977,"M16/EMS - Embarcadero Station, 298 MARKET ST, SAN FRANCISCO, CA 94111",PC 243.3
+1612-0553,12/09/16 11:16,M,B,05/05/1985,"A50/BFS - Bay Fair Station, 15242 HESPERIAN BLVD, SAN LEANDRO, CA 94578",PC 166 (A)(4)
+1612-0546,12/09/16 11:48,M,O,09/25/1969,"Richm unknown, 1700 NEVIN AVE, RICHMOND BART, RICHMOND, CA 94801",BPD TT Adult Arrest Repo
+1612-0577,12/09/16 17:40,M,B,11/14/1992,"M30/PPS - Powell St. Station, 899 MARKET ST. SAN FRANCISCO, CA 94103",PC 243 (B) | PC 69
+1612-0579,12/09/16 17:47,F,H,09/07/1955,"C20/ORS - Orinda Station, 11 Camino Pablo, ORINDA, CA 94563",PC 647 (F)
+1612-0592,12/09/16 19:25,M,B,03/20/1977,"A50/B unknown, 15242 Hesperian Blvd, SAN LEANDRO, CA 94578",PC 243.3
+1612-0597,12/09/16 20:17,M,H,07/21/1963,"A10/LMS - Lake Merritt Station, 800 MADISON ST, OAKLAND, CA 94607",PC 21310 | PC 647 (F)
+1612-0604,12/10/16 00:38,M,A,12/02/1991,"R50/CNS - El Cerrito del Norte Station, 6400 Cutting Blvd, EL CERRITO, CA 94530",PC 647 (F)
+1612-0606,12/10/16 01:00,M,X,02/09/1990,"Dubli unknown, DPS 5801 Owens Drive Pleasanton, ca., pleasanton, CA 94560",PC 640 (D)(3) | BPD TT Adult Arrest Repo
+1612-0666,12/11/16 08:03,F,B,03/21/1990,"M30/PSS - Powell St Station, 899 Market St, SAN FRANCISCO, CA 94103",PC 640 (D)(4)
+1612-0671,12/11/16 10:23,M,O,01/03/1993,"12th unknown, 1247 Broadway St, Oakland, CA 94106",
+1612-0672,12/11/16 10:27,M,W,09/30/1962,"A30/COS - Coliseum Station, 7200 San Leandro St, OAKLAND, CA 94621",PC 290 (B)
+1612-0677,12/11/16 12:13,M,B,08/09/1972,"Powel unknown, 899 Market Street, San Francisco, CA 94102",PC 148 (A)(1) | PC 166 (A)(4) | PC 369 I(B) | PC 640 (D)(4) | PC 647 (F)
+1612-0682,12/11/16 12:58,M,B,03/04/1993,"R10/AHS - Ashby Station, 3100 Adeline St, BERKELEY, CA 94703","R10/AHS - Ashby Station, 3100 Adeline St, BERKELEY, CA 94703 | PC 166 (A)(4)"
+1612-0741,12/12/16 12:15,M,B,11/01/1991,"K10/T unknown, 1245 Broadway, OAKLAND, CA 94612",PC 594 (A)(1) | BPD TT Adult Arrest Repo
+1612-0767,12/12/16 22:07,M,B,03/02/1992,"M40/CCS - Civic Center Station, 1150 Market Street, San Francisco, CA 94102",PC 243.3
+1612-0780,12/13/16 06:40,M,B,10/24/1977,"A20/FVS - Fruitvale Station, 3401 12th St, OAKLAND, CA 94601",PC 166 (A)(1)
+1612-0790,12/13/16 07:24,M,B,02/22/1984,"El Ce unknown, 6400 Cutting Blvd, El Cerrito, CA 94530",
+1612-0795,12/13/16 07:43,F,B,01/30/1983,"A80/UCS - Union City Station, 10 Union Sq, UNION CITY, CA 94587",
+1612-0804,12/13/16 08:50,M,H,09/28/1988,"M60/TFS - 24th St Mission Station, 2800 Mission St, SAN FRANCISCO, CA 94110",HS 11364 (A) | PC 148.9 (A) | PC 640 (c)(1)
+1612-0809,12/13/16 10:01,M,B,09/13/1991,"6200 Cutting Blvd, Richmond, CA 94806",BPD TT Adult Arrest Repo
+1612-0827,12/13/16 12:25,M,B,02/09/1998,"LAKE unknown, 800 Madison Street, Oakland, CA 94602",PC 148 (A)(1)
+1612-0842,12/13/16 16:26,M,B,02/04/1989,"Conco unknown, 1451 Oakland Avenue, Concord, CA 94520",PC 314.1
+1612-0875,12/13/16 21:00,F,B,03/21/1999,"Civic unknown, 1150 Market St San Francisco, San Francisco, CA 94102",PC 640 (D)(4)
+1612-0885,12/13/16 23:51,M,W,07/23/1979,"M40/CCS - Civic Center Station, 1150 Market St, SAN FRANCISCO, CA 94102",
+1612-0889,12/14/16 04:44,M,O,10/02/1961,"A20/FVS - Fruitvale Station, 3401 12th St, OAKLAND, CA 94601",VC 14601.1 (A)
+1612-0891,12/14/16 05:26,F,X,01/24/1964,"A60/HAS - Hayward Station, 699 B St, HAYWARD, CA 94541",HS 11364 (A) | HS 11377 (A) | PC 148 (A)(1) | PC 417 (A)(1) | BPD TT Adult Arrest Repo
+1612-0938,12/14/16 16:20,M,W,04/28/1982,"A60/HAS - Hayward Station, 699 B St Hayward Ca 94541, Hayward, CA 94541",
+1612-0965,12/15/16 06:44,M,B,11/24/1987,"R50/CNS - El Cerrito Del Norte Station, 6400 Cutting Blvd, El Cerrito, CA 94530",PC 166 (A)(4) | PC 647 (F)
+1612-1047,12/16/16 18:02,F,W,12/21/1969,"M90/DCS - Daly City Station, 500 John Daly Blvd, DALY CITY, CA 94014",PC 487 (A) | PC 490.1 (A)
+1612-1053,12/16/16 19:15,F,B,08/19/1975,"K30/MAS - MacArthur Station, 550 40th Street, oakland, CA 94604",PC 148 (A)(1) | PC 466 | PC 488
+1612-1069,12/17/16 07:45,M,B,10/18/1977,"Millb unknown, MILLBRAE BART STATION, MILLBRAE, CA 94030",
+1612-1071,12/17/16 08:36,M,W,09/09/1970,"K30/MAS - MacArthur Station, 550 40th St, OAKLAND, CA 94609",PC 243.3 | PC 417 (A)(1) | BPD TT Adult Arrest Repo
+1602-0383,02/13/16 22:04,M,B,08/31/1979,"L30/EDS - Dublin/Pleasanton, 5801 Owens, Dublin, CA 94566","FTA: PC; Battery While On Public Transportation Property | FTA: PC; Willfully Resists, Delays, or Obstructs Public, Pea"
+1602-0396,02/14/16 15:12,M,B,01/17/1993,"R50/CNS - El Cerrito Del Norte Station, 6400 Cutting BI, El Cerrito, CA 94530",PC 640 (c)(1) | PC O/S War F | PC; Public Transportation: Evade Payment of Fare | PC; Outside Warrant F
+1602-0397,02/14/16 16:47,F,H,08/01/1987,"M30/PPS - Powell St. Station, 899 Market STREET, San Francisco, CA 94102",FTA: PC; Petty Theft Under $50 Without Prior
+1602-0401,02/14/16 19:40,M,W,02/04/1994,"C60/CDS - Concord Station, 1451 Oakland BI, Concord, CA",HS 11377 (A) | HS; Possess Controlled Substance
+1602-0404,02/14/16 20:00,M,H,08/03/1968,"A60/HAS - Hayward Station, 699 B STREET, Hayward, CA","PC 148 (A)(1) | PC 647 (f) | PC; Willfully Resists, Delays, or Obstructs Public, Peace Of | PC; Disorderly Conduct:Intoxicated in Public"
+1602-0406,02/15/16 01:51,M,H,08/01/1979,"A50/BFS - Bay Fair Station, 304 Bay Fair Mall, San Leandro, CA 94577",PC 273.6(A) | PC; Violate Court Order To Prevent Domestic Violence | BPD TT Adult Arrest Repo
+1602-0427,02/16/16 00:21,M,W,04/16/1985,"C60/CDS - Concord Station, 1451 Oakland BI, Concord, CA 94518",PC 466 | PC; Possess/Etc Burglary Tools
+1602-0436,02/16/16 10:44,M,B,10/29/1985,"22849 Kingsford CT, Hayward, CA 94541",
+1602-0441,02/16/16 13:30,F,H,12/24/1991,"Miramar Rolando AVENUE, Castro Valley, CA",PC 273.5(A) | PC; Inflict Corporal Injury On Spouse/Cohabitant
+1602-0443,02/16/16 14:02,M,B,03/31/1969,"A30/COS - Coliseum Station, 7200 San Leandro STREET, Oakland, CA 94608","PC 1203.2(a) | PC 22210 | PC 602.1(B) | PC; Violation of Probation/Probation Re-Arrest | PC; Billy, blackjack, sandbag-club, sap, slungshot, leaded c | PC; Trespass: Obstruct/Etc Business of Public Agency"
+1602-0441,02/16/16 14:13,F,H,12/24/1991,"Miramar Rolando AVENUE, Castro Valley, CA",PC 273.5(A) | PC; Inflict Corporal Injury On Spouse/Cohabitant
+1602-0449,02/16/16 20:20,F,H,06/13/1968,"C60/CDS - Concord Station, 1451 Oakland BI, Concord, CA 94518",PC 243 (e)(1) | PC; Battery: spouse/ex spouse/ date etc | BPD TT Adult Arrest Repo
+1612-1105,12/18/16 02:49,M,W,09/22/1993,"C50/PHS - Pleasant Hill Station, 1365 Treat Blvd, WALNUT CREEK, CA 94597","C50/PHS - Pleasant Hill Station, 1365 Treat Blvd, WALNUT CREEK, CA 94597 | PC 211 | PC 245 (A)(1)"
+1612-1109,12/18/16 09:13,M,B,03/16/1975,"R60/RIS - Richmond Station, 1700 Nevin Ave, RICHMOND, CA 94801",
+1612-1112,12/18/16 12:35,F,B,03/21/1990,"M30/PPS - Powell St. Station, 899 Market St, SAN FRANCISCO, CA 94103",PC 640 (D)(4)
+1612-1127,12/18/16 18:20,M,H,09/26/1968,"W20/SFS - South San Francisco Station, 1333 Mission Road, South San Francisco, CA, South San Francis",VC 14601.1 (A)
+1612-1133,12/18/16 23:00,M,O,09/07/1991,"M90/DCS - Daly City Station, 500 JOHN DALY BLVD, DALY CITY, CA 94014",HS 11377 (A)
+1612-1154,12/19/16 10:31,F,,05/05/1990,"Lake unknown, 800 MADISON ST, OAKLAND, CA 94607",PC 3056 | BPD TT Adult Arrest Repo
+1612-1163,12/19/16 13:51,M,H,05/02/1982,"C60/CDS - Concord Station, 1451 Oakland Ave, CA 94520",
+1612-1171,12/19/16 16:20,M,H,12/01/1976,"A60/HAS - Hayward Station, 699 B St, HAYWARD, CA 94541",PC 459 | PC 466
+1612-1187,12/19/16 21:19,M,W,12/12/1956,"C60/CDS - Concord Station, 1451 OAKLAND AVE, CA 94518",PC 640 (D)(3)
+1612-1206,12/20/16 08:08,M,B,11/06/1972,"K10/TSS - 12th St/Oakland Station, 1245 Broadway, OAKLAND, CA 94612",PC 148.9 (A) | PC 3056
+1612-1229,12/20/16 17:20,M,F,01/08/1992,"San B unknown, 200 Rollins Road, Millbrae, CA 94030",HS 11364 (A) | HS 11377 (A)
+1612-1290,12/21/16 18:34,M,B,09/17/1987,"Conco unknown, 1 Train Incident, SAN FRANCISCO, CA 94121",PC 369 I(B) | BPD TT Adult Arrest Repo
+1612-1288,12/21/16 18:50,M,B,05/29/1995,"A60/HAS - Hayward Station, 699 B Street, Hayward CA, Hayward, CA 94541",
+1612-1321,12/22/16 17:10,M,F,02/26/1962,"San L unknown, 1401 San Leandro Street, San Leandro, CA 94577",PC 647 (F)
+1612-1330,12/22/16 19:34,M,B,11/03/1982,"C20/ORS - Orinda Station, 11 Camino Pablo, ORINDA, CA 94563",PC 25400 (A)(1) | PC 25400 (C)(2) | PC 25850 (A) | PC 29800 (A)(1) | PC 30305 (A)(1)
+1612-1340,12/23/16 07:45,M,B,10/30/1967,"A40/SLS - San Leandro Station, 1401 SAN LEANDRO BLVD, SAN LEANDRO, CA 94577",PC 148 (A)(1) | PC 245 (C)
+1612-1356,12/23/16 19:01,M,B,06/30/1949,"Bay F unknown, 15242 Hesperian Blvd., San Leandro, CA 94578",PC 166 (A)(4) | PC 640 (D)(3) | BPD TT Adult Arrest Repo
+1612-1371,12/24/16 01:33,M,B,04/08/1992,"C80/PBS - Pittsburg/Bay Point Station, 1700 W Leland Rd, PITTSBURG, CA 94565",PC 647 (F)
+1612-1380,12/24/16 10:15,M,B,04/05/1958,"M16/EMS - Embarcadero Station, 298 MARKET ST, SAN FRANCISCO. CA 94111",PC 369 I(B) | PC 374.4 (a)
+1612-1405,12/24/16 18:51,M,B,09/04/1967,"C10/ROS - Rockridge Station, 5660 COLLEGE AVE, OAKLAND, CA 94618",PC 148 (A)(1) | PC 647 (F)
+1612-1440,12/26/16 12:21,M,B,06/13/1995,"A30/COS - Coliseum Station, 7200 San Leandro St, OAKLAND, CA 94621",PC 148 (A)(1) | PC 640 (D)(1)
+1612-1447,12/26/16 15:38,M,B,02/25/1986,"Conco unknown, 1 Train Incident, SAN FRANCISCO, CA 94121",PC 640 (D)(3)
+1612-1462,12/26/16 21:29,M,B,08/03/1982,"C80/PBS - Pittsburg/Bay Point Station, 3800 Walnut Blvd, BRENTWOOD, CA 94513",PC 647 (A) | BPD TT Adult Arrest Repo
+1612-1469,12/27/16 06:20,M,B,04/27/1983,"C80/P unknown, 1700 W Leland Rd, PITTSBURG, CA 94565",PC 148 (A)(1) | PC 243.3
+1612-1471,12/27/16 07:48,M,B,10/06/1963,"A10/LMS - Lake Merritt Station, 800 Madison St. OAKLAND, CA 94607",PC 485
+1612-1477,12/27/16 09:00,M,B,10/26/1976,"Embar unknown, 298 Market Street, San Francisco, CA 94111",
+1612-1488,12/27/16 13:59,M,B,02/09/1987,"A20/FVS - Fruitvale Station, 3401 E. 12th Street, Oakland, CA 94601",PC 166 (A)(4)
+1612-1505,12/27/16 19:55,M,B,06/04/1989,"M40/CCS - Civic Center Station, 1150 Market Street, San Francisco, CA 94102",
+1612-1524,12/28/16 08:49,F,B,02/16/1994,"Richm unknown, 1700 Nevin Ave, Richmond, CA 94801",BPD TT Adult Arrest Repo
+1612-1526,12/28/16 09:06,M,,03/27/1955,"A50/BFS - Bay Fair Station, 15242 Hesperian Blvd, SAN LEANDRO, CA 94578",HS 11350 (A) | HS 11364 (A)
+1612-1536,12/28/16 12:30,M,H,11/10/1962,"Irvin unknown, Irvington BART Property, Fremont, CA 94538",PC 273.6 (A)
+1612-1539,12/28/16 13:57,M,B,03/01/1965,"K10/TSS - 12th St/Oakland Station, 1245 Broadway, OAKLAND, CA 94612",
+1612-1545,12/28/16 16:00,M,B,04/01/1993,"M10/OWS - West Oakland Station, 1451 7TH ST, OAKLAND, CA 94607",PC 647 (A)
+1612-1547,12/28/16 16:51,M,B,05/05/1970,"C60/CDS - Concord Station, 1451 Oakland Ave, CA 94520",PC 647 (F)
+1612-1555,12/28/16 17:36,F,W,11/15/1966,"K10/TSS - 12th St/Oakland Station, 1245 BROADWAY, OAKLAND, CA 94612",BPD TT Adult Arrest Repo
+1612-1552,12/28/16 17:36,M,B,07/19/1955,"A10/LMS - Lake Merritt Station, 800 Madison St, OAKLAND, CA 94607",PC 148 (A)(1) | PC 148.9 (A) | PC 647 (F)
+1612-1592,12/29/16 12:56,M,B,04/08/1983,"C60/CDS - Concord Station, 1451 Oakland Ave, CA 94518",PC 243.35 (A) | PC 368 (C)
+1612-1598,12/29/16 15:34,M,B,08/06/1982,"A50/BFS - Bay Fair Station, 15242 Hesperian Blvd, SAN LEANDRO, CA 94578",PC 245 (A)(1)
+1612-1625,12/30/16 08:05,M,H,11/27/1980,"A70/SHS - South Hayward Station, 28601 Dixon St, HAYWARD, CA 94544","A70/SHS - South Hayward Station, 28601 Dixon St, HAYWARD, CA 94544"
+1612-1650,12/30/16 13:30,M,C,03/24/1985,"M70/G unknown, 2901 Diamond St, SAN FRANCISCO, CA 94131",
+1612-1658,12/30/16 16:00,M,B,07/27/1951,"C40/WCS - Walnut Creek Station, 200 YGNACIO VALLEY RD, WALNUT CREEK, CA 94596",BPD TT Adult Arrest Repo
+1612-1660,12/30/16 17:38,F,B,01/02/1967,"A80/UCS - Union City Station, 10 Union Sq, UNION CITY, CA 94587",PC 243.35 (A)
+1612-1690,12/31/16 20:50,M,W,12/19/1976,"M10/OWS - West Oakland Station, 1541 7th Street - OWS, Oakland, CA 94607",HS 11350 (A) | HS 11364 (A) | BPD TT Adult Arrest Repo
+1602-0457,02/17/16 06:00,M,B,02/08/1989,"M10/OWS - West Oakland Station, 1451 7th STREET, Oakland, CA 94608",PC 1203.2 | PC 647 (f) | PC; Violation of Probation | PC; Disorderly Conduct:Intoxicated in Public
+1602-0461,02/17/16 10:50,M,B,06/10/1962,"2240 Shattuck AVENUE, Berkeley, CA",PC 243 (D) | FTA: PC; Robbery:First Degree | PC; Battery W/Serious Bodily Injury
+1602-0463,02/17/16 13:30,M,B,01/22/1956,"A80/UCS - Union City Station, 10 Union SQUARE, Union City, CA 94587",PC 166 (a)(4) | PC; Contempt of Court
+1602-0501,02/18/16 12:50,F,B,09/21/1952,"L30/EDS - Dublin/Pleasanton, 5801 Owens DRIVE, Pleasanton, CA 94566",PC 640 (d)(3) | PC; Public Transportation: Urinating/Defecating
+1602-0516,02/18/16 22:05,M,W,07/15/1970,"A10/LMS - Lake Merritt Station, 800 Madison STREET, Oakland, CA",
+1602-0524,02/19/16 06:00,M,B,04/01/1958,"L30/EDS - Dublin/Pleasanton, 5801 Owens DRIVE, Pleasanton, CA 94566",FTA: PC; Contempt of Court | FTA: PC; Disturb The Peace | PC; Contempt of Court | PC 166 (a)(4) | BPD TT Adult Arrest Repo
+1602-0542,02/19/16 18:30,M,B,07/11/1981,"R60/RIS - Richmond Station, 1700 Nevin AVENUE, Richmond, CA 94801",PC 1203.2 | PC 148 (A) | PC 466 | PC 496 (A) | VC 10851 (A) | PC; Violation of Probation | PC; Obstructs/Resists Public Officer/Etc | PC; Possess/Etc Burglary Tools | PC; Receive/Etc Known Stolen Property | VC; Take Vehicle W/O Owner's Consent/Vehicle Theft
+1602-0542,02/19/16 18:30,F,H,04/14/1992,"R60/RIS - Richmond Station, 1700 Nevin AVENUE, Richmond, CA 94801","PC 148 (A)(1) | PC 466 | PC 496 (A) | PC; Willfully Resists, Delays, or Obstructs Public, Peace Of | PC; Possess/Etc Burglary Tools | PC; Receive/Etc Known Stolen Property"
+1602-0548,02/19/16 20:15,M,B,12/09/1991,"M30/PPS - Powell St. Station, 899 Market STREET, San Francisco, CA 94102",PC 242 | PC; Battery
+1602-0548,02/19/16 20:15,M,W,02/18/1986,"M30/PPS - Powell St. Station, 899 Market STREET, San Francisco, CA 94102",
+1602-0553,02/19/16 21:50,F,B,04/05/1978,"W30/SBS - San Bruno Station, 1151 Huntington, San Bruno, CA 94066",PC 640 (c)(1) | PC; Public Transportation: Evade Payment of Fare
+1602-0572,02/20/16 15:37,M,W,06/17/1985,"A50/BFS - Bay Fair Station, 15242 Hesperian BI, San Leandro, CA 94577",PC O/S War F | FTA: VC; Drive While License Suspended | PC; Outside Warrant F | BPD TT Adult Arrest Repo
+1602-0601,02/22/16 11:45,M,B,02/26/1970,"Y10/SAS - SF Airport Station, 497 North Link ROAD, South San Francisco, CA 94080",PC 647 (f) | PC; Disorderly Conduct:Intoxicated in Public
+1602-0604,02/22/16 18:00,F,B,05/05/1994,"L30/EDS - Dublin/Pleasanton, 5801 Owens DRIVE, Pleasanton, CA 94566",FTA: PC; Disorderly Conduct:Prostitution | FTA: PC; Disorderly Conduct:Prostitution | PC; Outside Warrant F | PC O/S War F
+1602-0612,02/22/16 19:40,M,B,12/16/1977,"A50/BFS - Bay Fair Station, 15242 Hesperian BI, San Leandro, CA",FTA: HS: Possess Narcotic Controlled Substance | FTA: HS; Possess Narcotic Controlled Substance | HS; Possess Narcotic Controlled Substance | HS 11350 (A)
+1602-0616,02/23/16 04:57,F,B,07/26/1997,"A30/COS - Coliseum Station, 7200 San Leandro STREET, Oakland, CA 94608",VC 10851 (A) | VC; Take Vehicle WIO Owner's Consent/Vehicle Theft
+1602-0616,02/23/16 04:57,M,B,06/17/1997,"A30/COS - Coliseum Station, 7200 San Leandro STREET, Oakland, CA 94608",PC 1203.2(a) | VC 10851 (A) | PC; Violation of Probation/Probation Re-Arrest | VC; Take Vehicle W/O Owner'S Consent/Vehicle Theft
+1602-0639,02/23/16 10:38,M,W,02/12/1983,"K10/TSS - 12th St. Station, 1247 Broadway, Oakland, CA 94608",HS 11350 (A) | HS 11364.1 (A) | HS; Possess Narcotic Controlled Substance | HS; Possess Unlawful Paraphrenailia | BPD TT Adult Arrest Repo
+1602-0623,02/23/16 14:00,M,B,05/31/1993,"A50/BFS - Bay Fair Station, 15242 Hesperian BI, San Leandro, CA 94577","PC 148 (A)(1) | PC 148.9(A) | PC 640 (c)(1) | PC; Willfully Resists, Delays, or Obstructs Public, Peace Of | PC; False Identification To Peace Officer | PC; Public Transportation: Evade Payment of Fare"
+1602-0631,02/23/16 17:35,F,W,08/17/1972,"ORS - ORINDA STA, CA",PC; Disorderly Conduct:Intoxicated in Public | PC 647 (f)
+1602-0637,02/23/16 20:53,M,B,11/08/1970,"M30/PPS - Powell St. Station, 899 Market STREET, San Francisco, CA 94102",PC 166 (a)(4) | PC; Contempt of Court
+1602-0642,02/24/16 05:16,M,W,04/18/1977,"L30/EDS - Dublin/Pleasanton, 5801 Owens DRIVE, Pleasanton, CA 94566","PC 1203.2(a) | PC 148 (A)(1) | PC 647 (f) | PC; Violation of Probation/Probation Re-Arrest | PC; Willfully Resists, Delays, or Obstructs Public, Peace Of | PC; Disorderly Conduct:Intoxicated in Public"
+1602-0672,02/24/16 20:27,M,H,11/08/1991,"S 56Th St Portrero STREET, El Cerrito, CA 94530",FTA: PC; Carjacking | FTA: PC; Robbery | PC; Obstructs/Resists Public Officer/Etc | PC 148 (A)
+1602-0683,02/25/16 05:05,M,B,09/08/1991,"A30/COS - Coliseum Station, 7200 San Leandro STREET, Oakland, CA 94608",PC 466 | VC 10851 (A) | PC; Possess/Etc Burglary Tools | VC; Take Vehicle W/O Owner's Consent/Vehicle Theft | BPD TT Adult Arrest Repo
+1602-0690,02/25/16 12:40,M,W,05/04/1985,"L20/WDS - West Dublin Station, 6501 Golden Gate DRIVE, Pleasanton, CA 94566",PC 594 (B)(2)A | PC; Vandalism Less Than $400
+1602-0711,02/26/16 00:40,M,H,04/01/1997,"M30/PPS - Powell St. Station, 899 Market STREET, San Francisco, CA 94102",FTA: PC; Battery
+1602-0716,02/26/16 12:10,M,W,02/14/1994,"L30/EDS - Dublin/Pleasanton, 5801 Owens DRIVE, Pleasanton, CA 94566",PC 148 (A) | PC 640 (c)(1) | PC; Obstructs/Resists Public Officer/Etc | PC; Public Transportation: Evade Payment of Fare
+1602-0728,02/26/16 20:38,M,H,11/21/1982,"A60/HAS - Hayward Station, 699 B STREET, Hayward, CA",
+1602-0735,02/27/16 09:36,F,B,01/01/1986,"Y10/SAS - SF Airport Station, 497 North Link ROAD, South San Francisco, CA",PC 148.9(A) | PC 640 (c)(1) | PC; False Identification To Peace Officer | PC; Public Transportation: Evade Payment of Fare
+1602-0764,02/28/16 10:26,M,B,09/21/1970,"A10/LMS - Lake Merritt Station, 800 Madison STREET, Oakland, CA 94608","PC 148.9(A) | FTA: PC; Willfully Resists, Delays, or Obstructs Public, Pea | PC; False Identification To Peace Officer | BPD TT Adult Arrest Repo"
+1602-0766,02/28/16 13:38,M,B,06/12/1990,"R50/CNS - El Cerrito Del Norte Station, 6400 Cutting BI, El Cerrito, CA 94530",PC 243 (e)(1) | PC; Battery: spouse/ex spouse/ date etc
+1602-0766,02/28/16 13:43,M,B,06/12/1990,"R50/CNS - El Cerrito Del Norte Station, 6400 Cutting BI, EI Cerrito, CA 94530",
+1602-0768,02/28/16 15:17,M,W,09/20/1988,"A10/LMS - Lake Merritt Station, 800 Madison AVENUE, Oakland, CA 94608",
+1602-0777,02/28/16 20:39,M,O,01/11/1974,"M30/PPS - Powell St. Station, 899 Market STREET, San Francisco, CA 94102",HS 11364.1 (A) | PC 166 (a)(4) | PC O/S War F | FTA: PC; Selling Goods w/o a permit | FTA: PC; Counterfeit/Etc Fare Media For Transportation | HS; Possess Unlawful Paraphrenailia | PC; Contempt of Court | PC; Outside Warrant F
+1602-0783,02/29/16 05:47,M,B,02/09/1989,"A20/FVS - Fruitvale Station, 3401 East 12th STREET, Oakland, CA 94608",FTA: PC; Public Transportation: Evade Payment of Fare
+1602-0787,02/29/16 10:50,M,H,03/16/1990,"K10/TSS - 12th St. Station, 1247 Broadway, Oakland, CA 94608",PC 640 (c)(1) | FTA: VC; Take Vehicle W/O Owner's Consent/Vehicle Theft | PC; Public Transportation: Evade Payment of Fare | BPD TT Adult Arrest Repo
+1602-0789,02/29/16 11:48,M,B,12/30/1960,"Train: 345 - FMS - 1758, CA",PC 647 (f) | PC; Disorderly Conduct:Intoxicated in Public
+1603-0005,03/01/16 10:00,M,B,10/02/1959,"A80/UCS - Union City Station, Mission Fairway AVENUE, Hayward, CA","PC 1203.2 | PC 182 (A)(1) | PC 466 | PC 487 (a)- | PC 496 (A) | PC; Violation of Probation | PC; Conspiracy:Commit Crime | PC; Possess/Etc Burglary Tools | PC; Grand Theft: Money, Labor, Property Over $950 | PC; Receive/Etc Known Stolen Property"
+1603-0005,03/01/16 10:00,M,B,08/29/1968,"A80/UCS - Union City Station, Mission Fairway AVENUE, Hayward, CA","PC 1203.2 | PC 182 (A)(1) | PC 466 | PC 487 (a)- | PC 496 (A) | PC; Violation of Probation | PC; Conspiracy:Commit Crime | PC; Possess/Etc Burglary Tools | PC; Grand Theft: Money, Labor, Property Over $950 | PC; Receive/Etc Known Stolen Property"
+1603-0010,03/01/16 14:14,M,W,11/21/1993,"A60/HAS - Hayward Station, 699 B STREET, Hayward, CA 94541",FTA: PC; Petty Theft | PC; Possess/Etc Burglary Tools | PC 466
+1603-0012,03/01/16 16:00,M,W,12/21/1983,"M40/CCS - Civic Center Station, 1150 Market STREET, San Francisco, CA",HS 11357 (B) | PC 640 (c)(1) | PC O/S War F | FTA: HS; Possess Controlled Substance | HS; Possess Marijuana 28.5 Grams or Less | PC; Public Transportation: Evade Payment of Fare | PC; Outside Warrant F | BPD TT Adult Arrest Repo
+1603-0013,03/01/16 17:42,M,B,08/24/1977,"M16/EMS - Embarcadero Station, 298 Market STREET, San Francisco, CA 94102",FTA: PC; Trespass:Drive On Private Property
+1603-0022,03/02/16 05:16,M,B,05/23/1948,"K30/MAS - MacArthur Station, 555 40th STREET, Oakland, CA 94608",PC 243.3 | PC; Battery On Transportation Personnel/Passenger
+1603-0021,03/02/16 05:30,M,B,03/11/1963,"K30/MAS - MacArthur Station, Telegraph Av 43RD STREET, Oakland, CA 94608",PC 243.3 | PC; Battery With Injury:Transport Personnel/Passenger
+1603-0025,03/02/16 07:54,M,H,01/20/1984,"M16/EMS - Embarcadero Station, 298 Market STREET, San Francisco, CA 94102",PC 1203.2 | PC; Violation of Probation
+1603-0066,03/03/16 16:56,M,B,06/15/1960,"M16/EMS - Embarcadero Station, 298 Market STREET, San Francisco, CA 94604-2688",HS 11364 (a) | PC 640 (c)(1) | HS; Possess Unlawful Drug Paraphrenalia | PC; Public Transportation: Evade Payment of Fare
+1603-0071,03/03/16 19:00,F,O,12/13/1997,"M90/DCS - Daly City Station, 500 John Daly BI, Daly City, CA",PC 647 (f) | PC; Disorderly Conduct:Intoxicated in Public
+1603-0078,03/03/16 19:56,M,W,02/11/1960,"A 10/LMS - Lake Merritt Station, 800 Madison STREET, Oakland, CA",PC O/S War | BPD TT Adult Arrest Repo
+1601-0423,01/03/16 17:42,M,H,11/19/1985,"R50/CNS - El Cerrito Del Norte Station, 6400 Cutting BI, El Cerrito, CA 94530",BP 25620 (a) | HS 11357 (B) | HS 11364 (a) | PC 647 (f) | BP; Open Container | HS; Possess Marijuana 28.5 Grams or Less | HS; Possess Unlawful Drug Paraphrenalia | PC; Disorderly Conduct:Intoxicated in Public
+1601-0592,01/04/16 17:13,M,O,08/21/1988,"M30/PPS - Powell St. Station. 899 Market STREET, San Francisco, CA 94102",FTA: PC; Disorderly Conduct:Intoxicated in Public | FTA: PC; Theft
+1601-0737,01/05/16 10:07,M,W,09/08/1992,"K10/TSS - 12th St. Station, 1247 Broadway, Oakland, CA 94608",PC 148.9(A) | PC; False Identification To Peace Officer
+1501-0090,01/05/16 11:09,M,B,07/07/1987,"W40-MBS - Millbrae Station, 23500 Kasson STREET, Tracy, CA 94030",PC 207 (A) | PC 261 (a)(2) | PC 261 (a)(4) | PC; Kidnapping | PC; Rape:Force/Fear/Etc | PC; Rape:Victim Unconscious Of Nature Of Act
+1601-0779,01/05/16 15:26,M,B,01/16/1997,"C50/PHS - Pleasant Hill Station, 1365 Treat BI, Unincorp Walnut Creek, CA","C50/PHS - Pleasant Hill Station, 1365 Treat BI, Unincorp Walnut Creek, CA | PC 640 (C)(1) | PC; Public Transportation: Evade Payment of Fare"
+1601-0793,01/05/16 16:46,M,O,11/06/1970,"M40/CCS - Civic Center Station, 1150 Market STREET, San Francisco, CA 94102",HS 11350 (A) | HS; Possess Narcotic Controlled Substance | BPD TT Adult Arrest Repo
+1601-0837,01/05/16 20:36,M,W,08/30/1972,"A20/FVS - Fruitvale Station, 3401 E 12th STREET, Oakland, CA 94608",BP 4060 | HS 11377 (A) | PC 148.9(A) | PC 3056 | PC 466 | BP; Possession of a Controlled Substance w/o Prescription | HS; Possess Controlled Substance | PC; False Identification To Peace Officer | PC; Violation Parole: Felony | PC; Possess/Etc Burglary Tools
+1601-0842A,01/05/16 21:14,M,B,07/24/1991,"M40/CCS - Civic Center Station, 1150 Market STREET, San Francisco, CA 94102",HS 11350 (A) | HS; Possess Narcotic Controlled Substance
+1601-1552,01/09/16 12:00,M,W,12/08/1952,"M30/PPS - Powell St. Station, 899 Market STREET, San Francisco, CA 94102",FTA: PC; FTA After Signing Written Promise to Appear
+1601-1589,01/09/16 16:10,F,C,06/18/1977,"W20/SFS - South San Francisco Station, 1333 Mission ROAD, South San Francisco, CA 94080",VC 14601.1(A) | VC; Drive While License Suspended
+1601-1612,01/09/16 19:05,F,B,03/04/1974,"M30/PPS - Powell St. Station, 899 Market STREET, San Francisco, CA 94102","PC 148 (A)(1) | PC 241.3 | PC; Willfully Resists, Delays, or Obstructs Public, Peace Of | PC; Assault On Person On Public Transportation/Property"
+1601-1767,01/10/16 22:17,M,B,01/24/1989,"C10/ROS - Rockridge Station, 5660 College AVENUE, Oakland, CA",PC; Outside Warrant F | PC O/S War F | BPD TT Adult Arrest Repo
+1603-0083,03/03/16 23:50,M,H,03/20/1984,"M40/CCS - Civic Center Station, 1150 Market STREET, San Francisco, CA",
+1603-0062,03/04/16 14:44,M,B,01/30/1993,"R50/CNS - El Cerrito Del Norte Station, 6400 Cutting BI, EI Cerrito, CA 94530",BP 25620 (a) | PC 374.4 (a) | PC 640 (c)(1) | BP; Open Container | PC; Litter Public/Private Property | PC; Public Transportation: Evade Payment of Fare
+1603-0109,03/04/16 17:39,M,B,06/01/1970,"C40/WCS - Walnut Creek Station, 200 Ygnacio Valley ROAD, Walnut Creek, CA 94596",PC 166 (a)(4) | PC 647 (f) | FTA: PC; Disorderly Conduct:Intoxicated in Public | PC; Contempt of Court | PC; Disorderly Conduct:Intoxicated in Public
+1603-0115,03/05/16 00:33,M,H,12/10/1991,"M10/OWS - West Oakland Station, 1451 7th STREET, Oakland, CA 94608",PC 647 (f) | PC; Disorderly Conduct:Intoxicated in Public
+1603-0118,03/05/16 12:50,M,B,12/14/1981,"A10/LMS - Lake Merritt Station, 800 Madison STREET, Oakland, CA",PC 369 I (B) | PC; Trespass: Railroad Property - Station Ops
+1603-0119,03/05/16 13:04,M,B,04/07/1989,"A10/LMS - Lake Merritt Station, 300 Madison AVENUE, Oakland, CA",HS 11364.1 (A) | PC 1203.2 | PC 148.9(A) | PC 369 | | HS; Possess Unlawful Paraphrenailia | PC; Violation of Probation | PC; False Identification To Peace Officer | PC; Trespass:Railroad Property | BPD TT Adult Arrest Repo
+1603-0135,03/05/16 22:45,F,W,12/02/1990,"K10/TSS - 12th St. Station, 1247 Broadway, Oakland, CA",PC 640 (d)(3) | PC; Public Transportation: Urinating/Defecating
+1603-0138,03/06/16 01:38,M,B,,"A90/FMS - Fremont Station, 2000 Bart Wy, Fremont, CA 94536",PC 647 (f) | PC; Disorderly Conduct:Intoxicated in Public
+1603-0138,03/06/16 01:38,M,O,04/20/1968,"A90/FMS - Fremont Station, 2000 Bart Wy, Fremont, CA 94536",
+1603-0146,03/06/16 15:30,M,B,03/28/1952,"M16/EMS - Embarcadero Station, 298 Market STREET, San Francisco, CA 94102",PC 166 (a)(4) | PC; Contempt of Court
+1603-0149,03/06/16 16:28,M,W,08/17/1993,"M30/PPS - Powell St. Station, 899 Market STREET, San Francisco, CA 94102","PC 148 (A)(1) | PC; Willfully Resists, Delays, or Obstructs Public, Peace Of"
+1603-0151,03/06/16 17:45,M,H,04/22/1995,"M40/CCS - Civic Center Station, 1150 Market STREET, San Francisco, CA 94102",
+1603-0152,03/06/16 19:00,M,W,02/18/1994,"A10/LMS - Lake Merritt Station, 800 Madison STREET, Oakland, CA 94608",BPD TT Adult Arrest Repo
+1603-0159,03/06/16 23:10,,,03/09/1969,"K20/NSS - 19th St. Station, 1900 Broadway, Oakland, CA 94608",PC 647 (f) | PC; Disorderly Conduct:Intoxicated in Public
+1603-0164,03/07/16 09:30,M,B,05/06/1997,"M10/OWS - West Oakland Station, 1451 7th St EXTENSION, Oakland, CA 94608",PC 640 (c)(1) | PC O/S War F | PC; Public Transportation: Evade Payment of Fare | PC; Outside Warrant F
+1603-0179,03/07/16 18:04,M,B,11/24/1987,"K30/MAS - MacArthur Station, 550 40th STREET, Oakland, CA",BP 25620 (a) | HS 11357 (B) | PC 166 (a)(4) | PC 640 (c)(1) | BP; Open Container | HS; Possess Marijuana 28.5 Grams or Less | PC; Contempt of Court | PC; Public Transportation: Evade Payment of Fare
+1603-0202,03/08/16 08:05,M,W,09/11/1960,"C60/CDS - Concord Station, 1451 Oakland AVENUE, Concord, CA 94518",
+1603-0207,03/08/16 09:47,M,H,09/14/1994,"M30/PPS - Powell St. Station, 899 Market STREET, San Francisco, CA 94102",PC 640 (c)(1) | FTA: PC; FTA After Signing Written Promise to Appear | PC; Public Transportation: Evade Payment of Fare
+1603-0240,03/08/16 12:45,F,B,10/05/1959,"R60/RIS - Richmond Station, 1700 Nevin AVENUE, Richmond, CA 94801",PC 647 (f) | PC; Disorderly Conduct:Intoxicated in Public | BPD TT Adult Arrest Repo
+1603-0214,03/08/16 17:02,M,W,08/25/1966,"M40/CCS - Civic Center Station, 1150 Market STREET, San Francisco, CA 94102",HS 11350 (A) | HS; Possess Narcotic Controlled Substance
+1603-0223,03/08/16 19:40,M,H,08/27/1991,"C20/ORS - Orinda Station, 11 Camino Pablo, Orinda, CA 94563",PC 647 (f) | FTA: VC; Dui Alcohol/Drugs | PC; Disorderly Conduct:Intoxicated in Public
+1603-0239,03/09/16 11:50,M,B,01/03/1956,"K10/TSS - 12th St. Station, 1247 Broadway, Oakland, CA 94608",PC 640 (d)(3) | PC; Public Transportation: Urinating/Defecating
+1603-0252,03/09/16 20:53,M,H,09/01/1968,"A30/COS - Coliseum Station, 7200 San Leandro STREET, Oakland, CA",PC 647 (f) | PC; Disorderly Conduct:Intoxicated in Public
+1603-0255,03/10/16 00:42,M,H,05/02/1978,"W40-MBS - Millbrae Station, 200 North Rollins ROAD, Millbrae, CA 94030",PC 243.3 | PC; Battery On Transportation Personnel/Passenger
+1603-0257,03/10/16 04:52,M,B,04/16/1970,"L30/EDS - Dublin/Pleasanton, 5801 Owens DRIVE, Pleasanton, CA",PC O/S War | BPD TT Adult Arrest Repo
+1603-0263,03/10/16 08:55,F,B,11/15/1966,"M10/OWS - West Oakland Station, 1451 7th STREET, Oakland, CA",HS 11350 (A) | HS 11364 (a) | PC 243 (e)(1) | HS; Possess Narcotic Controlled Substance | HS; Possess Unlawful Drug Paraphrenalia | PC; Battery: spouse/ex spouse/ date etc
+1603-0269,03/10/16 15:22,M,O,01/11/1974,"M30/PPS - Powell St. Station, 899 Market STREET, San Francisco, CA 94102",PC 166 (a)(4) | PC 481.1(B) | PC; Contempt of Court | PC; Possess Counterfeit/Etc Public Trans Fare
+1603-0291,03/11/16 07:36,M,B,11/15/1958,"A30/COS - Coliseum Station, 7200 San Leandro STREET, Oakland, CA",PC 1203.2 | PC 166 (a)(4) | PC 415 | PC 422 | PC; Violation of Probation | PC; Contempt of Court | PC; Disturb The Peace | PC; Threaten Crime With Intent To Terrorize
+1603-0296,03/11/16 11:30,M,B,09/19/1974,"R50/CNS - El Cerrito Del Norte Station, 6400 Cutting BI, El Cerrito, CA 94530",PC 243 (A) | PC 647 (f) | PC O/S War M | PC; Battery On Person | PC; Disorderly Conduct:Intoxicated in Public | FTA: PC; Outside Warrant M
+1603-0308,03/11/16 19:30,M,B,09/12/1968,"A10/LMS - Lake Merritt Station, 800 Madison STREET, Oakland, CA 94608",FTA: PC; Disorderly Conduct:Intoxicated in Public | FTA: PC; Petty Theft: Personal Property under $950 | BPD TT Adult Arrest Repo
+1603-0315,03/11/16 21:44,M,H,04/11/1969,"M30/PPS - Powell St. Station, 599 Market STREET, San Francisco, CA 94102",PC 640 (d)(3) | PC 647 (f) | PC; Public Transportation: Urinating/Defecating | PC; Disorderly Conduct:Intoxicated in Public
+1603-0336,03/13/16 01:56,M,B,04/12/1981,"A90/FMS - Fremont Station, 2000 Bart Wy, Fremont, CA 94536",PC 290 | FTA: PC; Violation Parole: Felony | PC; Registered Sex Offender
+1603-0337,03/13/16 09:00,F,B,12/23/1989,"L10/CVS - Castro Valley Station, 3301 Norbridge DRIVE, Pleasant Hill, CA",PC MiscPC | FTA: PC; Contempt of Court: Domestic Violence-Violate Prote | PC; Miscellenous PC
+1603-0341,03/13/16 14:33,M,B,06/12/1962,"R10/AHS - Ashby Station, 3100 Adeline STREET, Berkeley, CA 94608","R10/AHS - Ashby Station, 3100 Adeline STREET, Berkeley, CA 94608 | PC 1203.2 | PC 647 (f) | PC; Violation of Probation | PC; Disorderly Conduct:Intoxicated in Public"
+1603-0349,03/14/16 07:06,M,H,12/22/1992,"K30/MAS - MacArthur Station, 550 40th STREET, Oakland, CA",FTA: PC; Theft
+1603-0356,03/14/16 10:57,F,W,08/02/1964,"K10/TSS - 12th St. Station, 1247 Broadway, Oakland, CA 94608",PC; Public Transportation: Evade Payment of Fare | PC; Outside Warrant F | PC 640 (c)(1) | PC O/S War F | BPD TT Adult Arrest Repo
+1603-0364,03/14/16 15:30,M,W,02/21/1982,"M50/SSS - 16th St. Station, 2000 Mission STREET, San Francisco, CA",
+1603-0364,03/14/16 15:30,M,W,02/21/1982,"M50/SSS - 16th St. Station, 2000 Mission STREET, San Francisco, CA",
+1603-0366,03/14/16 17:35,M,B,02/03/1964,"M40/CCS - Civic Center Station, 1150 Market STREET, San Francisco, CA 94102",FTA: HS; Possess Narcotic Controlled Substance
+1603-0368,03/14/16 18:16,M,O,08/30/1994,"M40/CCS - Civic Center Station, 1150 Market STREET, San Francisco, CA 94102",FTA: PC; FTA After Signing Written Promise to Appear
+1603-0391,03/15/16 09:17,M,B,09/05/1952,"M10/OWS - West Oakland Station, 1451 7th STREET, Oakland, CA 94608",FTA: PC; Public Transportation: Evade Payment of Fare | FTA: PC; Public Transportation: Urinating/Defecating | FTA: PC; Public Transportation: Urinating/Defecating
+1603-0413,03/16/16 06:10,M,B,04/16/1965,"A10/LMS - Lake Merritt Station, Oak St 12TH STREET, Oakland, CA 94608",PC 422 | FTA: PC; Robbery | PC; Threaten Crime With Intent To Terrorize | BPD TT Adult Arrest Repo
+1603-0415,03/16/16 10:40,,,09/08/1993,"R20/BES - Berkeley Station, 2172 Shattuck AVENUE, Berkeley, CA 94608",PC O/S War F | PC; Outside Warrant F
+1603-0417,03/16/16 11:04,M,W,08/11/1984,"A10/LMS - Lake Merritt Station, 800 Madison STREET, Oakland, CA 94608","PC 22210 | PC 640 (c)(1) | PC O/S War F | PC; Billy, blackjack, sandbag-club, sap, slungshot, leaded c | PC; Public Transportation: Evade Payment of Fare | PC; Outside Warrant F"
+1603-0418,03/16/16 12:12,M,B,02/06/1969,"A 10/LMS - Lake Merritt Station, 800 Madison STREET, Oakland, CA",HS 11364.1 (A) | HS; Possess Unlawful Paraphrenailia
+1603-0422,03/16/16 16:50,F,W,12/11/1989,"M40/CCS - Civic Center Station, 1150 Market STREET, San Francisco, CA 94102",HS 11364 (a) | HS 11377 (A) | FTA: PC; Petty Theft: Personal Property under $950 | HS; Possess Unlawful Drug Paraphrenalia | HS; Possess Controlled Substance
+1603-0424,03/16/16 18:17,M,W,02/03/1978,"A30/COS - Coliseum Station, 1267 77th AVENUE, Oakland, CA 94608",PC O/S War F | PC; Outside Warrant F
+1603-0432,03/16/16 22:37,,,10/18/1995,"M40/CCS - Civic Center Station, 1150 Market STREET, San Francisco, CA 94102",PC 488 | PC 640 (c)(1) | PC 647 (f) | PC; Petty Theft | PC; Public Transportation: Evade Payment of Fare | PC; Disorderly Conduct:Intoxicated in Public | BPD TT Adult Arrest Repo
+1603-0445,03/17/16 10:00,M,W,04/03/1952,"6702 San Pablo, Oakland, CA 94608",
+1603-0443,03/17/16 10:50,M,B,03/30/1990,"L30/EDS - Dublin/Pleasanton, 5801 Owens DRIVE, Pleasanton, CA 94566",FTA: PC; Petty Theft
+1603-0447,03/17/16 15:45,M,B,06/14/1974,"K10/TSS - 12th St. Station, 1247 Broadway, Oakland, CA",
+1603-0461,03/17/16 23:36,,,08/26/1957,"A40/SLS - San Leandro Station, 1401 San Leandro BI, San Leandro, CA 94577",PC 1203.2 | PC 243.35(a) | PC 647 (f) | PC; Violation of Probation | PC; Battery While On Public Transportation Property | PC; Disorderly Conduct:Intoxicated in Public
+1603-0460,03/17/16 23:42,M,B,03/28/1952,"M40/CCS - Civic Center Station, 1150 Market STREET, San Francisco, CA",PC 166 (a)(4) | PC; Contempt of Court
+1603-0483,03/18/16 19:30,M,H,06/16/1982,"W40-MBS - Millbrae Station, 200 Rollins ROAD, Millbrae, CA",VC 12500 (A) | VC; Drive W/O License | BPD TT Adult Arrest Repo
+1603-0484,03/18/16 21:06,M,B,10/30/1967,"HAS - HAYWARD STA, CA",
+1603-0485,03/18/16 22:18,M,B,01/29/1965,"M16/EMS - Embarcadero Station, 298 Market STREET, San Francisco, CA 94102",PC 148.9(A) | PC 640 (c)(1) | PC O/S War F | PC; False Identification To Peace Officer | PC; Public Transportation: Evade Payment of Fare | PC; Outside Warrant F
+1603-0489,03/19/16 10:30,M,B,11/12/1962,"W10/CLS - Colma Station, 365 D STREET, Broadmoor, CA",PC 166 (a)(4) | PC; Contempt of Court
+1603-0499,03/19/16 17:44,M,O,04/01/1990,"M10/OWS - West Oakland Station, 1451 7th STREET, Oakland, CA 94608",FTA: PC; Violate Court Order To Prevent Domestic Violence
+1603-0500,03/19/16 19:10,M,W,02/13/1966,"A70/SHS - South Hayward Station, 28601 Dixon STREET, Hayward, CA 94541","A70/SHS - South Hayward Station, 28601 Dixon STREET, Hayward, CA 94541 | PC 640 (d)(1) | PC; Public Transportation: Boisterous/Unruly Behavior"
+1603-0501,03/19/16 21:08,M,H,03/05/1985,"A50/BFS - Bay Fair Station, 15242 Hesperian BI, San Leandro, CA 94577",PC 647 (F) | PC; Disorderly Conduct:Intoxicated in Public | BPD TT Adult Arrest Repo
+1603-0523,03/19/16 22:27,M,H,06/29/1995,"Garin Av Mission BI, Hayward, CA",VC 27360 (a) | VC; No Seatbelt: Parent in Car WI Children Under 4 Years
+1603-0508,03/20/16 10:53,M,B,03/24/1977,"A20/FVS - Fruitvale Station, 3401 East 12th STREET, Oakland, CA",PC O/S War F | PC; Outside Warrant F
+1603-0514,03/20/16 13:35,F,H,12/08/1988,"K30/MAS - MacArthur Station, 550 40th STREET, Oakland, CA 94608",PC 243 (e)(1) | PC; Battery: spouse/ex spouse/ date etc
+1603-0524,03/20/16 22:56,M,B,11/05/1971,"K30/MAS - MacArthur Station, 550 40th STREET, Oakland, CA",PC O/S War F | PC; Outside Warrant F
+1603-0566,03/21/16 01:20,F,W,10/27/1987,"M60/TFS - 24th St. Station, 2800 Mission STREET, San Francisco, CA",PC 647 (f) | PC; Disorderly Conduct:Intoxicated in Public
+1603-0534,03/21/16 11:09,M,B,07/27/1961,"A10/LMS - Lake Merritt Station, 800 Madison STREET, Oakland, CA 94608",PC 1203.2 | PC 166 (a)(4) | PC 647 (f) | PC; Violation of Probation | PC; Contempt of Court | PC; Disorderly Conduct:Intoxicated in Public | BPD TT Adult Arrest Repo
+1603-0540,03/21/16 12:25,M,B,08/25/1951,"Y10/SAS - SF Airport Station, 497 North Link ROAD, South San Francisco, CA 94080",PC 640 (c)(1) | PC; Public Transportation: Evade Payment of Fare
+1603-0571,03/22/16 07:35,F,W,09/04/1981,"A40/SLS - San Leandro Station, 1401 San Leandro BI, San Leandro, CA 94577",PC O/S War F | PC; Outside Warrant F
+1603-0573,03/22/16 12:20,M,B,09/30/1961,"Train: 115 - DCS - 1745, CA",PC 640 (d)(1) | PC; Public Transportation: Boisterous/Unruly Behavior
+1603-0589,03/23/16 05:50,M,B,08/17/1972,"C70/CMS - North Concord Station, 3700 Port Chicago HWY, Concord, CA 94518",FTA: PC; Burglary:Second Degree
+1603-0594,03/23/16 10:30,M,B,11/08/1970,"A50/BFS - Bay Fair Station, 15242 Hesperian BI, San Leandro, CA 94577",PC 166 (a)(4) | PC; Contempt of Court
+1603-0596,03/23/16 12:15,F,H,07/05/1970,"A70/SHS - South Hayward Station, Mission BI Hancock STREET, Hayward, CA 94541","A70/SHS - South Hayward Station, Mission BI Hancock STREET, Hayward, CA 94541 | FTA: PC; Adw Or Gbi Force:Not Firearm"
+1603-0597,03/23/16 12:38,M,B,02/19/1951,"K10/TSS - 12th St. Station, 1247 Broadway, Oakland, CA 94608",PC 647 (f) | PC; Disorderly Conduct:Intoxicated in Public | BPD TT Adult Arrest Repo
+1603-0585,03/23/16 12:55,F,W,09/17/1971,"W10/CLS - Colma Station, 365 D STREET, Colma, CA 94014",FTA: PC; Petty Theft
+1603-0609,03/23/16 17:57,F,W,08/25/1997,"M90/DCS - Daly City Station, 500 John Daly BI, Daly City, CA 94014",PC 243 (e)(1) | PC; Battery: spouse/ex spouse/ date etc
+1603-0613,03/23/16 23:03,M,B,12/10/1988,"M30/PPS - Powell St. Station, 899 Market STREET, San Francisco, CA 94102",FTA: PC; Petty Theft Under $50 Without Prior
+1603-0618,03/23/16 23:15,M,O,03/24/1985,"San Pablo Av Cutting BI, El Cerrito, CA",VC 23152 (A) | VC; Dui Alcohol/Drugs
+1603-0623,03/24/16 05:02,M,B,11/08/1970,"541 40th STREET, Oakland, CA",PC 1203.2 | PC 166 (a)(4) | PC; Violation of Probation | PC; Contempt of Court
+1603-0629,03/24/16 09:30,M,W,01/21/1965,"C10/ROS - Rockridge Station, 5660 College AVENUE, Oakland, CA 94608",PC 640 (d)(3) | PC; Public Transportation: Urinating/Defecating | BPD TT Adult Arrest Repo
+1603-0645,03/24/16 20:15,M,,07/21/1963,"Train: 515 - DCS - 1678, CA",PC 243 (B) | PC 647 (f) | PC; Battery On Peace Officer/Emergency Personnel/Etc | PC; Disorderly Conduct:Intoxicated in Public
+1603-0651,03/25/16 05:45,M,W,08/27/1961,"M16/EMS - Embarcadero Station, 298 Market STREET, San Francisco, CA 94102",PC 369 | | PC; Trespass:Railroad Property
+1603-0656,03/25/16 12:17,M,W,02/06/1997,"M30/PPS - Powell St. Station, 899 Market STREET, San Francisco, CA 94102",HS 11350 (A) | PC 381 (B) | PC 640 (c)(1) | HS; Possess Narcotic Controlled Substance | PC; Possess/Etc Substance Similar To Toluene | PC; Public Transportation: Evade Payment of Fare
+1603-0670,03/25/16 17:25,F,S,,"R50/CNS - El Cerrito Del Norte Station, 6400 Cutting BI, El Cerrito, CA 94530","FTA: PC; Robbery | PC; Willfully Resists, Delays, or Obstructs Public, Peace Of | PC 148 (A)(1)"
+1603-0672,03/25/16 19:15,M,O,04/08/1983,"A10/LMS - Lake Merritt Station, 800 Madison STREET, Oakland, CA",HS 11357 (B) | PC 1203.2 | PC 245 (A)(1) | HS; Possess Marijuana 28.5 Grams or Less | PC; Violation of Probation | PC; Adw Or Gbi Force:Not Firearm
+1603-0683,03/26/16 10:19,F,B,08/03/1979,"M30/PPS - Powell St. Station, 899 Market STREET, San Francisco, CA",PC 640 (c)(1) | PC O/S War F | PC; Public Transportation: Evade Payment of Fare | PC; Outside Warrant F | BPD TT Adult Arrest Repo
+1603-0713,03/28/16 01:45,M,H,09/20/1995,"M30/PPS - Powell St. Station, 899 Market STREET, San Francisco, CA",HS 11364 (a) | HS 11377 (A) | PC 148.9(A) | PC 21310 | PC 640 (c)(1) | HS; Possess Unlawful Drug Paraphrenalia | HS; Possess Controlled Substance | PC; False Identification To Peace Officer | PC; Conceal Dirk or Dagger on His/Her Person | PC; Public Transportation: Evade Payment of Fare
+1603-0721,03/28/16 13:23,M,B,05/29/1962,"A 10/LMS - Lake Merritt Station, 800 Madison STREET, Oakland, CA 94608",HS 11357 (C) | PC 148.9(A) | PC 640 (c)(1) | PC O/S War F | HS; Possess Marijuana Over 28.5 Grams | PC; False Identification To Peace Officer | PC; Public Transportation: Evade Payment of Fare | PC; Outside Warrant F
+1603-0734,03/28/16 19:26,M,H,10/31/1992,"R10/AHS - Ashby Station, 3100 Adeline STREET, Berkeley, CA","R10/AHS - Ashby Station, 3100 Adeline STREET, Berkeley, CA | PC 245 (A)(1) | PC; Adw Or Gbi Force:Not Firearm"
+1603-0821,03/31/16 11:00,M,B,03/12/1996,"R60/RIS - Richmond Station, 1700 Nevin Ave, Richmond, CA 94801",PC O/S War M
+1603-0834,03/31/16 14:32,M,A,09/01/1984,"K10/TSS - 12th St. Station, 1247 Broadway, OAKLAND, CA 94612",PC 1203.2 | PC 166 (a)(4) | BPD TT Adult Arrest Repo
+1603-0840,03/31/16 16:45,M,W,07/27/1984,"1 Train Incident, SAN FRANCISCO, CA 94121",PC 1203.2 | PC 314.1
+1603-0841,03/31/16 17:43,M,B,03/24/1986,"C60/CDS - Concord Station, 1451 Oakland Ave, Concord, CA 94518",PC 369 I (B)
+1603-0849,03/31/16 21:30,F,W,02/24/1971,"M30/PPS - Powell St. Station, 899 Market Street (PPS), San Francisco, CA 94101",HS 11350 (A)
+1604-0009,04/01/16 06:23,M,B,07/04/1965,"M16/EMS - Embarcadero Station, 298 Market St, SAN FRANCISCO, CA 94111",PC O/S War M
+1604-0020,04/01/16 14:43,M,B,06/19/1973,"M30/PPS - Powell St. Station, 899 MARKET ST, San Francisco, CA 94103",PC 640 (c)(1) | PC O/S War M
+1604-0032,04/01/16 18:25,M,B,06/02/1970,"M10/OWS - West Oakland Station, 1451 7TH ST, Oakland, CA 94607",PC 166 (a)(4) | PC 647 (f) | BPD TT Adult Arrest Repo
+1604-0041,04/02/16 00:07,M,B,06/19/1973,"C70/CMS - North Concord Station, 3700 Port Chicago Hwy, CA 94519",PC 273.5(A)
+1604-0057,04/02/16 12:14,M,H,01/27/1990,"A30/COS - Coliseum Station, 7200 SAN LEANDRO ST, Oakland, CA 94621",PC 853.7 | VC 14601.1(A) | VC 23152 (A) | VC 23152 (B)
+1604-0074,04/02/16 22:56,M,H,10/21/1980,"C60/CDS - Concord Station, 1451 Oakland Ave, CA 94518",PC 647 (f)
+1604-0100,04/03/16 00:00,M,H,10/16/1957,"M30/PPS - Powell St. Station, 899 Market Street (PPS), San Francisco, CA 94101",PC 853.7
+1604-0089,04/03/16 13:40,M,H,02/18/1967,"C80/PBS - Pittsburg Station, 1700 W Leland Rd, BAY POINT, CA 94565",PC 647 (f)
+1604-0094,04/03/16 13:53,M,H,12/14/1966,"A50/BFS - Bay Fair Station, 15242 HESPERIAN BLVD, SAN LEANDRO, CA 94578",PC 647 (F) | BPD TT Adult Arrest Repo
+1604-0093,04/03/16 13:55,M,B,05/30/1972,"M80/BPS - Balboa Park Station, 401 Geneva Ave, SAN FRANCISCO, CA 94112","M80/BPS - Balboa Park Station, 401 Geneva Ave, SAN FRANCISCO, CA 94112 | PC O/S War F"
+1604-0098,04/03/16 17:00,F,B,05/21/1993,"R50/CNS - El Cerrito Del Norte Station, 6400 Cutting Blvd., El Cerrito, CA 94530",PC 640 (d)(1)
+1604-0140,04/04/16 00:00,M,B,05/30/1978,"K20/NSS - 19th St. Station, 1900 Broadway, OAKLAND, CA 94612",PC 647 (f)
+1604-0115,04/04/16 05:12,M,O,07/08/1982,"A20/FVS - Fruitvale Station, 3401 12th St, OAKLAND, CA 94601",PC 640 (d)(3)
+1604-0117,04/04/16 05:22,M,B,01/16/1993,"A20/FVS - Fruitvale Station, 3401 12th St, OAKLAND, CA 94601",HS 11364
+1604-0149,04/04/16 13:42,M,H,02/25/1963,"A80/UCS - Union City Station, 10 Union Sq, UNION CITY, CA 94587",
+1604-0156,04/04/16 17:06,M,H,08/10/1983,"C60/CDS - Concord Station, 1451 Oakland blvd Concord, CA, Concord, CA 94520",PC O/S War M | BPD TT Adult Arrest Repo
+1604-0186,04/05/16 07:29,M,B,05/12/1971,"1245 BROADWAY, OAKLAND, CA 94612",PC 1203.2
+1604-0190,04/05/16 08:47,M,B,07/10/1993,"A30/COS - Coliseum Station, 7200 San Leandro St, OAKLAND, CA 94621",PC O/S War F
+1604-0198,04/05/16 11:53,M,B,11/15/1958,"A30/COS - Coliseum Station, 7200 San Leandro St, OAKLAND, CA 94621",HS 11364.1 (A) | PC 1203.2 | PC 166 (a)(4)
+1604-0207,04/05/16 15:48,M,H,02/06/1975,"1 Train Incident, SAN FRANCISCO, CA 94121",PC 640 (C)(1) | PC O/S War M
+1604-0215,04/05/16 18:54,M,H,10/23/1993,"M10/OWS - West Oakland Station, 1451 7th St, OAKLAND, CA 94607",PC 243.4(A) | BPD TT Adult Arrest Repo
+1604-0235,04/06/16 01:10,M,B,08/15/1988,"A50/BFS - Bay Fair Station, 15242 HESPERIAN BLVD, San Leandro, CA 94578",PC 664
+1604-0242,04/06/16 08:25,F,H,09/11/1976,"A20/FVS - Fruitvale Station, 3401 12th St, OAKLAND, CA 94601",VC 12500 (A)
+1604-0246,04/06/16 09:11,F,H,09/24/1981,"200 N Rollins Rd, Millbrae, CA 94030",HS 11364.1 (A) | HS 11377 (A) | PC 640 (b)(3) | PC O/S War M
+1604-0268,04/06/16 14:59,M,H,10/21/1985,"M50/SSS - 16th St. Station, 2000 MISSION ST, SAN FRANCISCO, CA 94110",PC 647 (f)
+1604-0272,04/06/16 17:32,M,H,07/09/1970,"1 Train Incident, SAN FRANCISCO, CA 94121",PC 243.3
+1604-0337,04/07/16 00:00,M,B,03/20/1969,"W30/SBS - San Bruno Station, 1151 Huntington Ave, san bruno, CA 94066",PC 243.3 | BPD TT Adult Arrest Repo
+1601-1967,01/11/16 21:27,M,B,02/06/1964,"K10/TSS - 12th St. Station, 1247 Broadway, Oakland, CA",PC 166 (a)(4) | PC 21510 | PC; Contempt of Court | PC; Possess/Sell Switch-Blade Knife
+1601-1980,01/11/16 23:26,M,H,12/10/1991,"A20/FVS - Fruitvale Station, 3401 E 12th STREET, Oakland, CA 94608",FTA: PC; Theft
+1601-2053,01/12/16 08:50,M,B,02/09/1997,"K10/TSS - 12th St. Station, 1247 Broadway, Oakland, CA 94608",PC 148.9(A) | PC 640 (c)(1) | PC; False Identification To Peace Officer | PC; Public Transportation: Evade Payment of Fare
+16-002102,01/12/16 12:28,F,W,02/04/1989,"M30/PPS - Powell St. Station, 899 Market STREET, San Francisco, CA",PC 640 (C)(1) | PC; Public Transportation: Evade Payment of Fare
+1601-2178,01/12/16 17:38,M,B,01/22/1962,"R30/NBS - North Berkeley Station, 1750 Sacramento, Berkeley, CA",PC 166 (a)(4) | PC; Contempt of Court
+1601-2421,01/13/16 19:05,M,W,09/23/1977,"C70/CMS - North Concord Station, 3700 Port Chicago HWY, Concord, CA",PC 166 (a)(4) | PC; Contempt of Court | BPD TT Adult Arrest Repo
+1601-2546,01/14/16 10:23,M,W,09/25/1990,"RIS - R60 RICHMOND Sta, CA","PC 148 (A)(1) | PC 148.9(A) | PC 369 I (A) | PC 587 A | PC 640 (c)(1) | PC; Willfully Resists, Delays, or Obstructs Public, Peace Of | PC; False Identification To Peace Officer | PC; Trespass: Railroad Property | PC; Tamper With Railroad Apparatus | PC; Public Transportation: Evade Payment of Fare"
+1601-2555,01/14/16 11:39,M,B,06/10/1990,"M2O/MOS - Montgomery St. Station, 598 Market STREET, San Francisco, CA",PC 640 (C)(1) | FTA: PC; Assault On Person On Public Transportation/Propert | PC; Public Transportation: Evade Payment of Fare
+1601-2607,01/14/16 14:05,M,P,06/08/1971,"PPS - M30 POWELL Sta, CA",FTA: PC; FTA After Signing Written Promise to Appear
+1601-2603,01/14/16 16:26,M,B,12/19/1971,"M10/OWS - West Oakland Station, 1498 7th STREET, Oakland, CA 94608",PC 1203.2 | PC 25400(a)(2) | PC 25850(a) | PC 29800 (b) | PC 69 | PC O/S War F | PC; Violation of Probation | PC; Carry Concealed Weapon On Person | PC; Carry Loaded Firearm In Public Place | PC; Convicted Person Possess/Et c Firearm | PC; Obstruct/Resist Executive Officer | PC; Outside Warrant F
+1601-2615,01/14/16 21:31,M,B,10/24/1972,"K30/MAS - MacArthur Station, 550 40th AVENUE, Oakland, CA",PC O/S War F. | PC; Outside Warrant F | BPD TT Adult Arrest Repo
+1604-0316,04/07/16 05:05,M,H,04/29/1997,"K10/TSS - 12th St/Oakland Station, 1245 Broadway, OAKLAND, CA 94612",PC 1551 | PC O/S War F
+1604-0305,04/07/16 06:28,M,O,03/29/1990,"A10/LMS - Lake Merritt Station, 800 Madison St. OAKLAND, CA 94607",PC 1203.2(a) | PC 148 (A)(1)
+1604-0345,04/07/16 17:08,M,O,01/11/1974,"M30/PPS - Powell St. Station, 899 Market St, SAN FRANCISCO, CA 94103",PC 166 (a)(4)
+1604-0382,04/08/16 07:40,M,H,05/20/1970,"M30/PPS - Powell St. Station, 899 Market St, SAN FRANCISCO, CA 94103",PC 481.1(A) | PC 481.1(B)
+1604-0387,04/08/16 09:09,M,B,05/08/1985,"M10/OWS - West Oakland Station, 1451 7TH ST, OAKLAND, CA 94607",PC O/S War M
+1604-0394,04/08/16 13:20,M,H,04/01/1958,"1 Train Incident, SAN FRANCISCO, CA 94121",PC 314.1 | BPD TT Adult Arrest Repo
+1604-0395,04/08/16 14:47,M,B,11/21/1985,"W20/SFS - South San Francisco Station, 1333 MISSION RD, SOUTH SAN FRANCISCO, CA 94080",PC 243 (e)(1)
+1604-0410,04/08/16 20:40,M,W,05/06/1968,"M40/CCS - Civic Center Station, 1150 MARKET ST, San Francisco, CA 94102",PC O/S War M
+1604-0426,04/09/16 01:20,M,W,03/06/1980,"C30/LAS - Lafayette Station, 3601 Deer Hill Rd, LAFAYETTE, CA 94549",PC 602.1(B)
+1604-0429,04/09/16 06:14,F,B,05/06/1996,"A50/BFS - Bay Fair Station, 15242 HESPERIAN BLVD, SAN LEANDRO, CA 94578",PC 647 (F)
+1604-0437,04/09/16 10:30,M,W,09/03/1989,"M40/CCS - Civic Center Station, 1150 MARKET ST, SAN FRANCISCO, CA 94102",PC 148.9(A)
+1604-0445,04/09/16 14:51,M,O,01/10/1993,"M70/GPS - Glen Park Station, 2901 Diamond St, SAN FRANCISCO, CA 94131",PC 148 (A)(1)
+1604-0445,04/09/16 14:51,M,B,09/10/1993,"M70/GPS - Glen Park Station, 2901 Diamond St, SAN FRANCISCO, CA 94131",BPD TT Adult Arrest Repo
+1604-0456,04/09/16 20:25,M,B,04/15/1970,"M30/PSS - Powell St Station, 899 Market St, SAN FRANCISCO, CA 94103",PC Bart War M
+1604-0487,04/10/16 00:00,M,O,01/11/1974,"N/A unknown, 899 MARKET ST, San Francisco, CA 94103",PC 166 (a)(4)
+1604-0479,04/10/16 09:44,F,H,07/29/1996,"A50/BFS - Bay Fair Station, 15242 Hesperian Blvd, SAN LEANDRO, CA 94578",PC 21510 | PC 243 (e)(1) | PC 422 | PC 594 (B)(1)
+1604-0531,04/11/16 00:00,M,H,10/24/1993,"555 40th Street, Oakland, CA 94601",PC 459 | PC 466
+1604-0523,04/11/16 08:52,M,B,02/06/1964,"3401 12TH ST, OAKLAND, CA 94601",PC 166 (a)(4)
+1604-0576,04/12/16 00:00,M,W,,"C40/WCS - Walnut Creek Station, 200 Ygnacio Valley Rd, WALNUT CREEK, CA 94596",PC O/S War M | BPD TT Adult Arrest Repo
+1604-0596,04/12/16 00:00,M,B,08/01/1967,"M30/PPS - Powell St. Station, 899 Market St, SAN FRANCISCO, CA 94103",PC 466.3(A) | PC 481.1(B) | PC 602.7
+1604-0582,04/12/16 10:52,F,H,04/22/1982,"M40/CCS - Civic Center Station, 1150 Market St, SAN FRANCISCO, CA 94102",PC O/S War M
+1604-1114,04/12/16 11:47,M,W,08/10/1986,"A10/LMS - Lake Merritt Station, 800 Madison St, Oakland, CA 94607",PC Bart War M
+1604-0625,04/13/16 06:35,M,B,11/17/1991,"A30/COS - Coliseum Station, 7200 SAN LEANDRO ST, Oakland, CA 94621",HS 11364.1 (A) | PC 21310 | PC 466 | PC Bart War F
+1604-0637,04/13/16 10:55,M,B,05/30/1995,"01 unknown, 899 Market Street, San Francisco, CA 94102",PC 148.9(A) | PC 640 (c)(1)
+1604-0650,04/13/16 14:04,F,B,10/07/1994,"A20/FVS - Fruitvale Station, 3401 E 12th St, OAKLAND, CA",PC 243 (e)(1) | BPD TT Adult Arrest Repo
+1604-0649,04/13/16 14:32,M,B,01/22/1993,"A10/LMS - Lake Merritt Station, 800 Madison St, OAKLAND, CA 94607",PC 490
+1604-0669,04/14/16 00:02,M,B,10/18/1967,"M30/PPS - Powell St. Station, 899 Market St, SAN FRANCISCO, CA 94103",PC 1203.2(a)
+1604-0695,04/14/16 12:42,M,W,07/20/1970,"3301 NORBRIDGE AVE, CASTRO VALLEY, CA 94546",PC O/S War F | PC O/S War M
+1604-0760,04/15/16 00:00,M,B,03/24/1986,"3502 DEER HILL RD, Lafayette, CA 94549",PC 369 I (B)
+1604-0791,04/15/16 00:00,F,B,01/26/1991,"W30/SBS - San Bruno Station, 1151 HUNTINGTON AVE, San Bruno, CA 94066",PC 587 C
+1604-0732,04/15/16 04:57,M,W,12/31/1990,"W10/CLS - Colma Station, 365 D St, COLMA, CA 94014",PC O/S War F
+1604-0743,04/15/16 09:57,M,B,07/09/1968,"M10/OWS - West Oakland Station, 1451 7TH ST, OAKLAND, CA 94607",PC 166 (a)(4) | BPD TT Adult Arrest Repo
+1604-0787,04/15/16 22:30,M,B,01/26/1991,"San Bruno BART Station, san bruno, CA 94404",PC 587 C
+1604-0804,04/16/16 12:14,M,B,07/04/1960,"3401 12th St, OAKLAND, CA 94601",PC 466 | PC 664 / 488
+1604-0807,04/16/16 13:22,F,A,12/08/1993,"A40/SLS - San Leandro Station, 1401 SAN LEANDRO BLVD, SAN LEANDRO, CA 94577",PC 243 (e)(1)
+1604-0850,04/17/16 15:30,M,B,04/16/1970,"M10/OWS - West Oakland Station, 1451 7th St, OAKLAND, CA 94607",PC 290
+1604-0862,04/17/16 21:30,M,O,04/30/1960,"A30/COS - Coliseum Station, 7200 San Leandro St, OAKLAND, CA 94621",PC 488
+1604-0889,04/18/16 08:20,M,B,01/10/1985,"R50/CNS - El Cerrito del Norte Station, 6400 Cutting Blvd, EL CERRITO, CA 94530",PC 240
+1604-0882,04/18/16 08:27,M,B,04/23/1973,"A30/COS - Coliseum Station, 7200 San Leandro St, OAKLAND, CA 94621",PC O/S War M | BPD TT Adult Arrest Repo
+1604-0892,04/18/16 09:42,M,B,05/10/1971,"1245 Broadway, Oakland CA 94608, oakland, CA 94608",PC O/S War M
+1604-0918,04/18/16 16:39,F,B,12/05/1972,"M50/SSS - 16th St. Station, 2000 Mission St, SAN FRANCISCO, CA 94110",PC O/S War F
+1604-0918,04/18/16 16:39,M,B,01/07/1977,"M50/SSS - 16th St. Station, 2000 Mission St, SAN FRANCISCO, CA 94110",PC O/S War M
+1604-0929,04/18/16 22:03,M,B,11/02/1962,"K30/MAS - MacArthur Station, 550 40TH ST, Oakland, CA 94609",PC 647 (f)
+1604-0993,04/19/16 00:00,F,W,07/27/1981,"M40/CCS - Civic Center Station, 1150 Market St. San Francisco, Not Applicable, CA 94506",HS 11350 (A) | PC O/S War F | PC O/S War M
+1604-1005,04/20/16 00:22,M,H,01/29/1982,"R30/NBS - North Berkeley Station, 1750 Sacramento St, BERKELEY, CA 94702",PC 1203.2 | PC 369 | | PC 647 (f) | BPD TT Adult Arrest Repo
+1604-1023,04/20/16 09:20,M,W,11/30/1983,"A50/BFS - Bay Fair Station, 15242 Hesperian Blvd, SAN LEANDRO, CA 94578",PC O/S War F
+1604-1030,04/20/16 10:09,F,B,01/24/1985,"M10/OWS - West Oakland Station, 1451 7th St, OAKLAND, CA 94607",PC 273a(b)
+1604-1040,04/20/16 13:52,M,O,03/18/1973,"1150 Mission Street, San Francisco, san francisco, CA 94503",PC 242 | PC 647 (f)
+1604-1063,04/20/16 18:30,M,B,02/24/1973,"A60/HAS - Hayward Station, 699 B ST, HAYWARD, CA 94541",PC 243 (e)(1) | PC 273.6(A) | PC 422
+1604-1070,04/20/16 19:41,M,W,02/22/1985,"K30/MAS - MacArthur Station, 550 40TH ST, Oakland, CA 94609",PC O/S War M
+1604-1089,04/21/16 05:39,M,B,05/30/1966,"A10/LMS - Lake Merritt Station, 800 Madison St, OAKLAND, CA 94607",PC 647 (F) | BPD TT Adult Arrest Repo
+1604-1102,04/21/16 08:47,M,W,09/14/1988,"M80/BPS - Balboa Park Station, 401 Geneva Ave, SAN FRANCISCO, CA 94112","M80/BPS - Balboa Park Station, 401 Geneva Ave, SAN FRANCISCO, CA 94112 | HS 11350 (A) | HS 11364 (a)"
+1604-1124,04/21/16 16:04,M,H,09/17/1990,"1 Train Incident, SAN FRANCISCO, CA 94121",PC 1203.2 | PC 487 C
+1604-1141,04/21/16 19:50,M,B,10/08/1974,"M40/CCS - Civic Center Station, 1150 Market Street San Francisco, San Francisco, CA 94104",PC O/S War F
+1604-1205,04/22/16 00:00,F,H,09/16/1991,"M60/TFS - 24th St. Station, 2800 Mission St, San Francisco, CA 94110",BP 25620 (a) | PC 148 (A) | PC 640 (c)(1) | PC 647 (f)
+1604-1170,04/22/16 00:00,M,B,03/24/1986,"W10/CLS - Colma Station, 365 D ST, Colma, CA 94014",PC 369 I (B)
+1604-1160,04/22/16 08:05,M,O,03/16/1994,"R60/RIS - Richmond Station, 1700 NEVIN AVE, RICHMOND, CA 94801",PC 3691 | BPD TT Adult Arrest Repo
+1604-1175,04/22/16 13:00,M,B,03/06/1990,"A50/BFS - Bay Fair Station, 15242 Hesperian Blvd, SAN LEANDRO, CA 94578",PC O/S War F
+1604-1199,04/22/16 20:30,M,H,11/06/1968,"Civic unknown, 1150 Market St., San Francisco, CA 94506",PC O/S War F | PC O/S War M
+1604-1231,04/23/16 08:40,M,B,09/18/1980,"Hill St / San Pablo Ave, EL CERRITO, CA 94530",VC 14601.1(A)
+1604-1285,04/24/16 04:00,M,B,09/05/1995,"M90/DCS - Daly City Station, 500 John Daly Blvd, DALY CITY, CA 94014",PC 487 C | PC 496 (A)
+1604-1286,04/24/16 06:15,M,W,07/19/1962,"R60/RIS - Richmond Station, 1700 Nevin Ave, RICHMOND, CA 94801",PC 242
+1604-1286,04/24/16 06:15,F,B,08/20/1962,"R60/RIS - Richmond Station, 1700 Nevin Ave, RICHMOND, CA 94801",
+1604-1288,04/24/16 10:21,M,B,09/16/1952,"A10/LMS - Lake Merritt Station, 800 Madison St, OAKLAND, CA 94607",PC 3056 | BPD TT Adult Arrest Repo
+1604-1290,04/24/16 10:43,M,B,,"A50/BFS - Bay Fair Station, 15242 Hesperian Blvd, SAN LEANDRO, CA 94578",
+1604-1331,04/24/16 23:30,M,B,07/14/1961,"Daly City Bart Station, Daly City, CA 94015",PC 290.011 (A)
+1604-1352,04/25/16 10:02,M,O,08/13/1978,"A70/SHS - South Hayward Station, 28601 DIXON ST, HAYWARD, CA 94544","A70/SHS - South Hayward Station, 28601 DIXON ST, HAYWARD, CA 94544 | PC 369 I (A)"
+1604-1356,04/25/16 13:20,F,H,07/05/1970,"A70/SHS - South Hayward Station, 28601 Dixon St, HAYWARD, CA 94544","A70/SHS - South Hayward Station, 28601 Dixon St, HAYWARD, CA 94544 | PC 369 I (B)"
+1604-1468,04/26/16 00:00,M,W,08/27/1961,"M30/PPS - Powell St. Station, 899 MARKET ST, San Francisco, CA 94103",PC 640 (d)(4)
+1604-1451,04/26/16 10:07,M,B,06/09/1973,"A30/COS - Coliseum Station, 7200 SAN LEANDRO ST, Oakland, CA 94621",PC 166 (a)(4) | PC 640 (c)(1)
+1604-1491,04/26/16 19:40,M,O,02/02/1979,"M40/CCS - Civic Center Station, 1150 Market Street, San Francisco, CA 94102",PC 369 | BPD TT Adult Arrest Repo
+1604-1491,04/26/16 19:40,M,W,02/02/1979,"M40/CCS - Civic Center Station, 1150 Market Street, San Francisco, CA 94102",PC Bart War M
+1604-1502,04/26/16 21:55,M,B,09/01/1980,"R10/AHS - Ashby Station, 3100 Adeline St, BERKELEY, CA 94703","R10/AHS - Ashby Station, 3100 Adeline St, BERKELEY, CA 94703 | PC 1203.2"
+1604-1508,04/26/16 23:24,F,B,09/16/1995,"A30/COS - Coliseum Station, 7200 SAN LEANDRO ST, Oakland, CA 94621",HS 11375 (B)
+1604-1527,04/27/16 06:40,M,B,09/11/1978,"3401 12th St, OAKLAND, CA 94601",HS 11350 (A)
+1604-1534,04/27/16 08:55,M,B,07/27/1989,"C80/PBS - Pittsburg Station, 1700 Leland Rd, BAY POINT, CA 94565",PC O/S War M
+1604-1544,04/27/16 11:52,M,B,01/26/1991,"M90/DCS - Daly City Station, 500 John Daly Blvd, DALY CITY, CA 94014",PC 422
+1604-1546,04/27/16 13:27,M,B,09/19/1985,"R50/CNS - El Cerrito Del Norte Station, 6400 CUTTING BLDG, EL CERRITO CA94530, EL CERRITO, CA",PC 647 (f) | BPD TT Adult Arrest Repo
+1604-1550,04/27/16 14:00,M,W,12/11/1991,"C40/WCS - Walnut Creek Station, 200 YGNACIO VALLEY RD, Walnut Creek, CA 94596",PC 3056 | PC 466
+1604-1615,04/28/16 09:17,M,A,08/25/1993,"M90/DCS - Daly City Station, 500 John Daly Blvd, DALY CITY, CA 94014",PC O/S War M
+1604-1654,04/28/16 17:30,M,B,07/13/1951,"A10/LMS - Lake Merritt Station, 800 Madison St, Oakland, Oakland, CA Not Applica",HS 11364.1 (A) | PC 466 | PC 488 | PC 813
+1604-1676,04/28/16 20:14,M,B,10/16/1958,"A90/FMS - Fremont Station, 2000 Bart Way, FREMONT, CA 94536",PC 243 (e)(1) | PC 647 (f)
+1604-1683,04/28/16 22:20,M,C,11/17/1985,"WB Hwy 24, LAFAYETTE, CA 94549",PC 148 (A)(1) | VC 14601 (A) | VC 23152 (A)
+1604-1704,04/29/16 08:19,M,B,08/01/1967,"M30/PPS - Powell St. Station, 899 Market St., San Francisco, CA 94601",PC 602.1(B) | BPD TT Adult Arrest Repo
+1604-1720,04/29/16 14:49,F,B,03/31/1959,"L30/EDS - Dublin/Pleasanton, 5801 Owens Dr, PLEASANTON, CA 94588",PC 148 (A)(1) | PC O/S War F
+1604-1730,04/29/16 17:11,M,W,06/02/1965,"C60/CDS - Concord Station, 1451 Oakland Ave, CONCORD, CA 94520",HS 11377 (A)
+1604-1738,04/29/16 20:30,M,O,09/23/1992,"M40/CCS - Civic Center Station, 1150 MARKET ST, San Francisco, CA 94102",PC 485
+1604-1764,04/30/16 08:05,M,B,04/15/1970,"M30/PPS - Powell St. Station, 899 Market Street (PPS), San Francisco, CA 94101",PC O/S War M
+1604-1778,04/30/16 11:56,M,W,06/04/1978,"C80/PBS - Pittsburg Station, 1700 W Leland Rd, PITTSBURG, CA 94565",PC O/S War M
+1604-1777,04/30/16 12:05,M,W,12/14/1982,"C70/CMS - North Concord Station, 3700 Port Chicago Hwy, CA 94519",PC 647 (f)
+1604-1806,04/30/16 22:55,M,W,06/22/1985,"Conco unknown, 1451 Oakland Ave, Concord, CA 94520",HS 11377 (A) | BPD TT Adult Arrest Repo
+1605-0011,05/01/16 00:00,M,W,08/05/1954,"C20/ORS - Orinda Station, 11 CAMINO PABLO, ORINDA, CA 94563",HS 11377 (A)
+1605-0022,05/01/16 18:00,M,B,10/17/1987,"C40/WCS - Walnut Creek Station, 200 Ygnacio Valley Blvd, WALNUT CREEK, CA 94520",HS 11350 (A) | PC 243 (e)(1)
+1605-0026,05/01/16 19:00,M,W,11/06/1979,"K30/MAS - MacArthur Station, 550 40th St, OAKLAND, CA 94609",HS 11550 (A) | PC 148.9(A) | PC 290.012 (A) | PC 3056
+1605-0025,05/01/16 19:42,F,W,05/31/1956,"C60/CDS - Concord Station, 1451 Oakland Ave, Concord, CA 94518",PC 1203.2 | PC 647 (f)
+1605-0050,05/02/16 07:00,M,B,07/09/1968,"98 Market Street San Francisco, Ca., San Francisco, CA 94127",PC 166 (a)(4)
+1605-0058,05/02/16 09:13,M,B,10/08/1994,"M16/EMS - Embarcadero Station, 298 MARKET ST, San Francisco, CA 94111",PC 243 (e)(1) | BPD TT Adult Arrest Repo
+1605-0058,05/02/16 09:13,M,B,10/08/1994,"M16/EMS - Embarcadero Station, 298 MARKET ST, San Francisco, CA 94111",
+1605-0084,05/02/16 16:55,M,B,05/12/1973,"M30/PPS - Powell St. Station, 899 Market Street, San Francisco, CA 94102",HS 11364 (a) | HS 11377 (B) | PC O/S War M
+1605-0108,05/02/16 20:12,M,B,10/06/1963,"A50/BFS - Bay Fair Station, 15242 Hesperian Blvd, SAN LEANDRO, CA 94578",PC O/S War F
+1605-0117,05/02/16 23:30,M,W,10/15/1985,"C80/PBS - Pittsburg Station, 1700 W Leland Rd, PITTSBURG, CA 94565",PC 245 (A)(1) | PC 314.1
+1604-0129,05/03/16 06:50,M,W,07/20/1988,"Powel unknown, 899 Market St, San Francisco, CA 94102",PC O/S War M
+1605-0130,05/03/16 07:19,M,H,11/10/1979,"A20/FVS - Fruitvale Station, 3401 E 12th Street, OAKLAND, CA 94601",PC 243 (e)(1) | BPD TT Adult Arrest Repo
+1604-test,05/03/16 08:42,M,W,04/22/1970,"A50/BFS - Bay Fair Station, 15242 Hesperian Blvd, SAN LEANDRO, CA 94578",PC O/S War F
+1605-0154,05/03/16 13:33,M,H,02/25/1963,"A80/UCS - Union City Station, 10 Union Sq, UNION CITY, CA 94587",PC 243.35(a)
+1605-0194,05/03/16 17:55,M,B,06/22/1970,"M30/PPS - Powell St. Station, 899 Market Street., San Francisco, CA 94103",PC O/S War M
+1605-0192,05/03/16 19:20,M,B,04/09/1959,"Conco unknown, 1451 Oakland Ave, Concord, CA 94518",HS 11350 (A) | PC 647 (f)
+1605-0218,05/04/16 07:59,M,B,07/22/1961,"M10/OWS - West Oakland Station, 1451 7TH ST, OAKLAND, CA 94607",PC 1203.2(a) | PC 166 (a)(4) | PC 647 (f)
+1605-0225,05/04/16 09:08,F,B,09/17/1961,"A20/FVS - Fruitvale Station, 3401 12th St, OAKLAND, CA 94601",PC O/S War M | BPD TT Adult Arrest Repo
+1605-0231,05/04/16 09:45,F,B,07/18/1988,"850 BRYANT ST, San Francisco, CA 94103",HS 11357 (B) | PC 148.9(A) | PC 245 (A)(1) | PC 640 (c)(1)
+1605-0242,05/04/16 12:02,M,B,06/30/1949,"M30/PPS - Powell St. Station, 899 MARKET ST, SAN FRANCISCO, CA 94103",PC 166 (a)(4)
+1605-0244,05/04/16 12:24,M,B,11/21/1996,"M80/BPS - Balboa Park Station, 401 Geneva Ave, SAN FRANCISCO, CA 94112","M80/BPS - Balboa Park Station, 401 Geneva Ave, SAN FRANCISCO, CA 94112 | PC 148.9(A)"
+1605-0281,05/04/16 22:45,M,O,01/11/1974,"M60/TFS - 24th St. Station, 2800 Mission St, SAN FRANCISCO, CA 94110",PC 166 (a)(4)
+1605-0352,05/05/16 00:00,F,W,06/20/1996,"M40/CCS - Civic Center Station, 1150 MARKET ST, San Francisco, CA 94102",HS 11350 (A) | PC 640 (c)(1) | PC O/S War M
+1605-0328,05/05/16 13:16,M,W,12/04/1967,"A50/BFS - Bay Fair Station, 15242 Hesperian Blvd, SAN LEANDRO, CA 94578",PC O/S War F | BPD TT Adult Arrest Repo
+1605-0334,05/05/16 15:44,M,H,02/11/1963,"1 Train Incident, SAN FRANCISCO, CA 94121",PC 647 (f)
+1605-0339,05/05/16 17:20,M,B,03/06/1975,"M30/PPS - Powell St. Station, 899 MARKET ST, San Francisco, CA 94103",HS 11364
+1605-0349,05/05/16 18:08,M,B,06/01/1970,"Pleas unknown, 1 Train Incident, SAN FRANCISCO, CA 94121",PC 1203.2 | PC 647 (f)
+1605-0361,05/05/16 23:00,F,W,12/21/1969,"M40/CCS - Civic Center Station, 1150 MARKET ST, SAN FRANCISCO, CA 94102",PC O/S War M
+1605-0363,05/05/16 23:24,M,B,07/07/1991,"1 Train Incident, SAN FRANCISCO, CA 94121",PC 243 (e)(1) | PC O/S War M | BPD TT Adult Arrest Repo
+1605-0411,05/06/16 00:00,F,W,06/01/1975,"L30/EDS - Dublin/Pleasanton Station, 5801 Owens Dr, PLEASANTON, CA 94588",PC 415 | PC 647 (f) | PC 813
+1605-0385,05/06/16 00:00,M,W,01/13/1993,"M30/PPS - Powell St. Station, 899 Market Street (PPS), San Francisco, CA 94101",PC 640 (d)(3)
+1605-0369,05/06/16 04:28,M,B,07/29/1955,"A90/FMS - Fremont Station, 2000 Bart Way, FREMONT, CA 94536",PC 245 (A)(1)
+1605-0401,05/06/16 17:29,M,O,03/10/1989,"M30/PPS - Powell St. Station, 899 Market St, SAN FRANCISCO, CA 94103",PC 243.35(a)
+1605-0426,05/07/16 00:00,F,B,06/30/1962,"M90/DCS - Daly City Station, 500 JOHN DALY BLVD, Daly City, CA 94014",PC 647 (f)
+1605-0437,05/07/16 07:53,M,B,07/26/1969,"C60/CDS - Concord Station, 1451 Oakland Ave, CA 94518",HS 11377 (A) | PC 3056 | BPD TT Adult Arrest Repo
+1601-2882,01/14/16 22:05,M,B,11/05/1970,"R50/CNS - El Cerrito Del Norte Station, 6400 Cutting BI, El Cerrito, CA 94530",PC 647 (f) | FTA: VC; Dui Alcohol/Drugs | PC; Disorderly Conduct:Intoxicated in Public
+1601-2621,01/14/16 23:05,M,A,08/22/1980,"A30/COS - Coliseum Station, 7200 San Leandro AVENUE, Oakland, CA 94608",PC 243.3 | PC 647 (f) | PC; Battery With Injury:Transport Personnel/Passenger | PC; Disorderly Conduct:Intoxicated in Public
+1601-2648,01/16/16 06:56,M,W,04/21/1993,"M30/PPS - Powell St. Station, 899 Market STREET, San Francisco, CA 94102",HS 11377 (A) | PC 148.9(A) | PC O/S War F | HS; Possess Controlled Substance | PC; False Identification To Peace Officer | PC; Outside Warrant F
+1601-2660,01/16/16 16:41,M,H,06/27/1988,"W20/SFS - South San Francisco Station, Evergreen Dr Mission ROAD, South San Francisco, CA 94080","PC 148.9(A) | PC 4573 | PC O/S War F | PC; False Identification To Peace Officer | PC; Bringing Controlled Substances into Prison, Jail | PC; Outside Warrant F"
+1601-2660,01/16/16 16:41,F,W,05/05/1993,"W20/SFS - South San Francisco Station, Evergreen Dr Mission ROAD, South San Francisco, CA 94080",VC 10851 (A) | VC; Take Vehicle W/O Owner's Consent/Vehicle Theft
+1601-2661,01/16/16 17:16,M,B,09/17/1987,"A20/FVS - Fruitvale Station, 3401 East 12th STREET, Oakland, CA",BPD TT Adult Arrest Repo
+1601-2665,01/16/16 21:08,M,H,01/19/1964,"C80/PBS - Pittsburg Station, 1700 West Leland ROAD, Pittsburg, CA",PC 647 (f) | PC; Disorderly Conduct:Intoxicated in Public
+1601-2666,01/16/16 22:23,F,B,05/30/1966,"A50/BFS - Bay Fair Station, 15242 Hesperian BI, San Leandro, CA",HS 11364.1 (A) | PC 647 (f) | HS; Possess Unlawful Paraphrenailia | PC; Disorderly Conduct:Intoxicated in Public
+1601-2667,01/16/16 22:28,M,B,09/15/1992,"M30/PPS - Powell St. Station, 899 Market STREET, San Francisco, CA",HS 11357 (B) | HS HSOO | PC 166 (a)(4) | HS; Possess Marijuana 28.5 Grams or Less | HS; Health & Safety Code Other Offenses | PC; Contempt of Court
+1601-2686,01/18/16 08:30,M,O,06/08/1971,"Train: 365 - SAS - 361, CA",
+1601-2689,01/18/16 09:19,M,O,10/11/1972,"M40/CCS - Civic Center Station, 1150 Market STREET, San Francisco, CA 94102",HS 11350 (A) | HS; Possess Narcotic Controlled Substance
+1601-2698,01/18/16 18:00,M,B,06/25/1976,"M60/TFS - 24th St. Station, 2800 Mission STREET, San Francisco, CA 94102","PC 148 (A)(1) | PC 466 | PC 664 / 488 | PC; Willfully Resists, Delays, or Obstructs Public, Peace Of | PC; Possess/Etc Burglary Tools | PC; Attempt Petty Theft | BPD TT Adult Arrest Repo"
+1605-0447,05/07/16 09:55,M,W,07/06/1991,"W30/SBS - San Bruno Station, 1151 Huntington Ave, SAN BRUNO, CA 94066",PC 245 (A)(1) | PC O/S War M
+1605-0453,05/07/16 13:45,M,H,08/31/1997,"A50/BFS - Bay Fair Station, 15242 Hesperian Blvd. SAN LEANDRO. CA 94578",VC 12500 (A)
+1605-0465,05/07/16 15:21,M,B,09/01/1980,"R20/BES - Berkeley Station, 2160 Shattuck Ave, BERKELEY, CA 94704",PC 166 (a)(4)
+1605-0475,05/07/16 18:06,M,W,01/10/1981,"A50/BFS - Bay Fair Station, 15242 Hesperian Blvd, SAN LEANDRO, CA 94578",PC 813
+1605-0476,05/07/16 18:46,M,B,09/10/1971,"C60/CDS - Concord Station, 1451 Oakland Ave, Concord, CA 94520",PC 1203.2 | VC 23152 (B)
+1604-0482,05/07/16 21:27,M,B,08/30/1989,"M20/MOS - Montgomery St. Station, 598 Market St, SAN FRANCISCO, CA 94105",HS 11364 (a) | PC 1203.2 | BPD TT Adult Arrest Repo
+1605-0495,05/08/16 00:00,M,B,07/15/1970,"W30/SBS - San Bruno Station, 1151 HUNTINGTON AVE, San Bruno, CA 94066",PC 211
+1605-0494,05/08/16 01:45,M,H,07/19/1980,"A70/SHS - South Hayward Station, 28601 Dixon St, HAYWARD, CA 94544","A70/SHS - South Hayward Station, 28601 Dixon St, HAYWARD, CA 94544 | PC O/S War M"
+1605-0511,05/08/16 14:44,M,B,05/11/1995,"A50/BFS - Bay Fair Station, 15242 Hesperian Blvd, SAN LEANDRO, CA 94578",PC 1203.2 | PC 20170 (A)
+1605-0560,05/09/16 10:40,M,B,03/21/1952,"L30/EDS - Dublin/Pleasanton, 5801 Owens Dr, PLEASANTON, CA 94588",PC O/S War M
+1605-0630,05/10/16 11:00,M,O,02/27/1977,"A20/FVS - Fruitvale Station, 3401 E 12th St, Oakland, CA 94601",VC 14601.1(A)
+1605-0631,05/10/16 11:10,F,W,12/14/1987,"K30/MAS - MacArthur Station, 550 40th St, OAKLAND, CA 94609",PC 211 | PC 369 I (B) | BPD TT Adult Arrest Repo
+1605-0635,05/10/16 11:39,M,W,09/30/1980,"C40/WCS - Walnut Creek Station, 200 Ygnacio Valley Rd, WALNUT CREEK, CA 94596",PC O/S War M
+1605-0637,05/10/16 12:30,M,H,01/09/1984,"West unknown, 1451 77th Ave, Oakland, CA 94621",PC 381 (B)
+1605-0652,05/10/16 16:00,F,B,09/28/1993,"C30/LAS - Lafayette Station, 3501 Deer Hill Rd, Lafayette, CA 94549",PC O/S War M
+1605-0652,05/10/16 16:00,M,W,07/14/1990,"C30/LAS - Lafayette Station, 3501 Deer Hill Rd, Lafayette, CA 94549",
+1605-0669,05/10/16 19:55,M,W,12/08/1962,"M30/PPS - Powell St. Station, 899 MARKET ST, San Francisco, CA 94103",PC Bart War M
+1605-0688,05/11/16 01:10,F,B,12/06/1973,"M10/OWS - West Oakland Station, 1451 7TH ST, OAKLAND, CA 94607",HS 11350 (A)
+1605-0713,05/11/16 09:14,M,B,05/11/1971,"598 MONTGOMERY ST, San Francisco, CA 94111",PC 243.3 | PC 417 (A)(1) | BPD TT Adult Arrest Repo
+1605-0710,05/11/16 09:15,M,W,02/10/1965,"K30/MAS - MacArthur Station, 550 40th Street, Oakland, CA 94607",PC 243.35(a)
+1605-0710,05/11/16 09:15,F,B,06/20/1994,"K30/MAS - MacArthur Station, 550 40th Street, Oakland, CA 94607",PC 243.3
+1605-0737,05/11/16 17:10,M,W,11/09/1988,"M30/PPS - Powell St. Station, 899 Market Street, San francisco, CA 94103",PC O/S War M
+1605-1098,05/11/16 21:49,M,B,09/20/1987,"San L unknown, 1401 San Leandro Blvd, SAN LEANDRO, CA 94577",PC 664 / 187(A)
+1605-0775,05/12/16 00:10,F,B,10/29/1983,"K30/MAS - MacArthur Station, 550 40th Street, Oakland, CA 94608",PC 243.35(a)
+1605-0792,05/12/16 11:42,M,B,04/21/1989,"A20/FVS - Fruitvale Station, 3401 12TH ST, OAKLAND, CA 94601",PC O/S War M
+1605-0795,05/12/16 12:30,M,B,08/12/1967,"C80/PBS - Pittsburg/Bay Point Station, 1700 W Leland Rd, Pittsburg, CA 94565",PC 236 | PC 243 (e)(1) | BPD TT Adult Arrest Repo
+1605-0829,05/12/16 22:29,M,B,03/26/1997,"A90/FMS - Fremont Station, 2000 Bart Way, FREMONT, CA 94536",PC 148 (A)(1)
+1605-0835,05/13/16 00:15,M,B,01/30/1997,"A20/FVS - Fruitvale Station, 3401 E. 12th Street, Oakland, CA 94601",PC 369 I (A)
+1605-0849,05/13/16 07:44,M,B,03/11/1992,"K10/TSS - 12th St/Oakland Station, 1245 Broadway, OAKLAND, CA 94612",PC 1203.2(a) | PC 148 (A)(1) | PC 25400 (C)(4) | PC 640 (c)(1)
+1605-0855,05/13/16 10:17,M,B,10/24/1977,"R20/BES - Downtown Berkeley Station, 2160 Shattuck Ave, BERKELEY, CA 94704",HS 11364.1 (A) | PC 1203.2 | PC 166 (a)(4)
+1605-0878,05/13/16 16:30,M,B,06/20/1992,"C40/WCS - Walnut Creek Station, 200 YGNACIO VALLEY RD, Walnut Creek, CA 94596",PC 273.5(A)
+1605-0879,05/13/16 16:40,M,W,10/05/1949,"M20/MOS - Montgomery St. Station, 598 MARKET ST, San Francisco, CA 94104",PC 640 (d)(4) | BPD TT Adult Arrest Repo
+1605-0906,05/13/16 23:50,M,B,11/08/1970,"W30/SBS - San Bruno Station, 1 TRAIN INCIDENT, SAN FRANCISCO, CA 94121",HS 11364.1 (A) | PC 166 (a)(4)
+1605-0914,05/14/16 00:30,M,B,06/30/1949,"200 N Rollins Rd, Millbrae, CA 94030",PC 166 (a)(4)
+1605-0907,05/14/16 00:41,M,H,07/01/1986,"C80/PBS - Pittsburg Station, 1700 W Leland Rd, Pittsburg, CA 94565",PC 647 (f)
+1605-0969,05/14/16 01:00,M,B,08/29/1988,"K20/NSS - 19th St. Station, 1900 Broadway Ave., Oakland, CA 94606",PC 148 (A)(1) | PC 647 (f) | PC O/S War M
+1605-0920,05/14/16 10:28,M,W,04/16/1958,"A30/COS - Coliseum Station, 7200 San Leandro St, OAKLAND, CA 94621",HS 11350 (A) | HS 11364.1 (A) | PC 1203.2 | VC 23152 (C)
+1605-0925,05/14/16 11:21,M,O,11/15/1958,"A10/LMS - Lake Merritt Station, 800 MADISON ST, OAKLAND, CA 94607",PC 148 (A)(1) | BPD TT Adult Arrest Repo
+1605-0938,05/14/16 17:17,M,B,02/28/1977,"R40/CPS - El Cerrito Plaza Station, 6699 Fairmount Avenue, El Cerrito, CA 94530",PC 290.012 (A)
+1605-0946,05/14/16 19:10,M,O,08/30/1989,"C60/CDS - Concord Station, 1451 Oakland Ave, Concord, CA 94520",HS 11364 (a) | PC 1203.2
+1605-0984,05/15/16 12:24,M,A,11/28/1950,"A10/LMS - Lake Merritt Station, 800 MADISON ST, OAKLAND, CA 94607",PC 640 (c)(1)
+1605-1007,05/15/16 19:32,M,B,04/17/1981,"A80/UCS - Union City Station, 10 Union Sq, UNION CITY, CA 94587",PC 3056
+1605-1008,05/15/16 21:23,M,O,08/30/1989,"C60/CDS - Concord Station, 1451 Oakland Ave, Concord, CA 94520",PC 1203.2 | PC 148 (A)(1) | PC 243 (B)
+1605-1043,05/16/16 10:14,M,B,03/13/1970,"1245 Broadway, Oakland CA 94608, oakland, CA 94608",PC O/S War M | BPD TT Adult Arrest Repo
+1605-1043,05/16/16 10:14,F,B,02/25/1982,"1245 Broadway, Oakland CA 94608, oakland, CA 94608",
+1605-1126,05/17/16 11:34,F,B,08/21/1993,"A30/COS - Coliseum Station, 7200 San Leandro St, Oakland, CA 94621",PC 166 (a)(4)
+1605-1135,05/17/16 14:19,M,B,06/25/1976,"C20/ORS - Orinda Station, 11 CAMINO PABLO, ORINDA, CA 94563",HS 11364.1 (A) | PC 488
+1605-1208,05/18/16 00:00,F,B,02/21/1981,"L30/EDS - Dublin/Pleasanton, 5801 Owens Drive, Dublin, CA 94568",PC 417 (A)(1)
+1605-1171,05/18/16 07:30,M,B,01/11/1966,"M30/PPS - Powell St. Station, 899 Market Street, San Francisco, CA 94102",PC 481.1(B) | PC 602.7 | BPD TT Adult Arrest Repo
+1605-1196,05/18/16 11:27,M,B,07/11/1994,"R60/RIS - Richmond Station, 1700 Nevin Ave, RICHMOND, CA 94801",HS 11350 (A) | HS 11357 (B) | PC 1203.2 | PC 182 (A)(1) | PC 459 | PC 460 | PC 466 | PC 496 (A)
+1605-1196,05/18/16 11:27,M,B,01/28/1985,"R60/RIS - Richmond Station, 1700 Nevin Ave, RICHMOND, CA 94801",PC 1203.2 | PC 182 | PC 459 | PC 466 | PC 496 (A)
+1605-1219,05/18/16 19:05,M,W,05/22/1979,"M40/CCS - Civic Center Station, 1150 MARKET ST, San Francisco, CA 94102",HS 11377 (A) | PC 640 (c)(1) | PC 836
+1605-1244,05/19/16 04:45,M,B,03/25/1991,"K20/NSS - 19th St. Station, 1900 BROADWAY, Oakland, CA 94612",PC 148 (A)(1) | PC 290.011 (A)
+1605-1254,05/19/16 08:02,M,B,04/04/1964,"M40/CCS - Civic Center Station, 1150 Market St, SAN FRANCISCO, CA 94102",PC O/S War F | BPD TT Adult Arrest Repo
+1605-1263,05/19/16 12:15,M,W,01/26/1992,"28601 Dixion St, HAYWARD, CA 94541",PC 369 I (A)
+1605-1267,05/19/16 16:58,M,B,02/22/1990,"A30/COS - Coliseum Station, 7200 San Leandro St, OAKLAND, CA 94621",PC 243 (D) | PC 245 (A)(1)
+1605-1326,05/20/16 12:41,M,W,09/25/1961,"R50/CNS - El Cerrito Del Norte Station, 6400 Cutting Blvd, Not Applicable, CA 94530",PC 314.1 | PC O/S War M
+1605-1330,05/20/16 14:28,M,B,08/26/1962,"M30/PPS - Powell St. Station, 899 Market St., San Francisco, CA 94102",PC O/S War M
+1605-1339,05/20/16 17:24,M,W,03/26/1962,"M30/PPS - Powell St. Station, 899 MARKET ST, San Francisco, CA 94103",PC O/S War M
+1605-1347,05/20/16 20:26,M,W,09/14/1988,"1 Train Incident, Concord, CA 94520",PC O/S War M | BPD TT Adult Arrest Repo
+1605-1355,05/20/16 23:07,M,W,07/07/1995,"C60/CDS - Concord Station, 1451 Oakland Ave, Concord, CA 94518",PC O/S War M
+1605-1400,05/21/16 20:42,M,B,02/04/1989,"M40/CCS - Civic Center Station, 1150 MARKET ST, San Francisco, CA 94102",PC O/S War F
+1605-1402,05/21/16 22:00,M,B,02/11/1967,"C80/PBS - Pittsburg/Bay Point Station, 1700 W Leland Rd, PITTSBURG, CA 94565",PC 647 (f)
+1605-1405,05/21/16 22:15,M,W,08/01/1994,"C40/WCS - Walnut Creek Station, 200 Ygnacio Valley Rd, WALNUT CREEK, CA 94596",PC 647 (F)
+1605-1413,05/22/16 08:29,M,B,04/05/1980,"A10/LMS - Lake Merritt Station, 800 MADISON ST, OAKLAND, CA 94607",HS 11364.1 (A)
+1605-1422,05/22/16 11:13,M,B,11/08/1970,"C60/CDS - Concord Station, 1451 OAKLAND AVE. Concond, CA 94518",PC 1203.2(a)
+1605-1449,05/23/16 00:06,M,B,11/08/1970,"C40/WCS - Walnut Creek Station, 200 Ygnacio Valley Rd., Walnut Creek, CA 94596",PC 166 (a)(4) | PC 647 (f) | BPD TT Adult Arrest Repo
+1605-1465,05/23/16 07:42,M,W,12/25/1981,"C70/CMS - North Concord Station, 3700 Port Chicago Hwy, Concord, CA 94519",PC 148.9(A) | PC 496 (A) | VC 10852
+1605-1474,05/23/16 10:15,M,W,11/29/1988,"R40/CPS - El Cerrito Plaza Station, 6699 Fairmont Avenue, El Cerrito, CA 94530",PC O/S War M
+1605-1514,05/23/16 19:10,F,B,12/24/1968,"A10/LMS - Lake Merritt Station, 800 Madison St, OAKLAND, CA 94607",PC 647 (f)
+1605-1517,05/23/16 20:21,M,B,05/23/1988,"R50/CNS - El Cerrito Del Norte Station, 6400 Cutting Blvd, EL CERRITO, CA 94530",HS 11357 (C) | PC 148 (A)(1) | VC 14601.1(A)
+1605-1530,05/24/16 00:56,M,B,01/02/1966,"C80/PBS - Pittsburg Station, 1700 W Leland Rd, PITTSBURG, CA 94565",PC 422
+1605-1531,05/24/16 01:21,M,H,11/03/1950,"200 Rollins Rd, MILLBRAE, CA 94030",PC 243.35(a) | BPD TT Adult Arrest Repo
+1605-1573,05/24/16 10:41,M,B,10/22/1992,"A10/LMS - Lake Merritt Station, 800 Madison St, Oakland, CA 94607",PC 1203.2 | PC 417 (A)(1)
+1605-1624,05/24/16 23:12,M,B,11/08/1970,"1 TRAIN INCIDENT, SAN FRANCISCO, CA 94121",PC 166 (a)(4) | PC O/S War M
+1605-1639,05/25/16 07:20,F,B,04/23/1985,"M16/EMS - Embarcadero Station, 298 Market St, SAN FRANCISCO, CA 94111",PC 148 (A) | PC 243 (B) | PC 640 (c)(1) | PC 640 (d)(1)
+1605-1659,05/25/16 10:05,M,B,04/15/1970,"M30/PPS - Powell St. Station, 899 Market St, SAN FRANCISCO, CA 94103",PC 640 (d) (4) | PC O/S War M
+1605-1667,05/25/16 10:32,M,B,12/31/1996,"M30/PPS - Powell St. Station, 899 Market St, SAN FRANCISCO, CA 94103",PC 21810
+1605-1666,05/25/16 11:00,M,B,12/16/1985,"A10/LMS - Lake Merritt Station, 800 Madison St, Oakland, CA 94607",PC 290.011 (A) | BPD TT Adult Arrest Repo
+1605-1666,05/25/16 11:21,M,B,12/16/1985,"A10/LMS - Lake Merritt Station, 800 Madison St, Oakland, CA 94607",PC O/S War M
+1605-1682,05/25/16 16:24,M,B,09/26/1970,"R50/CNS - El Cerrito Del Norte Station, 6400 Cutting Blvd, EL CERRITO, CA 94530",PC O/S War M
+1605-1713,05/26/16 05:21,M,B,02/09/1973,"R50/CNS - El Cerrito Del Norte Station, 6400 Cutting Blvd, EL CERRITO, CA 94530",PC O/S War M
+1605-1743,05/26/16 13:37,M,B,07/05/1995,"M40/CCS - Civic Center Station, 1150 Market St, SAN FRANCISCO, CA 94102",HS 11350 (A) | PC O/S War M
+1605-1754,05/26/16 19:07,M,W,05/15/1995,"C40/WCS - Walnut Creek Station, 200 Ygnacio Valley Rd, WALNUT CREEK, CA 94596",PC Bart War M
+1605-1771,05/27/16 04:53,M,W,11/29/1977,"W30/SBS - San Bruno Station, 1151 HUNTINGTON AVE, San Bruno, CA 94066",PC O/S War M
+1605-1650,05/27/16 08:44,M,B,08/19/1974,"K20/NSS - 19th St. Station, 1900 Broadway, OAKLAND, CA 94612",PC 245.2 | BPD TT Adult Arrest Repo
+1605-1787,05/27/16 11:45,M,O,03/12/1989,"M30/PPS - Powell St. Station, 899 MARKET ST, San Francisco, CA 94103",PC 148.9(A) | PC 640 (c)(1)
+1605-1793,05/27/16 12:45,M,B,08/01/1967,"M40/CCS - Civic Center Station, 1150 Market St, SAN FRANCISCO, CA 94102",PC 166 (a) (4) | PC O/S War M
+1605-1797,05/27/16 13:30,M,B,03/04/1993,"C80/PBS - Pittsburg Station, 1700 W Leland Rd, Pittsburg, CA 94565",PC O/S War M
+1605-1822,05/27/16 18:45,M,B,06/17/1993,"A50/BFS - Bay Fair Station, 15242 Hesperian Blvd, SAN LEANDRO, CA 94578",PC Bart War M
+1605-1829,05/27/16 19:21,M,B,06/20/1971,"A90/FMS - Fremont Station, 2000 Bart Way, FREMONT, CA 94536",PC O/S War F
+1605-1833,05/27/16 21:56,M,H,09/04/1983,"L30/EDS - Dublin/Pleasanton, 5801 Owens Dr. PLEASANTON, CA 94588",PC 647 (F) | BPD TT Adult Arrest Repo
+1605-1851,05/28/16 07:15,M,B,03/31/1986,"C60/CDS - Concord Station, 1451 Oakland Ave, Concord, CA 94518",PC 148 (A)(1) | PC 243.35(a) | PC 422
+1605-1906,05/29/16 00:35,M,W,11/22/1973,"3601 Deer Hill Rd, LAFAYETTE, CA 94549",PC 148 (A)(1) | PC 647 (f)
+1605-1912,05/29/16 08:30,M,S,05/30/1974,"A50/BFS - Bay Fair Station, 15242 Hesperian Blvd, SAN LEANDRO, CA 94578",PC 647 (f)
+1605-1941,05/29/16 18:21,F,B,09/08/1988,"3301 Norbridge Ave, CASTRO VALLEY, CA 94546",PC 243.35(a)
+1605-1949,05/29/16 22:14,M,B,03/24/1960,"R50/CNS - El Cerrito Del Norte Station, 6400 Cutting Blvd, EL CERRITO, CA 94530",
+1605-1967,05/30/16 11:51,M,B,10/08/1991,"A30/COS - Coliseum Station, 7200 San Leandro St, OAKLAND, CA 94621",PC 1203.2 | PC 422 | BPD TT Adult Arrest Repo
+1605-1977,05/30/16 14:45,M,B,12/17/1985,"A60/HAS - Hayward Station, 699 B St, HAYWARD, CA 94541",HS 11350 (A) | HS 11364 (a) | HS 11377 (B) | PC 466 | VC 10851 (A)
+1605-1987,05/30/16 19:02,M,H,08/17/1967,"L10/CVS - Castro Valley Station, 3301 Norbridge Ave, CASTRO VALLEY, CA 94546",PC 1203.2 | PC 148 (A)(1)
+1604-2024,05/31/16 08:44,M,,10/08/1991,"H10/OCO - Coliseum Station,",HS 11377 (A) | PC 1203.2
+1605-2030,05/31/16 08:49,M,B,08/07/1957,"K20/NSS - 19th St. Station, 1900 Broadway, OAKLAND, CA 94612",PC O/S War M
+1605-2039,05/31/16 11:00,M,O,01/11/1974,"A90/FMS - Fremont Station, 2000 Bart Way, FREMONT, CA 94536",PC 166 (a) (4)
+1605-2046,05/31/16 12:10,F,B,02/16/1994,"C80/PBS - Pittsburg Station, 1700 W Leland Rd, PITTSBURG, CA 94565",PC 148 (A)(1) | PC 241 (B) | BPD TT Adult Arrest Repo
+1605-2064,05/31/16 17:16,M,B,07/19/1968,"C70/CMS - North Concord Station, 3700 Port Chicago Hwy, Concord, CA 94519",PC 166 (a)(4)
+1605-2062,05/31/16 17:35,M,W,04/16/1972,"M40/CCS - Civic Center Station, 1150 MARKET ST, San Francisco, CA 94102",PC 148.9(A) | PC 640 (c)(1) | PC O/S War M
+1605-2063,05/31/16 17:45,M,B,04/19/1970,"K30/MAS - MacArthur Station, 550 40TH ST, OAKLAND, CA 94609",HS 11364.1 (A) | HS 11377 (A) | PC 243.3
+1605-2085,05/31/16 21:54,M,W,09/27/1989,"23500 L LINE MILEPOST 23.5, PLEASANTON, CA 94588",PC 369 I (A)
+1605-2083,05/31/16 21:59,F,W,02/20/1988,"C40/WCS - Walnut Creek Station, 200 Ygnacio Valley Rd, WALNUT CREEK, CA 94596",PC O/S War M
+1606-0002,06/01/16 01:00,M,W,10/18/1960,"M30/PPS - Powell St. Station, 899 Market St, SAN FRANCISCO, CA 94103",PC 369 I (B) | BPD TT Adult Arrest Repo
+1606-0015,06/01/16 05:37,M,,04/13/1989,"K30/MAS - MacArthur Station, 550 40TH ST, Oakland, CA 94609",PC 1203.2 | PC 314.1
+1606-0018,06/01/16 06:03,M,B,01/12/1960,"K30/MAS - MacArthur Station, 550 40th St, OAKLAND, CA 94609",PC 647 (f)
+1606-0025,06/01/16 08:25,M,B,08/21/1974,"R60/RIS - Richmond Station, 1700 Nevin Ave, RICHMOND, CA 94801",PC 640 (d)(3)
+1606-0029,06/01/16 10:03,F,H,08/01/1987,"M90/DCS - Daly City Station, 500 John Daly Blvd, DALY CITY, CA 94014",PC 415 (3)
+1606-0103,06/02/16 08:10,M,H,03/15/1992,"M40/CCS - Civic Center Station, 1150 Market St, SAN FRANCISCO. CA 94102",PC 640 (c)(1) | PC Bart War M
+1606-0113,06/02/16 08:24,F,B,12/23/1989,"A10/LMS - Lake Merritt Station, 800 MADISON ST, OAKLAND, CA 94607",HS 11377 (B) | PC Bart War M | BPD TT Adult Arrest Repo
+1606-0110,06/02/16 08:30,F,H,01/08/1997,"M30/PPS - Powell St. Station, 899 Market St, SAN FRANCISCO, CA 94103",PC 148 (A)(1) | PC 148.9(A)
+1606-0130,06/02/16 13:10,M,H,11/10/1992,"A50/BFS - Bay Fair Station, 15242 Hesperian Blvd, San Leandro, CA 94579",PC 647 (a)
+1606-0142,06/02/16 18:20,M,W,08/07/1958,"M10/OWS - West Oakland Station, 1451 7th St, OAKLAND, CA 94607",PC O/S War M
+1606-0171,06/03/16 08:52,M,H,11/13/1986,"A20/FVS - Fruitvale Station, 3401 E 12th St, OAKLAND, CA 94601",PC 148 (A)(1) | PC 29800 (b) | PC 529 | PC 69
+1606-0173,06/03/16 09:55,M,W,04/25/1968,"M40/CCS - Civic Center Station, 1150 MARKET ST, San Francisco, CA 94102",PC 369 I (A)
+1606-0186,06/03/16 16:50,M,W,06/29/1954,"C80/PBS - Pittsburg Station, 1700 W. Leland Road, Pittsburg, CA 94565",PC 148 (A)(1) | PC 647 (f) | PC O/S War M | BPD TT Adult Arrest Repo
+1601-2711,01/18/16 22:18,M,B,11/15/1958,"R20/BES - Berkeley Station, 2160 Shattuck AVENUE, Berkeley, CA 94608","PC 1203.2(a) | PC 148 (A)(1) | PC 243 (B) | PC 647 (f) | PC; Violation of Probation/Probation Re-Arrest | PC; Willfully Resists, Delays, or Obstructs Public, Peace Of | PC; Battery On Peace Officer/Emergency Personnel/Etc | PC; Disorderly Conduct:Intoxicated in Public"
+1601-2712,01/18/16 23:16,M,H,03/12/1983,"BFS - A50 BAYFAIR Sta, CA",PC 640 (d) (3) | PC; Public Transportation: Urinating/Defecating
+1601-2716,01/19/16 03:00,M,B,10/24/1950,"W40-MBS - Millbrae Station, 200 North Rollins ROAD, Millbrae, CA",FTA: PC; Illegal Lodging | FTA: PC; Obstruct/Resist Executive Officer | PC; Outside Warrant F | PC O/S War F
+1601-2721,01/19/16 07:30,F,B,01/13/1986,"C60/CDS - Concord Station, 1451 Oakland AVENUE, Concord, CA 94518",
+1601-2729,01/19/16 09:53,M,B,09/27/1988,"R50/CNS - El Cerrito Del Norte Station, 6400 Cutting BI, El Cerrito, CA","HS 11357 (B) | HS 11377 (A) | PC 148 (A)(1) | FTA: VC; Dui Alcohol/Drugs | HS; Possess Marijuana 28.5 Grams or Less | HS; Possess Controlled Substance | PC; Willfully Resists, Delays, or Obstructs Public, Peace Of | BPD TT Adult Arrest Repo"
+1601-2737,01/19/16 13:15,M,O,07/27/1961,"L30/EDS - Dublin/Pleasanton, 5801 Owens DRIVE, Pleasanton, CA 94566",PC 166 (a)(4) | PC; Contempt of Court
+1601-2738,01/19/16 13:20,M,W,10/22/1988,"K10/TSS - 12th St. Station, 1247 Broadway, Oakland, CA 94608",HS 11364.1 (A) | PC 640 (c)(1) | HS; Possess Unlawful Paraphrenailia | PC; Public Transportation: Evade Payment of Fare
+1601-2747,01/19/16 18:33,M,B,08/09/1972,"C40/WCS - Walnut Creek Station, 200 Ygnacio Valley ROAD, Walnut Creek, CA 94596",PC 647 (f) | PC; Disorderly Conduct:Intoxicated in Public
+1601-2754,01/19/16 20:11,M,H,05/20/1951,"M30/PPS - Powell St. Station, 899 Market STREET, San Francisco, CA 94102",PC 245 (A)(1) | PC 25400(a)(2) | PC; Adw Or Gbi Force:Not Firearm | PC; Carry Concealed Weapon On Person
+1601-2769,01/20/16 11:07,M,B,07/27/1971,"K10/TSS - 12th St. Station, 1247 Broadway, Oakland, CA 94608",PC; Public Transportation: Evade Payment of Fare | PC; Outside Warrant F | PC 640 (c)(1) | PC O/S War F
+1601-2772,01/20/16 12:30,M,B,04/24/1984,"K30/MAS - MacArthur Station, 550 40th STREET, Oakland, CA",FTA: PC; Petty Theft Under $50 Without Prior | BPD TT Adult Arrest Repo
+1606-0193,06/03/16 21:05,M,O,08/30/1989,"C60/CDS - Concord Station, 1451 Oakland Ave, CA 94520",PC 369 I (B)
+1606-0225,06/04/16 00:00,M,B,06/21/1984,"M30/PPS - Powell St. Station, 899 Market St, SAN FRANCISCO, CA 94103",PC 640 (d)(3)
+1606-0212,06/04/16 09:35,M,B,05/23/1948,"R10/AHS - Ashby Station, 3100 Adeline St, BERKELEY, CA 94703","R10/AHS - Ashby Station, 3100 Adeline St, BERKELEY, CA 94703 | PC 148 (A)(1)"
+1606-0257,06/05/16 10:50,F,W,03/04/1963,"C80/PBS - Pittsburg Station, 1700 W Leland Rd, PITTSBURG, CA 94565",PC 647 (f)
+1606-0260,06/05/16 13:08,M,H,06/16/1997,"R20/BES - Berkeley Station, 2160 Shattuck Ave, BERKELEY, CA 94704",PC 211
+1606-0273,06/05/16 18:54,M,B,12/19/1988,"C60/CDS - Concord Station, 1451 Oakland Ave. Concord, CA 94518",HS 11364 (a) | PC 1203.2(a)
+1606-0277,06/05/16 20:25,M,W,12/11/1983,"A80/UCS - Union City Station, 10 Union Square, Union City, CA 94587",BPD TT Adult Arrest Repo
+1606-0285,06/06/16 00:30,M,W,10/23/1968,"M30/PPS - Powell St. Station, 899 Market STREET, San Francisco, CA 94103",PC 148 (A)(1) | PC 640 (d)(4)
+1606-0296,06/06/16 07:28,M,O,08/10/1977,"A10/LMS - Lake Merritt Station, 800 MADISON ST, OAKLAND, CA 94607",PC 148 (A)(1) | PC 481.1(B) | PC O/S War M
+1606-0326,06/06/16 16:13,M,W,02/15/1994,"L30/EDS - Dublin/Pleasanton, 5801 Owens Dr, PLEASANTON, CA 94588",PC 466
+1606-0328,06/06/16 16:27,M,B,03/17/1993,"A50/BFS - Bay Fair Station, 15242 Hesperian Blvd, SAN LEANDRO, CA 94578",PC 813
+1606-0330,06/06/16 18:13,M,B,04/17/1980,"M30/PPS - Powell St. Station, 899 MARKET ST, San Francisco, CA 94103",HS 11364.1 (A)
+1606-0375,06/07/16 09:51,M,B,10/19/1964,"M30/PPS - Powell St. Station, 899 MARKET ST, San Francisco, CA 94103",PC 422 | BPD TT Adult Arrest Repo
+1606-0389,06/07/16 15:48,M,B,10/20/1954,"K10/TSS - 12th St. Station, 1247 Broadway, Oakland, CA 94612",PC 166 (a)(4) | PC O/S War M
+1606-0409,06/07/16 19:00,M,B,11/08/1970,"1 Train Incident, SAN FRANCISCO, CA 94121",HS 11364.1 (A) | PC 166 (a)(4)
+1606-0442,06/08/16 08:59,F,B,05/06/1966,"M20/MOS - Montgomery St. Station, 598 Market St, SAN FRANCISCO, CA 94105",PC Bart War M | PC O/S War M
+1606-0450,06/08/16 10:49,M,B,05/12/1973,"C60/CDS - Concord Station, 1451 Oakland Ave, Concord, CA 94518",PC 166 (a) (4) | PC Bart War M | PC O/S War M
+1606-0451,06/08/16 11:10,F,H,04/22/1982,"M30/PPS - Powell St. Station, 899 Market St. SAN FRANCISCO. CA 94103",PC O/S War M
+1606-0477,06/08/16 19:57,M,B,12/04/1991,"C80/PBS - Pittsburg Station, 1700 W Leland Rd, PITTSBURG, CA 94565",PC 243.35(a) | BPD TT Adult Arrest Repo
+1606-0533,06/09/16 18:00,M,W,08/03/1975,"M10/OWS - West Oakland Station, 1451 7TH Street, oakland, CA 94607",PC 647 (f)
+1606-0562,06/10/16 04:58,M,W,09/13/1980,"C80/PBS - Pittsburg/Bay Point Station, 1700 W Leland Rd, Pittsburg, CA 94565",HS 11377 (A) | PC 1203.2 | PC 640 (c)(1)
+1606-0567,06/10/16 07:14,M,W,02/18/1985,"R20/BES - Berkeley Station, 2160 Shattuck Ave, BERKELEY, CA 94704",PC O/S War M
+1606-0606,06/10/16 19:09,M,W,09/01/1969,"C50/PHS - Pleasant Hill Station, 1365 Treat Blvd, WALNUT CREEK, CA 94597","C50/PHS - Pleasant Hill Station, 1365 Treat Blvd, WALNUT CREEK, CA 94597 | PC 1203.2 | PC 148 (A)(1) | PC 647 (f)"
+1606-0607,06/10/16 19:26,F,H,08/26/1996,"A90/FMS - Fremont Station, 2000 BART WAY, Fremont, CA 94536",PC O/S War M
+1606-0611,06/10/16 21:35,M,B,07/10/1988,"C40/WCS - Walnut Creek Station, 200 Ygnacio Valley Road, Walnut Creek, CA 94596",PC 647 (F) | BPD TT Adult Arrest Repo
+1606-0615,06/11/16 00:10,M,O,08/30/1989,"C60/CDS - Concord Station, 1451 Oakland Ave, Concord, CA 94520",PC 1203.2 | PC 148 (A)(1) | PC 369 I (B)
+1606-0618,06/11/16 02:02,M,B,03/24/1960,"R50/CNS - El Cerrito Del Norte Station, 6400 Cutting Blvd., El Cerrito, CA 94530",PC 647 (f) | PC O/S War M
+1606-0623,06/11/16 07:42,M,W,04/25/1992,"C40/WCS - Walnut Creek Station, 200 Ygnacio Valley Rd, CA 94596",PC O/S War F
+1606-0691,06/12/16 09:00,M,B,04/05/1980,"W30/SBS - San Bruno Station, 200 ROLLINS RD, MILLBRAE, CA 94030",HS 11364.1 (A) | PC 166 (a)(4) | PC 487
+1606-0692,06/12/16 09:40,F,B,03/21/1990,"M30/PPS - Powell St. Station, 899 MARKET ST, San Francisco, CA 94103",PC O/S War M
+1606-0708,06/12/16 15:45,M,B,04/28/1975,"M30/PPS - Powell St. Station, 899 Market St., SAN FRANCISCO, CA 94102",PC 166 (a)(4) | BPD TT Adult Arrest Repo
+1606-0706,06/12/16 16:00,M,H,09/22/1976,"M80/BPS - Balboa Park Station, 401 Geneva Ave, SAN FRANCISCO, CA 94112","M80/BPS - Balboa Park Station, 401 Geneva Ave, SAN FRANCISCO, CA 94112 | PC 243.3 | PC 417 (A)(1)"
+1606-0709,06/12/16 17:20,M,W,01/09/1979,"R10/AHS - Ashby Station, 3100 Adeline St., Berkeley, CA 94703","R10/AHS - Ashby Station, 3100 Adeline St., Berkeley, CA 94703 | PC O/S War M"
+1606-0726,06/12/16 21:58,M,B,03/07/1988,"A50/BFS - Bay Fair Station, 15242 Hesperian Blvd, SAN LEANDRO, CA 94578",PC 647 (f) | PC O/S War M
+1606-0739,06/13/16 07:07,F,B,04/21/1987,"C80/PBS - Pittsburg Station, 1700 W Leland Rd, PITTSBURG, CA 94565",PC 1203.2 | PC 148 (A)(1) | PC 243.3 | PC 69
+1606-0801,06/14/16 08:15,M,B,05/25/1990,"M30/PPS - Powell St. Station, 899 Market St, SAN FRANCISCO, CA 94103",PC 369 I (B)
+1606-0834,06/14/16 16:28,M,W,09/04/1997,"A60/HAS - Hayward Station, 699 B ST, HAYWARD, CA 94541",PC O/S War F | BPD TT Adult Arrest Repo
+1606-0858,06/14/16 20:25,M,H,07/01/1986,"A20/FVS - Fruitvale Station, 3401 12th St, OAKLAND, CA 94601",PC 243.3
+1606-0859,06/14/16 20:32,M,B,11/05/1970,"1 TRAIN INCIDENT, SAN FRANCISCO, CA 94121",PC 647 (f) | PC O/S War F
+1606-0860,06/14/16 21:21,M,B,01/24/1995,"M16/EMS - Embarcadero Station, 298 MARKET ST, San Francisco, CA 94111",PC O/S War M
+1606-0865,06/14/16 22:20,F,W,12/13/1996,"W40/MBS - Millbrae Station, 200 Rollins Rd, MILLBRAE, CA 94030",PC 243 (e)(1) | PC 647 (f)
+1606-0865,06/14/16 22:30,M,W,09/08/1990,"W40/MBS - Millbrae Station, 200 Rollins Rd, MILLBRAE, CA 94030",PC 243 (e)(1) | PC 647 (f)
+1606-0874,06/15/16 06:24,M,O,08/10/1977,"M30/PPS - Powell St. Station, 899 Market St, SAN FRANCISCO, CA 94103",PC 481.1(B) | BPD TT Adult Arrest Repo
+1606-0883,06/15/16 08:29,M,B,09/13/1997,"K10/TSS - 12th St/Oakland Station, 1245 Broadway, OAKLAND, CA 94612",PC 211 | PC 664
+1606-0913,06/15/16 19:08,F,B,09/14/1993,"A10/LMS - Lake Merritt Station, 800 MADISON ST, OAKLAND, CA 94607",PC 148 (A) | PC 243 (B)
+1606-0913,06/15/16 19:08,M,B,03/03/1994,"A10/LMS - Lake Merritt Station, 800 MADISON ST, OAKLAND, CA 94607",PC 148 (A)(1)
+1606-0950,06/16/16 09:23,F,W,11/02/1989,"C60/CDS - Concord Station, 1451 OAKLAND AVE, Concord, CA 94518",PC O/S War F
+1606-0980,06/16/16 16:56,M,H,10/10/1976,"Millbrae BART STation, Millbrae, CA 94015",HS 11350 (A) | PC 647 (f) | BPD TT Adult Arrest Repo
+1606-0987,06/16/16 19:17,M,W,10/11/1995,"C60/CDS - Concord Station, 1451 Oakland Ave, CA 94520",PC 148 (A)(1) | PC 148.9(A) | PC 466
+1606-1017,06/17/16 11:34,M,O,11/25/1983,"C10/ROS - Rockridge Station, 5660 College Ave, OAKLAND, CA 94618",PC 148 (A)(1) | PC 647 (f)
+1606-1044,06/17/16 18:15,M,W,07/23/1979,"C60/CDS - Concord Station, 1451 Oakland Ave, Concord, CA 94520",PC O/S War M
+1606-1056,06/17/16 21:52,M,W,06/26/1984,"C60/CDS - Concord Station, 1451 Oakland Avenue, Concord, CA 94520",PC O/S War M
+1606-0643,06/18/16 11:00,F,W,09/12/1949,"C60/CDS - Concord Station, 1451 OAKLAND AVE, CA 94518",PC 640 (D)(3)
+1606-1087,06/18/16 13:06,M,O,11/20/1981,"K30/MAS - MacArthur Station, 550 40TH ST, OAKLAND, CA 94609",PC 647 (F) | BPD TT Adult Arrest Repo
+1606-1096,06/18/16 15:05,M,B,07/12/1993,"M30/PPS - Powell St. Station, 899 Market St, SAN FRANCISCO, CA 94103",PC 148 (A)(1)
+1606-1098,06/18/16 16:31,M,W,08/25/1958,"M90/DCS - Daly City Station, 500 John Daly Blvd, DALY CITY, CA 94014",PC 369 | PC 369 I (A)
+1606-1107,06/18/16 19:45,M,H,03/08/1979,"A30/COS - Coliseum Station, 7200 SAN LEANDRO ST, Oakland, CA 94621",PC 1203.2 | PC 459 | PC 647 (f) | PC O/S War M
+1606-1109,06/18/16 20:26,M,W,08/01/1960,"A40/SLS - San Leandro Station, 1401 San Leandro Blvd, SAN LEANDRO, CA 94577",PC 647 (f)
+1606-1121,06/19/16 01:10,M,H,03/13/1988,"A60/HAS - Hayward Station, 699 B ST, HAYWARD, CA 94541",PC 647 (f)
+1606-1127,06/19/16 05:22,M,H,12/21/1988,"R60/RIS - Richmond Station, 1700 Nevin Ave, RICHMOND, CA 94801",PC 369 I (A) | BPD TT Adult Arrest Repo
