@@ -3,6 +3,14 @@
 We are interested in knowing more about BART police's arrest data following a smug comment
 made by a BART board member on Twitter. Do we decided to do a public records request for it.
 
+```
+Last night on Twitter a board member, Nick Josefowitz stated: 
+
+"Using data, better analysis, and new strategies, @SFBART police were able to increase arrests by 40% year over year. We need this approach at SFPD, and as Supervisor I intend to make accountability and modern police tactics paramount. #NoMoreExcuses"
+
+https://twitter.com/josefow/status/979069932896997376?s=21
+```
+
 # California Public Records Act Request
 
 Below is the exact CPRA request we sent to BART:
