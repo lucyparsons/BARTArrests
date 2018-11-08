@@ -29,8 +29,8 @@ Therefore, under  to the California Record Act, I am requesting:
 For the years between 2012-2017 (the full calendar year beginning Jan 1 to Dec 31st) I request the record for each year:
 
 * Records sufficient to show the number of arrests on BART
-* Records sufficient to show the race of an an individual or individuals arrested.
-* Records sufficient to show the charges against an an individual or individuals arrested.
+* Records sufficient to show the race of an individual or individuals arrested.
+* Records sufficient to show the charges against an individual or individuals arrested.
 * For a given arrest, the unique case number referred for prosecution.
 * (If known) the outcome of each case
 
